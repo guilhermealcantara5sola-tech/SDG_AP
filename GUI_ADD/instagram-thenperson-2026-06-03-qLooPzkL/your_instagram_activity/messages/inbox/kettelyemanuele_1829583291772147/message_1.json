@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Kettely Emanuele \u00e2\u009c\u00a6"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kettely Emanuele \u00e2\u009c\u00a6",
+      "timestamp_ms": 1767628932001,
+      "content": "Bom dia. \u00c3\u0089 do Social Eats",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767526633347,
+      "content": "De onde esse ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758030979635,
+      "content": "Fotao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kettely Emanuele \u00e2\u009c\u00a6",
+  "is_still_participant": true,
+  "thread_path": "inbox/kettelyemanuele_1829583291772147",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Tarcisio"
+    },
+    {
+      "name": "Carlos Eduardo Ferreira"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carlos Eduardo Ferreira",
+      "timestamp_ms": 1778928977752,
+      "content": "Carlos enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYNnMOdxoyU/?id=3894941616724937876_2513858749",
+        "share_text": "Don\u00e2\u0080\u0099t Cry Solo na VIOLA \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7\n\n#violacaipira",
+        "original_content_owner": "omagodaviola"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tarcisio",
+      "timestamp_ms": 1778422718757,
+      "content": "tarcisinhuu liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778418179758,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Tarcisio"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DXrEVURDUUv/?id=3885218160593159471_175131079",
+        "share_text": "3 anos. \nQuem lembra? \nEle n\u00c3\u00a3o conhecia a m\u00c3\u00basica, pedimos s\u00c3\u00b3 a batida, enquanto o pai fazia as notas.  Notem o olhar atento dele em mim, ele fazia o ritmo conforme eu cantava!\n\nEstamos tentando regravar essa m\u00c3\u00basica atualmente com ele. Acreditem, est\u00c3\u00a1 mais dif\u00c3\u00adcil \u00f0\u009f\u0098\u0085 \n\nVoltaremos!",
+        "original_content_owner": "marianatamiossoficial_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tarcisio and Carlos Eduardo Ferreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/tarcisioandcarloseduardoferreira_1975448853332339",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbZqy_QQg4dCV6ZE/"
+  }
+}

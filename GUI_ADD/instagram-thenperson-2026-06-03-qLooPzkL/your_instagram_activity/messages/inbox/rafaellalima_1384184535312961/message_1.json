@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Rafaella Lima"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772325675017,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772325673796,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764884061514,
+      "content": "\u00f0\u009f\u0098\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafaella Lima",
+      "timestamp_ms": 1764882383347,
+      "content": "Obrigada dindin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafaella Lima",
+      "timestamp_ms": 1764882382814,
+      "content": "Rafaella enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafaella Lima",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafaellalima_1384184535312961",
+  "magic_words": [
+    
+  ]
+}

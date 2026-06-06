@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Cardoso Simoes"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigo Cardoso Simoes",
+      "timestamp_ms": 1767021037249,
+      "content": "Tenho esse pra vender original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Cardoso Simoes",
+      "timestamp_ms": 1767021024536,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigocardososimoes_1926835408713601/photos/2376470826202876.jpg",
+          "creation_timestamp": 1767021019
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigocardososimoes_1926835408713601/photos/1966473237582956.jpg",
+          "creation_timestamp": 1767021019
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigocardososimoes_1926835408713601/photos/794654380251883.jpg",
+          "creation_timestamp": 1767021020
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigocardososimoes_1926835408713601/photos/4349336842057301.jpg",
+          "creation_timestamp": 1767021021
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Cardoso Simoes",
+      "timestamp_ms": 1767021001437,
+      "content": "Mas esse \u00c3\u00a9 paralelo n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767010170531,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigocardososimoes_1926835408713601/photos/845471204856697.jpg",
+          "creation_timestamp": 1767010168
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Cardoso Simoes",
+      "timestamp_ms": 1767001187413,
+      "content": "Olha quanto t\u00c3\u00a1 valendo um xiaomi 14T 256gb usado a\u00c3\u00ad no brasa ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Cardoso Simoes",
+      "timestamp_ms": 1767001159461,
+      "content": "Blz mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766857881735,
+      "content": "Tudo na paz ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766857877585,
+      "content": "Fala rodrigao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Cardoso Simoes",
+      "timestamp_ms": 1766848509777,
+      "content": "Blz pura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Cardoso Simoes",
+      "timestamp_ms": 1766848507214,
+      "content": "Fala mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo Cardoso Simoes",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodrigocardososimoes_1926835408713601",
+  "magic_words": [
+    
+  ]
+}

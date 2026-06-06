@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Vancarlos Ruas"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vancarlos Ruas",
+      "timestamp_ms": 1758296533603,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/vancarlosruas_837517627645390/audio/793346699771153.mp4",
+          "creation_timestamp": 1758296530
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758296166101,
+      "content": "Sempre que vejo ele, lembro de vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758296148084,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DOTv_4Njlrw/?id=3716525215380822768_55650742382",
+        "share_text": "Logo de manh\u00c3\u00a3",
+        "original_content_owner": "paidogarel"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vancarlos Ruas",
+  "is_still_participant": true,
+  "thread_path": "inbox/vancarlosruas_837517627645390",
+  "magic_words": [
+    
+  ]
+}

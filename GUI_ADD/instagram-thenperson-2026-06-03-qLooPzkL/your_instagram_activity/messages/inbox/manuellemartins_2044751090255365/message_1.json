@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Manuelle Martins"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manuelle Martins",
+      "timestamp_ms": 1777067115013,
+      "content": "Estou com a reserva \nObrigada!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuelle Martins",
+      "timestamp_ms": 1777067104247,
+      "content": "Amanh\u00c3\u00a3 eu pego com vcs \u00f0\u009f\u0099\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777066972268,
+      "content": "Mas imaginei que fosse do menino que trabalha l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777066960053,
+      "content": "Eu vi uma chave l\u00c3\u00a1 msm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777066931835,
+      "content": "Boa noite. (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777066920038,
+      "content": "Boa noite. Ficou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuelle Martins",
+      "timestamp_ms": 1777065243036,
+      "content": "Pode conferir pra mim se n\u00c3\u00a3o ficou uma chave de uma moto na loja ?? Uma com chaveiro rosa !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuelle Martins",
+      "timestamp_ms": 1777065147937,
+      "content": "Oie boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manuelle Martins",
+  "is_still_participant": true,
+  "thread_path": "inbox/manuellemartins_2044751090255365",
+  "magic_words": [
+    
+  ]
+}

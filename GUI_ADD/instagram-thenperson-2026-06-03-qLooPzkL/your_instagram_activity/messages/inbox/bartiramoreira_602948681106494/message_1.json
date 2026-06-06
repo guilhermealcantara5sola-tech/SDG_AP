@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Bartira Moreira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bartira Moreira",
+      "timestamp_ms": 1756232813926,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756227878357,
+      "content": "Muito obg \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bartira Moreira"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bartira Moreira",
+      "timestamp_ms": 1756227178936,
+      "content": "Feliz anivers\u00c3\u00a1rio! Tudo de bom pra vc e sua fam\u00c3\u00adlia!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756227005203,
+      "content": "\u00f0\u009f\u00a5\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bartira Moreira",
+      "timestamp_ms": 1756226966779,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3707781105946625684"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bartira Moreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/bartiramoreira_602948681106494",
+  "magic_words": [
+    
+  ]
+}

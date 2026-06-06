@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Henrique."
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777329779027,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrique.",
+      "timestamp_ms": 1776039989543,
+      "content": "Voc\u00c3\u00aa consegue me ajudar em um ngc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrique.",
+      "timestamp_ms": 1776039975785,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Henrique.",
+  "is_still_participant": true,
+  "thread_path": "inbox/henrique_2033970514666756",
+  "magic_words": [
+    
+  ]
+}

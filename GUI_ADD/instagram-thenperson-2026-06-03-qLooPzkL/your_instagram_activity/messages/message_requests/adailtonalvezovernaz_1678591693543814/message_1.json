@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Adailton Alvez Overnaz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adailton Alvez Overnaz",
+      "timestamp_ms": 1754739696047,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adailton Alvez Overnaz",
+  "is_still_participant": true,
+  "thread_path": "message_requests/adailtonalvezovernaz_1678591693543814",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

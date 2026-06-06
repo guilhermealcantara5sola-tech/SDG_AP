@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Roque"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernando Roque",
+      "timestamp_ms": 1760469932980,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3743390761825165763"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759845839000,
+      "content": "Kkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Roque",
+      "timestamp_ms": 1759844694677,
+      "content": "\u00f0\u009f\u0096\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759842959400,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/fernandoroque_469493521114471/audio/1446005339807382.mp4",
+          "creation_timestamp": 1759842955
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Roque",
+      "timestamp_ms": 1759842935221,
+      "content": "Pra que postar isso? Sacanagem",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3738139275012460102"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando Roque",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandoroque_469493521114471",
+  "magic_words": [
+    
+  ]
+}

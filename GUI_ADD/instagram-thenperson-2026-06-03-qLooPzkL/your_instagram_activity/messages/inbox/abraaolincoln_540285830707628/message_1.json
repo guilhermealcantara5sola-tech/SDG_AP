@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Abra\u00c3\u00a3o Lincoln"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765320924953,
+      "content": "Se aprender errado  da trabalho pra concertar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765320910754,
+      "content": "\u00c3\u0089 muito detalhe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765320905002,
+      "content": "Da pra ir brincando, mas eu aconselho fazer aula",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abra\u00c3\u00a3o Lincoln",
+      "timestamp_ms": 1765316386911,
+      "content": "Fala meu amigo, boa tarde! \nComo funciona o t\u00c3\u00aanis a\u00c3\u00ad? \u00c3\u0089 aula? \nNunca pratiquei, mas tenho muita vontade de jogar",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3784052463486111877"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abra\u00c3\u00a3o Lincoln",
+  "is_still_participant": true,
+  "thread_path": "inbox/abraaolincoln_540285830707628",
+  "magic_words": [
+    
+  ]
+}

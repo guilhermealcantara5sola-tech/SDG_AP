@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "LIDERNetwork Tecnologia"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LIDERNetwork Tecnologia",
+      "timestamp_ms": 1774719288146,
+      "content": "Agradecemos a sua mensagem. Para atendimento mais qualificado e de r\u00c3\u00a1pida resposta porfavor entre em contato com a Central de Atendimento ao Cliente atrav\u00c3\u00a9s dos seguinte WhatsApp (83) 3142-2080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774719285824,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LIDERNetwork Tecnologia",
+  "is_still_participant": true,
+  "thread_path": "inbox/lidernetworktecnologia_2018088386254969",
+  "magic_words": [
+    
+  ]
+}

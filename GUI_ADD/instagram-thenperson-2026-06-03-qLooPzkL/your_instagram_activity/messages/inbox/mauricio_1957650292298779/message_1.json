@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Maur\u00c3\u00adcio"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769891397804,
+      "content": "Orelha e rabo por conta do comprador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769891375486,
+      "content": "1600 macho e 1950 f\u00c3\u00aamea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maur\u00c3\u00adcio",
+      "timestamp_ms": 1769891266765,
+      "content": "Valor?",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3822443955309020517"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maur\u00c3\u00adcio",
+  "is_still_participant": true,
+  "thread_path": "inbox/mauricio_1957650292298779",
+  "magic_words": [
+    
+  ]
+}

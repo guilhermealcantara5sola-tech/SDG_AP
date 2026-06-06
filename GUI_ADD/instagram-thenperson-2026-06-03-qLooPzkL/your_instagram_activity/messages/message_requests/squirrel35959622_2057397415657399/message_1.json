@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "squirrel.35959622"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "squirrel.35959622",
+      "timestamp_ms": 1778236560206,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "squirrel.35959622",
+      "timestamp_ms": 1778236559430,
+      "content": "Ol\u00c3\u00a1, sou o agente geral da PG Gaming Group em S\u00c3\u00a3o Paulo. Estamos contratando para a PG Gaming. Sal\u00c3\u00a1rio di\u00c3\u00a1rio: de 1.000 a 2.000 reais. Se tiver interesse, entre em contato clicando no bot\u00c3\u00a3o abaixo (esta conta \u00c3\u00a9 apenas para fins publicit\u00c3\u00a1rios e n\u00c3\u00a3o responderei a nenhuma mensagem). WhatsApp\u00ef\u00bc\u009a+556182313497",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "squirrel.35959622",
+  "is_still_participant": true,
+  "thread_path": "message_requests/squirrel35959622_2057397415657399",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

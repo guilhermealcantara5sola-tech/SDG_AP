@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Marilande"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marilande",
+      "timestamp_ms": 1759506045820,
+      "content": "Obrigada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759506037014,
+      "content": "33\u00c2\u00a099937\u00e2\u0080\u00914249\u00e2\u0080\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759506006627,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marilande",
+      "timestamp_ms": 1759503556944,
+      "content": "Mim passa o contato da loja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marilande",
+  "is_still_participant": true,
+  "thread_path": "inbox/marilande_1845604980169978",
+  "magic_words": [
+    
+  ]
+}

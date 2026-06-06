@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Jornal Destaque dos Vales"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jornal Destaque dos Vales",
+      "timestamp_ms": 1755372609085,
+      "content": "Jornal enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DNbXdDfRFj8/?id=3700654670495373564_4776839486",
+        "share_text": "O jornal Destaque dos Vales  lan\u00c3\u00a7a mais uma edi\u00c3\u00a7\u00c3\u00a3o impressa com 20 p\u00c3\u00a1ginas coloridas.\n\n\u00f0\u009f\u0093\u00b0H\u00c3\u00a1 12 anos, o Destaque dos Vales \u00c3\u00a9 reconhecido por sua credibilidade e respeito, um meio de comunica\u00c3\u00a7\u00c3\u00a3o que sempre compromete a trazer informa\u00c3\u00a7\u00c3\u00b5es dentro da verdade.\n\n\u00f0\u009f\u0093\u009a\u00f0\u009f\u0097\u009e\u00ef\u00b8\u008f\u00f0\u009f\u0092\u00ac",
+        "original_content_owner": "jornal_destaquedosvales"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jornal Destaque dos Vales",
+      "timestamp_ms": 1753443408637,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3683866343514369777"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jornal Destaque dos Vales",
+      "timestamp_ms": 1752434961624,
+      "content": "Confie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jornal Destaque dos Vales",
+      "timestamp_ms": 1752434958745,
+      "content": "Deus est\u00c3\u00a1 no controle \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jornal Destaque dos Vales",
+      "timestamp_ms": 1752434890544,
+      "content": "Uai pq essa sensibilidade ? \u00f0\u009f\u00a4\u0094",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3675815479956597453"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jornal Destaque dos Vales",
+  "is_still_participant": true,
+  "thread_path": "inbox/jornaldestaquedosvales_1772170064180137",
+  "magic_words": [
+    
+  ]
+}

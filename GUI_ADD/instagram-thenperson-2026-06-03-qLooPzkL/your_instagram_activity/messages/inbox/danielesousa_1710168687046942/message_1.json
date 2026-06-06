@@ -1,0 +1,126 @@
+{
+  "participants": [
+    {
+      "name": "Daniele Sousa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniele Sousa",
+      "timestamp_ms": 1778519300369,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778506690348,
+      "content": "Um dia maravilhoso pra vc",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Daniele Sousa"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniele Sousa",
+      "timestamp_ms": 1778506176117,
+      "content": "Meu candidato",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3894708423266699148"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniele Sousa",
+      "timestamp_ms": 1771954376952,
+      "content": "Um sonho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniele Sousa",
+      "timestamp_ms": 1771954372044,
+      "content": "Eu quero muito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771950510593,
+      "content": "Mas precisa querer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771950504670,
+      "content": "Fazemos sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniele Sousa",
+      "timestamp_ms": 1771948856943,
+      "content": "Quando eu for novamente em Almenara,vou a sua loja pra vc me hipnotizar!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3839693462447156792"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769088611698,
+      "content": "https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ",
+      "share": {
+        "link": "https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ",
+        "share_text": "https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769087295212,
+      "content": "Ei Dani, tudo bom?\n\n\nDurante anos, decidiram o Vale de fora pra dentro.\nAgora, \u00c3\u00a9 a nossa vez.\n\nEstou criando uma lista de transmiss\u00c3\u00a3o pra reunir pessoas que acreditam que o Vale pode ser melhor representado.\n\nPor l\u00c3\u00a1 eu compartilho conte\u00c3\u00bados postados no Instagram.\nE quando voc\u00c3\u00aa curte, comenta ou compartilha, essa ideia ganha for\u00c3\u00a7a e chega onde nunca chegou antes.\n\nQuem sabe, assim, a gente n\u00c3\u00a3o come\u00c3\u00a7a a mudar a hist\u00c3\u00b3ria do lugar onde a gente mora?\n\n\n\nAcesse este link para entrar na nossa comunidade do WhatsApp: https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniele Sousa",
+      "timestamp_ms": 1768592845266,
+      "content": "E eu tbm vou votar em vc",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3811394338489186801"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniele Sousa",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielesousa_1710168687046942",
+  "magic_words": [
+    
+  ]
+}

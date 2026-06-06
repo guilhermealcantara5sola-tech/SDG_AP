@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Irlandio vieira de souza"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766681641130,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irlandio vieira de souza",
+      "timestamp_ms": 1766680960922,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Irlandio vieira de souza",
+  "is_still_participant": true,
+  "thread_path": "inbox/irlandiovieiradesouza_1925340408863101",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Alexandre Coelho"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexandre Coelho",
+      "timestamp_ms": 1758625141998,
+      "content": "Vai ganhar",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3727939486945415340"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Coelho",
+      "timestamp_ms": 1758625138130,
+      "content": "Pra cima",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3727939486945415340"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alexandre Coelho",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexandrecoelho_510352870361869",
+  "magic_words": [
+    
+  ]
+}

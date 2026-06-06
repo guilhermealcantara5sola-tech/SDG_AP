@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Giovanna Alves"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753886796171,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/giovannaalves_576613267069162/audio/1321219776056332.mp4",
+          "creation_timestamp": 1753886792
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753886723465,
+      "content": "113",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giovanna Alves",
+      "timestamp_ms": 1753884342147,
+      "content": "Do iPhone 14 Pro original \u00c3\u00a9 o mesmo pre\u00c3\u00a7o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giovanna Alves",
+      "timestamp_ms": 1753884333720,
+      "content": "Vou pedir o moto boy pra levar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753784943165,
+      "content": "Troco sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753784932803,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giovanna Alves",
+      "timestamp_ms": 1753783041932,
+      "content": "O meu por enquanto, ainda \u00c3\u00a9 o 14\n\n\nInfelizmente n\u00c3\u00a3o teve jeito, tive que abrir, n\u00c3\u00a3o sabia\u00e2\u0080\u00a6\nMas n\u00c3\u00a3o rasguei a caixinha\nSer\u00c3\u00a1 se voc\u00c3\u00aa poderia trocar pra mim?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giovanna Alves",
+      "timestamp_ms": 1753782977540,
+      "content": "Ohhhh Thenperson,\nEu desatenta que sou, me referi ao tipo C falando da entrada da fonte, mas \u00c3\u00a9 o carregador do IPhone 15 \u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Giovanna Alves",
+  "is_still_participant": true,
+  "thread_path": "inbox/giovannaalves_576613267069162",
+  "magic_words": [
+    
+  ]
+}

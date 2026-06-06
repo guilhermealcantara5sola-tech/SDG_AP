@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Bautz Mann \u00e2\u0080\u00a3 JOIAS MASCULINAS"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bautz Mann \u00e2\u0080\u00a3 JOIAS MASCULINAS",
+      "timestamp_ms": 1752091530378,
+      "content": "Ol\u00c3\u00a1 Thenperson ! Diga como podemos ajudar voc\u00c3\u00aa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752091529551,
+      "content": "Esta mensagem de boas-vindas foi entregue automaticamente quando voc\u00c3\u00aa tocou em um an\u00c3\u00bancio. bautz.mann n\u00c3\u00a3o ver\u00c3\u00a1 este bate-papo nem em que an\u00c3\u00bancio voc\u00c3\u00aa tocou at\u00c3\u00a9 voc\u00c3\u00aa enviar uma mensagem. Ver an\u00c3\u00bancio(https://www.instagram.com/p/DLSzha6s2Ei/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bautz Mann \u00e2\u0080\u00a3 JOIAS MASCULINAS",
+  "is_still_participant": true,
+  "thread_path": "inbox/bautzmannjoiasmasculinas_1768532321210578",
+  "magic_words": [
+    
+  ]
+}

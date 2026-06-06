@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Anderson G Dias"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anderson G Dias",
+      "timestamp_ms": 1772720916993,
+      "content": "Boaaa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anderson G Dias",
+  "is_still_participant": true,
+  "thread_path": "inbox/andersongdias_1988365235893951",
+  "magic_words": [
+    
+  ]
+}

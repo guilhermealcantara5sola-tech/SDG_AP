@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Priscylla Ferraz"
+    },
+    {
+      "name": "Ewerton Gomes Ferraz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ewerton Gomes Ferraz",
+      "timestamp_ms": 1752921793015,
+      "content": "Ewerton enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DMRRs5cxZhJ/",
+        "share_text": "Segue o perfil \u00f0\u009f\u0091\u0089 @tvx.oficial",
+        "original_content_owner": "tvx.oficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ewerton Gomes Ferraz",
+      "timestamp_ms": 1752921399755,
+      "content": "Ewerton enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priscylla Ferraz",
+      "timestamp_ms": 1752916405076,
+      "content": "Priscylla enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DMRZNC5oLcB/?id=3679833218168698625_52523909686",
+        "share_text": "#perdeuman\u00c3\u00a9 #noticias #politica #trump #deportada #anonymousbrasil #anonymousscobar #corrup\u00c3\u00a7\u00c3\u00a3o #lulaladrao #impeachment #foralula #pt",
+        "original_content_owner": "anonymousscobar"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Priscylla Ferraz and Ewerton Gomes Ferraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/priscyllaferrazandewertongomesferraz_24038829365773527",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/Abb7bhfYBTp7CKty/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Ferraz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigo Ferraz",
+      "timestamp_ms": 1758876323049,
+      "content": "Reacted \u00f0\u009f\u0092\u00aa to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758852064527,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u00aa",
+          "actor": "Rodrigo Ferraz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo Ferraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodrigoferraz_567019338028555",
+  "magic_words": [
+    
+  ]
+}

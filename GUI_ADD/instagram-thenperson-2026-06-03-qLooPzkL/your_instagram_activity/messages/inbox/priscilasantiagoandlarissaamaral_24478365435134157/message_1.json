@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Priscila Santiago"
+    },
+    {
+      "name": "Larissa Amaral"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Larissa Amaral",
+      "timestamp_ms": 1754932996608,
+      "content": "lariamaral_fisio liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754928923002,
+      "content": "Vi um esses dias nessa pegada, que era um cora\u00c3\u00a7\u00c3\u00a3o, bem realista",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Larissa Amaral"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Larissa Amaral",
+      "timestamp_ms": 1754928375545,
+      "content": "Achei lindinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Larissa Amaral",
+      "timestamp_ms": 1754928364502,
+      "content": "lariamaral_fisio liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754927515706,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Larissa Amaral"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DNNsQxXxaNy/?id=3696805535711339378_5615793500",
+        "share_text": "Criaram uma case para fone de ouvido \u00f0\u009f\u0091\u0082 estilo bolsa de sangue\u00e2\u0080\u00a6",
+        "original_content_owner": "maxwilliam.oficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Priscila Santiago and Larissa Amaral",
+  "is_still_participant": true,
+  "thread_path": "inbox/priscilasantiagoandlarissaamaral_24478365435134157",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbaVnDXRUYczVB3e/"
+  }
+}

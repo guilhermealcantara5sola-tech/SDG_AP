@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Andrey Ara\u00c3\u00bajo"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrey Ara\u00c3\u00bajo",
+      "timestamp_ms": 1769177488845,
+      "content": "Esse ta dif\u00c3\u00adcil viu kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769173859584,
+      "content": "De que vc acha q \u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrey Ara\u00c3\u00bajo",
+      "timestamp_ms": 1769173841810,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3816420970701828072"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrey Ara\u00c3\u00bajo",
+      "timestamp_ms": 1769011104385,
+      "content": "Tmj para a melhora do nosso vale\u00f0\u009f\u0092\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769011002807,
+      "content": "Vlw meu irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrey Ara\u00c3\u00bajo",
+  "is_still_participant": true,
+  "thread_path": "inbox/andreyaraujo_1947991379931337",
+  "magic_words": [
+    
+  ]
+}

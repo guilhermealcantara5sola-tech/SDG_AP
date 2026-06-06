@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Alber Rodrigues"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alber Rodrigues",
+      "timestamp_ms": 1778088825742,
+      "content": "Veja as ubs e escolas de r\u00c3\u00a1pidas constru\u00c3\u00a7\u00c3\u00b5es",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3891212200039729687"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alber Rodrigues",
+      "timestamp_ms": 1776110080423,
+      "content": "O problema real, ser\u00c3\u00a1 que trataram ?\nPq at\u00c3\u00a9 o momento parece que n\u00c3\u00a3o",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3874597169915289896"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alber Rodrigues",
+      "timestamp_ms": 1774381818570,
+      "content": "Isso \u00c3\u00a9 uma verdade, \nVc quer resolver o problema.\nIsso eu sou testemunha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3860066335837440705"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772128993673,
+      "content": "Gosto demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alber Rodrigues",
+      "timestamp_ms": 1772122627752,
+      "content": "Famoso mexido",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3841163091657021125"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alber Rodrigues",
+  "is_still_participant": true,
+  "thread_path": "inbox/alberrodrigues_1982248899838918",
+  "magic_words": [
+    
+  ]
+}

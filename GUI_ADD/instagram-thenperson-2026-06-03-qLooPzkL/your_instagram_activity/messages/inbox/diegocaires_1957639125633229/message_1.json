@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Caires"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Caires",
+      "timestamp_ms": 1777015264001,
+      "content": "Simsim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776981570838,
+      "content": "Crea?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775955172799,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3873314873455179577"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775679096041,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769891093169,
+      "content": "Ainda mais agora.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769891087376,
+      "content": "sofro pra manter uma const\u00c3\u00a2ncia de epis\u00c3\u00b3dios (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769891052460,
+      "content": "Dava bom, pq sofro pra manter uma const\u00c3\u00a2ncia de epis\u00c3\u00b3dios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Caires",
+      "timestamp_ms": 1769890895695,
+      "content": "Uai moss, mas ainda t\u00c3\u00a1 em tempo\u00e2\u0080\u00a6 vcs alinhar a\u00c3\u00ad e fazer uma boa parceria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769889896679,
+      "content": "Falta de di\u00c3\u00a1logo, eu doido pra algu\u00c3\u00a9m rodar o janela do Vale. Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego Caires",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocaires_1957639125633229",
+  "magic_words": [
+    
+  ]
+}

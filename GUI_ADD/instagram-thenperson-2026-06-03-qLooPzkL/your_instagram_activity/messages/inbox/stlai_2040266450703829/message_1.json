@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "STL AI \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "STL AI \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+      "timestamp_ms": 1776638998429,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776638996209,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "STL AI \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+      "timestamp_ms": 1776636888495,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "STL AI \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+      "timestamp_ms": 1776636887923,
+      "content": "Voc\u00c3\u00aa enviou uma resposta privada a um coment\u00c3\u00a1rio no seu post do Instagram.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "STL AI \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/stlai_2040266450703829",
+  "magic_words": [
+    
+  ]
+}

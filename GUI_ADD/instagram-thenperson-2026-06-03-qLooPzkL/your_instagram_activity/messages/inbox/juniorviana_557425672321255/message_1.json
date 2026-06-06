@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Junior Viana"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Junior Viana",
+      "timestamp_ms": 1772719826186,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Junior Viana",
+      "timestamp_ms": 1772719824077,
+      "content": "Bom pra n\u00c3\u00b3s \u00c3\u00a9 voc\u00c3\u00aa. O resto \u00c3\u00a9 tudo bandido",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772719743792,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/juniorviana_557425672321255/audio/919644330476240.mp4",
+          "creation_timestamp": 1772719739
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772719680994,
+      "content": "\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Junior Viana"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Junior Viana",
+      "timestamp_ms": 1771019014295,
+      "content": "Concordo com voc\u00c3\u00aa plenamente.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771018326710,
+      "content": "Num \u00c3\u00a9 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Junior Viana",
+      "timestamp_ms": 1771017230064,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3831600314684333194"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Junior Viana",
+  "is_still_participant": true,
+  "thread_path": "inbox/juniorviana_557425672321255",
+  "magic_words": [
+    
+  ]
+}

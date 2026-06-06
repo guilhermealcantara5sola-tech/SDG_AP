@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Im\u00c3\u00b3veis em Alphaville | Pistelli"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Douglas | Ingl\u00c3\u00aas com qualidade Oxford",
+      "timestamp_ms": 1777599248427,
+      "content": "Douglas | Ingl\u00c3\u00aas com qualidade Oxford left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Douglas | Ingl\u00c3\u00aas com qualidade Oxford",
+      "timestamp_ms": 1777599198792,
+      "content": "Douglas enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DXvJJIzMVBQ/?id=3886365213786722384_36622335946",
+        "share_text": "\u00f0\u009f\u009a\u00a8 MICHAEL VENDEU 70 MILH\u00c3\u0095ES DE C\u00c3\u0093PIAS GRA\u00c3\u0087AS A ESSES LIVROS",
+        "original_content_owner": "_quemleenriquece"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Im\u00c3\u00b3veis em Alphaville | Pistelli",
+  "is_still_participant": true,
+  "thread_path": "inbox/imoveisemalphavillepistelli_1491416132534943",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbZiLW_DL0qq4Tzf/"
+  }
+}

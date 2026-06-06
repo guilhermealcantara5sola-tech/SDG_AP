@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Luiz Armando"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luiz Armando",
+      "timestamp_ms": 1752656881494,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752624176567,
+      "content": "4x4  ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Armando",
+      "timestamp_ms": 1752623922314,
+      "content": "Top, \u00c3\u00a9 do ir.: Eduardo de Itinga, refez o motor e restaurou os acabamentos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752623519660,
+      "content": "Sou f\u00c3\u00a3 dos willys",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luiz Armando",
+  "is_still_participant": true,
+  "thread_path": "inbox/luizarmando_1708753410521803",
+  "magic_words": [
+    
+  ]
+}

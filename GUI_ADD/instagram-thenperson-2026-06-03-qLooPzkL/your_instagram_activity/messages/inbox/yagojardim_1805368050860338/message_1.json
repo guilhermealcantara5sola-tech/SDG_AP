@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Yago Jardim"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yago Jardim",
+      "timestamp_ms": 1756228112315,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yago Jardim",
+      "timestamp_ms": 1756228112005,
+      "content": "Tel ( 33) 999927100",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756228111311,
+      "content": "Como posso te ajudar ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756228103017,
+      "content": "Boa tarde meu irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yago Jardim",
+      "timestamp_ms": 1756228063842,
+      "content": "O irm\u00c3\u00a3o sou Yago, da loja esperan\u00c3\u00a7a  de virgem da Lapa, CIM24887, estou trabalhando na empresa FM ENGENHARIA de Te\u00c3\u00b3filo Otoni. Estou em Almenara e gostaria de um suporte de algum irm\u00c3\u00a3o. Se poss\u00c3\u00advel algu\u00c3\u00a9m da sua loja poder me orientar. J\u00c3\u00a1 agrade\u00c3\u00a7o.TFA.",
+      "share": {
+        "share_text": "O irm\u00c3\u00a3o sou Yago, da loja esperan\u00c3\u00a7a  de virgem da Lapa, CIM24887, estou trabalhando na empresa FM ENGENHARIA de Te\u00c3\u00b3filo Otoni. Estou em Almenara e gostaria de um suporte de algum irm\u00c3\u00a3o. Se poss\u00c3\u00advel algu\u00c3\u00a9m da sua loja poder me orientar. J\u00c3\u00a1 agrade\u00c3\u00a7o.TFA."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755870804691,
+      "content": "E perfeito meu ir:.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yago Jardim",
+      "timestamp_ms": 1755651311476,
+      "content": "Boa noite! Tudo justo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yago Jardim",
+  "is_still_participant": true,
+  "thread_path": "inbox/yagojardim_1805368050860338",
+  "magic_words": [
+    
+  ]
+}

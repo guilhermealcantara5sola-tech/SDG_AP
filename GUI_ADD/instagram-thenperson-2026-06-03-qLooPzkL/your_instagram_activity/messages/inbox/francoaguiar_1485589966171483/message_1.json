@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Franco Aguiar"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756935149225,
+      "content": "Sou de Saja tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756935145794,
+      "content": "Simm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Aguiar",
+      "timestamp_ms": 1756934256229,
+      "content": "Na verdade Jean \u00c3\u00a9 l\u00c3\u00a1 de santo Ant\u00c3\u00b4nio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Aguiar",
+      "timestamp_ms": 1756934238168,
+      "content": "N\u00c3\u00a3o sabia n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756934225121,
+      "content": "C sabe que sou primo de jean da farm\u00c3\u00a1cia n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756934215810,
+      "content": "Com certeza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Aguiar",
+      "timestamp_ms": 1756934114243,
+      "content": "Dando in\u00c3\u00adcio a sua campanha venha visitar Palm\u00c3\u00b3polis......",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3713554032058262031"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Franco Aguiar",
+  "is_still_participant": true,
+  "thread_path": "inbox/francoaguiar_1485589966171483",
+  "magic_words": [
+    
+  ]
+}

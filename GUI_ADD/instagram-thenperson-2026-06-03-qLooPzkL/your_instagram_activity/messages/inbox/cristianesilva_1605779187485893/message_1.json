@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Cristiane Silva"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cristiane Silva",
+      "timestamp_ms": 1756821744211,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3712345629302578194"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristiane Silva",
+      "timestamp_ms": 1751302137694,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751193286133,
+      "content": "Eu tinha dado a sugest\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristiane Silva",
+      "timestamp_ms": 1751165264955,
+      "content": "Mas eles acordaram na epinose,com os nomes trocados do que vc disse , \u00c3\u00a9 normal ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristiane Silva",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristianesilva_1605779187485893",
+  "magic_words": [
+    
+  ]
+}

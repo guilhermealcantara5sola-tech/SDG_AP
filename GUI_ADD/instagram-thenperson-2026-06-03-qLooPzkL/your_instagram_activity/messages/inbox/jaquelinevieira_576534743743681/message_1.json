@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Jaqueline Vieira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769615497148,
+      "content": "\u00c3\u0089 por esse sentimento que estou comprando essa briga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaqueline Vieira",
+      "timestamp_ms": 1769615451668,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769615399330,
+      "content": "Concordo em numero grau e g\u00c3\u00aanero",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jaqueline Vieira"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaqueline Vieira",
+      "timestamp_ms": 1769615279754,
+      "content": "Na vdd n\u00c3\u00a3o temos representantes...porque pra mim quem representa \u00c3\u00a9 quem age ,e quem d\u00c3\u00a1 solu\u00c3\u00a7\u00c3\u00a3o ao problema. \nFalar at\u00c3\u00a9 papagaio fala.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3820068798472958894"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1762016962207,
+      "content": "\u00e2\u009c\u008c\u00ef\u00b8\u008f\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaqueline Vieira",
+      "timestamp_ms": 1762016766446,
+      "content": "Desculpe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaqueline Vieira",
+      "timestamp_ms": 1762016764067,
+      "content": "Foi minha filha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1762016683325,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaqueline Vieira",
+      "timestamp_ms": 1762016664074,
+      "content": "8er",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jaqueline Vieira",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaquelinevieira_576534743743681",
+  "magic_words": [
+    
+  ]
+}

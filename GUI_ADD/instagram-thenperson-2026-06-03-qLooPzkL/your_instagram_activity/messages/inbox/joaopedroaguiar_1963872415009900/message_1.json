@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Jo\u00c3\u00a3o Pedro Aguiar"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo\u00c3\u00a3o Pedro Aguiar",
+      "timestamp_ms": 1778100304818,
+      "content": "Esse e m\u00c3\u00a1quina, grande Alencar!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3891302120959745976"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770587961940,
+      "content": "Blz ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770587957068,
+      "content": "Tranks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Pedro Aguiar",
+      "timestamp_ms": 1770587444380,
+      "content": "Vai sim, n\u00c3\u00b3s estamos fazendo um trabalho de divulga\u00c3\u00a7\u00c3\u00a3o para o epis\u00c3\u00b3dio ao vivo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Pedro Aguiar",
+      "timestamp_ms": 1770587393582,
+      "content": "Fala meu amigo, boa noite! \n\nDesculpa eu so vi a mensagem agora!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770468447885,
+      "content": "Vai ser ao vivo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo\u00c3\u00a3o Pedro Aguiar",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaopedroaguiar_1963872415009900",
+  "magic_words": [
+    
+  ]
+}

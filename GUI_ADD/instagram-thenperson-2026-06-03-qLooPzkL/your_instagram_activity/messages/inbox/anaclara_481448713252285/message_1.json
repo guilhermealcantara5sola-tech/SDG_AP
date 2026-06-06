@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Ana Clara \u00e2\u009a\u0098\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ana Clara \u00e2\u009a\u0098\u00ef\u00b8\u008f",
+      "timestamp_ms": 1751060757801,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751031788382,
+      "content": "Quando o cabelo est\u00c3\u00a1 grande tem q ser com ela",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ana Clara \u00e2\u009a\u0098\u00ef\u00b8\u008f"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana Clara \u00e2\u009a\u0098\u00ef\u00b8\u008f",
+      "timestamp_ms": 1751031312502,
+      "content": "Essa escova \u00c3\u00a9 muito boaaaa , kkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3664164586924965591"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ana Clara \u00e2\u009a\u0098\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/anaclara_481448713252285",
+  "magic_words": [
+    
+  ]
+}

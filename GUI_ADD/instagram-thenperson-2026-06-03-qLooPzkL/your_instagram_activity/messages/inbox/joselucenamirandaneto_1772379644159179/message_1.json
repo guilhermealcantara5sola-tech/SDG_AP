@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Jose Lucena Miranda Neto"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Lucena Miranda Neto",
+      "timestamp_ms": 1769037818164,
+      "content": "\u00c3\u0089 a mais pura verdade. \u00c3\u0089 por meio da simplicidade dos grandes homens que nasce o verdadeiro conhecimento.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768998915810,
+      "content": "Falei isso hj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766279566903,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3792150285524485056"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Lucena Miranda Neto",
+      "timestamp_ms": 1766268273917,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Lucena Miranda Neto",
+      "timestamp_ms": 1752457955458,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3675936518562055800"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose Lucena Miranda Neto",
+  "is_still_participant": true,
+  "thread_path": "inbox/joselucenamirandaneto_1772379644159179",
+  "magic_words": [
+    
+  ]
+}

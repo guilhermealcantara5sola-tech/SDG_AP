@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pablo Monteiro"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pablo Monteiro",
+      "timestamp_ms": 1750616172125,
+      "content": "Pensamos igual nesse aspecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Monteiro",
+      "timestamp_ms": 1750616054624,
+      "content": "Achei interessante...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo Monteiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pablomonteiro_908247960572356",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Kau o garanh\u00c3\u00a3o de almenara"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kau o garanh\u00c3\u00a3o de almenara",
+      "timestamp_ms": 1769266979609,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769266880306,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3817209690234129305"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752426848499,
+      "content": "Vlw meu irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kau o garanh\u00c3\u00a3o de almenara",
+      "timestamp_ms": 1752423413865,
+      "content": "Parab\u00c3\u00a9ns vc merece tudo de bom",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3675814450833723078"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kau o garanh\u00c3\u00a3o de almenara",
+  "is_still_participant": true,
+  "thread_path": "inbox/kauogaranhaodealmenara_1656341319096346",
+  "magic_words": [
+    
+  ]
+}

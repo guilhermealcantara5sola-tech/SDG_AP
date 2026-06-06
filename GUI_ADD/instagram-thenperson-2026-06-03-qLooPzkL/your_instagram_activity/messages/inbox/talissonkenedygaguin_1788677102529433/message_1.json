@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Talisson kenedy (Gaguin)"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754570669804,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talisson kenedy (Gaguin)",
+      "timestamp_ms": 1754089350757,
+      "content": "\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754086326406,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DM07C6lyFnm/?id=3689833679817300454_412444437",
+        "share_text": "E hj falamos sobre vaquejada, epis\u00c3\u00b3dio phodastico , vai ao ar segunda feira \u00c3\u00a0s 18h\n\n#valedojequitinhonha #janeladovalepodcast #vaquejada #vaqueiro #cavado #qm #quartodemilha",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Talisson kenedy (Gaguin)",
+  "is_still_participant": true,
+  "thread_path": "inbox/talissonkenedygaguin_1788677102529433",
+  "magic_words": [
+    
+  ]
+}

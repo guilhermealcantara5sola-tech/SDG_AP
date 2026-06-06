@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Douglas | Ingl\u00c3\u00aas com qualidade Oxford"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Daniel Peixoto Franco"
+    },
+    {
+      "name": "JOSY AMORIM \u00e2\u009a\u00a1"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pedro Guimar\u00c3\u00a3es",
+      "timestamp_ms": 1767380272681,
+      "content": "Pedro Guimar\u00c3\u00a3es left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Guimar\u00c3\u00a3es",
+      "timestamp_ms": 1763497605494,
+      "content": "Acabou criando um grupo kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1763493931847,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1763493930104,
+      "content": "Era pra mandar separado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JOSY AMORIM \u00e2\u009a\u00a1",
+      "timestamp_ms": 1763490633454,
+      "content": "josykamorim liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1763487444480,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "JOSY AMORIM \u00e2\u009a\u00a1"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Douglas | Ingl\u00c3\u00aas com qualidade Oxford, Daniel Peixoto Franco and JOSY AMORIM \u00e2\u009a\u00a1",
+  "is_still_participant": true,
+  "thread_path": "inbox/douglasinglescomqualidadeoxforddanielpeixotofrancoandjosyamorim_1433917558168721",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/Abb8Z-KvHevnyPsE/"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Luiz Mario"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luiz Mario",
+      "timestamp_ms": 1776030477381,
+      "content": "Quero ajudar tamb\u00c3\u00a9m mas quero saber a causa do problema sabe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Mario",
+      "timestamp_ms": 1776030460375,
+      "content": "Eu gostaria de saber mais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Mario",
+      "timestamp_ms": 1776030447447,
+      "content": "Entendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776030124028,
+      "content": "Mas a falta de representatividade no \u00c3\u00a2mbito estadual com certeza \u00c3\u00a9 um agravante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776030101070,
+      "content": "N\u00c3\u00a3o existe uma resposta simples pra essa pergunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Mario",
+      "timestamp_ms": 1776029262901,
+      "content": "Oi boa noite vc sabe qual o real motivo de estar esse colapso?",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3873314873455179577"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luiz Mario",
+  "is_still_participant": true,
+  "thread_path": "inbox/luizmario_2033863458010795",
+  "magic_words": [
+    
+  ]
+}

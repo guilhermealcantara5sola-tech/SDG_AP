@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Sergio Roesberg Mendes Barros"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779570618266,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYsf9ivo2hG/?id=3903635545659762758_412444437",
+        "share_text": "No Vale do Jequitinhonha ainda falta muito incentivo no esporte, s\u00c3\u00b3 quem pratica sabe a import\u00c3\u00a2ncia.",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Roesberg Mendes Barros",
+      "timestamp_ms": 1759250302002,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3733123168983679244"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Roesberg Mendes Barros",
+      "timestamp_ms": 1758958579435,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3730427694971599354"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Roesberg Mendes Barros",
+      "timestamp_ms": 1758614209069,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3727444333202192825"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sergio Roesberg Mendes Barros",
+  "is_still_participant": true,
+  "thread_path": "inbox/sergioroesbergmendesbarros_1857835488950351",
+  "magic_words": [
+    
+  ]
+}

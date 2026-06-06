@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Verde GO | Emp\u00c3\u00b3rio Natural"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Verde GO | Emp\u00c3\u00b3rio Natural",
+      "timestamp_ms": 1772568856775,
+      "content": "Combinado \nAguardo voc\u00c3\u00aa \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772568483059,
+      "content": "Jaja pego a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verde GO | Emp\u00c3\u00b3rio Natural",
+      "timestamp_ms": 1772565116278,
+      "content": "Boa tarde Thenperson, tudo bem ? \n\nChegou reposi\u00c3\u00a7\u00c3\u00a3o de Kombuchas, posso separar qual quantidade para voc\u00c3\u00aa hoje ? \u00f0\u009f\u00a4\u00a9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verde GO | Emp\u00c3\u00b3rio Natural",
+      "timestamp_ms": 1765578371132,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Verde GO | Emp\u00c3\u00b3rio Natural",
+      "timestamp_ms": 1765578359610,
+      "content": "Bom demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765567561568,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Verde GO | Emp\u00c3\u00b3rio Natural",
+  "is_still_participant": true,
+  "thread_path": "inbox/verdegoemporionatural_510538413672279",
+  "magic_words": [
+    
+  ]
+}

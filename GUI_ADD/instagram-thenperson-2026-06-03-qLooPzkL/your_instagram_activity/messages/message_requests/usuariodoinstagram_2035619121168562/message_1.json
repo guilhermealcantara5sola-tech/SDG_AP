@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1776192545681,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1776192544803,
+      "content": "Ol\u00c3\u00a1, sou o gerente da plataforma Zeus7. Estamos recrutando funcion\u00c3\u00a1rios online em regime de meio per\u00c3\u00adodo. Tudo o que voc\u00c3\u00aa precisa \u00c3\u00a9 um celular para trabalhar em casa; isso n\u00c3\u00a3o interferir\u00c3\u00a1 no seu trabalho ou tempo livre. Remunera\u00c3\u00a7\u00c3\u00a3o di\u00c3\u00a1ria: de 1000 a 2000 reais. Se tiver interesse, entre em contato comigo pelo WhatsApp.+17422417636",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagram_2035619121168562",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

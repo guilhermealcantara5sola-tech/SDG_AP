@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "SandraArlindo Gon\u00c3\u00a7alves Silva"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SandraArlindo Gon\u00c3\u00a7alves Silva",
+      "timestamp_ms": 1772919707008,
+      "content": "Parab\u00c3\u00a9ns, vc tem o meu voto",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3847508452734174643"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SandraArlindo Gon\u00c3\u00a7alves Silva",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandraarlindogoncalvessilva_1969528664444298",
+  "magic_words": [
+    
+  ]
+}

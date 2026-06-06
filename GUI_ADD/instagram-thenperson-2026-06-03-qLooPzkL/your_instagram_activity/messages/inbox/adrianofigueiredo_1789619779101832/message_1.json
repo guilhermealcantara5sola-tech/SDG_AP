@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Adriano Figueiredo"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adriano Figueiredo",
+      "timestamp_ms": 1754179185448,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754178920125,
+      "content": "Tmj meu irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754178884343,
+      "content": "Boa noite Adriano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adriano Figueiredo",
+      "timestamp_ms": 1754177940133,
+      "content": "Gratid\u00c3\u00a3o meu mano....Deus aben\u00c3\u00a7oe vc e sua familia grandemente \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adriano Figueiredo",
+      "timestamp_ms": 1754177780696,
+      "content": "Boa noite meu amigo...\u00f0\u009f\u0099\u008fDeus aben\u00c3\u00a7oe vc sempre irm\u00c3\u00a3o pela ajuda que vc mim deu....onde passou 3 carros estrada,e uma hilux com a ca\u00c3\u00a7amba vazia...nenhum parou para oferecer ajuda.....exceto um rapaz da imobluz que passou de moto e perguntou oque tinha acontecido.....e vc que parou e mim estendeu a m\u00c3\u00a3o.....\u00f0\u009f\u0099\u008f\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adriano Figueiredo",
+  "is_still_participant": true,
+  "thread_path": "inbox/adrianofigueiredo_1789619779101832",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Rancho Romaiana"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rancho Romaiana",
+      "timestamp_ms": 1771107413217,
+      "content": "Nunca usei, mas sou f\u00c3\u00a3 dessas coisas antigas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771105269610,
+      "content": "Eu era fera nisso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Romaiana",
+      "timestamp_ms": 1768798014145,
+      "content": "Alguns v\u00c3\u00addeos fa\u00c3\u00a7o no modo autom\u00c3\u00a1tico, sem tempo pra editar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764524726775,
+      "content": "Issooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764524725140,
+      "content": "Toyama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Romaiana",
+      "timestamp_ms": 1764522865945,
+      "content": "Eu tenho 1, sem coletor de grama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Romaiana",
+      "timestamp_ms": 1764522850144,
+      "content": "Toyama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764522088033,
+      "content": "Bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764522083687,
+      "content": "Yokohama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764522074508,
+      "content": "\u00c3\u0089 sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Romaiana",
+      "timestamp_ms": 1764520211329,
+      "content": "Esse carrinho \u00c3\u00a9 bom \u00f0\u009f\u0091\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3777277001490094219"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rancho Romaiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranchoromaiana_1595413361855809",
+  "magic_words": [
+    
+  ]
+}

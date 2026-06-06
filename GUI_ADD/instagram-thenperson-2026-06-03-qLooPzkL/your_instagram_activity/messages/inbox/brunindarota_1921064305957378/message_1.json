@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Brunin da Rota"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brunin da Rota",
+      "timestamp_ms": 1766243130687,
+      "content": "Shoow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766242566652,
+      "content": "Muito bommmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766242553661,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766242553081,
+      "content": "31994459445",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766242546757,
+      "content": "Bom dia Bruno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brunin da Rota",
+      "timestamp_ms": 1766239518818,
+      "content": "Fala chefe, Baum\u00e2\u0080\u00a6\nMoro em Jacinto, pode passar seu zap pra pedir pra te colocar em alguns grupos pol\u00c3\u00adticos da cidade\u00e2\u0080\u00a6\nVamos pra cima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brunin da Rota",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunindarota_1921064305957378",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Stefany Barros"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefany Barros",
+      "timestamp_ms": 1756246772358,
+      "content": "Parab\u00c3\u00a9ns meu amigo \u00f0\u009f\u008e\u0088\u00f0\u009f\u008e\u0089 \nQue Deus te aben\u00c3\u00a7oe e aben\u00c3\u00a7oe sua vida, fam\u00c3\u00adlia \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb \nTodo sucesso do mundo pra mim...\nE pode ter certeza, que ter\u00c3\u00a1 meu voto \u00f0\u009f\u0097\u00b3\u00ef\u00b8\u008f\u00f0\u009f\u0098\u009c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3707973423350573656"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753390909468,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753390909230,
+      "content": "31994459445",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stefany Barros",
+      "timestamp_ms": 1753390715121,
+      "content": "Deu certo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stefany Barros",
+      "timestamp_ms": 1753390705440,
+      "content": "Por favor!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stefany Barros",
+      "timestamp_ms": 1753390700883,
+      "content": "Amigo me envia o valor e o pix",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stefany Barros",
+      "timestamp_ms": 1750126541055,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750104127681,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Stefany Barros"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stefany Barros",
+  "is_still_participant": true,
+  "thread_path": "inbox/stefanybarros_1451299146268510",
+  "magic_words": [
+    
+  ]
+}

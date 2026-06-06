@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "Enia Otoni"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Enia Otoni",
+      "timestamp_ms": 1767186817773,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/eniaotoni_435171581218261/photos/1401953991603130.jpg",
+          "creation_timestamp": 1767186816
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enia Otoni",
+      "timestamp_ms": 1749566664546,
+      "content": "Anotei o n\u00c3\u00bamero da loja aqui.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enia Otoni",
+      "timestamp_ms": 1749566635018,
+      "content": "Ah, t\u00c3\u00a1.Muito obrigada pela aten\u00c3\u00a7\u00c3\u00a3o, vou v\u00c3\u00aa aqui em jacinto quem troca.",
+      "share": {
+        "share_text": "Ah, t\u00c3\u00a1.Muito obrigada pela aten\u00c3\u00a7\u00c3\u00a3o, vou v\u00c3\u00aa aqui em jacinto quem troca."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749566546784,
+      "content": "A pel\u00c3\u00adcula tenho de 20, 40 e 50 reais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749566524461,
+      "content": "A tela n fazemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enia Otoni",
+      "timestamp_ms": 1749566509621,
+      "content": "\u00c3\u0089 um redmi 13c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enia Otoni",
+      "timestamp_ms": 1749566488096,
+      "content": "E que preciso trocar a tela do meu celular e colocar a pel\u00c3\u00adcula queria saber quanto custa a\u00c3\u00ad.?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749554908596,
+      "content": "Estou na loja tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749554903803,
+      "content": "Pode perguntar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749554899961,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/eniaotoni_435171581218261/photos/1062668939130608"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749554893527,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enia Otoni",
+      "timestamp_ms": 1749554707604,
+      "content": "Sou de jacinto e pra dar viagem perdida preciso de uma informa\u00c3\u00a7\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enia Otoni",
+      "timestamp_ms": 1749547303954,
+      "content": "Oi me passa o n\u00c3\u00bamero da loja por favor estou precisando de uma informa\u00c3\u00a7\u00c3\u00a3o.",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3651206395487944921"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Enia Otoni",
+  "is_still_participant": true,
+  "thread_path": "inbox/eniaotoni_435171581218261",
+  "magic_words": [
+    
+  ]
+}

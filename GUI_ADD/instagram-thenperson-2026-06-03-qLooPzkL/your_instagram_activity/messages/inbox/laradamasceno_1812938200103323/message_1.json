@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Lara Damasceno"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lara Damasceno",
+      "timestamp_ms": 1756378658188,
+      "content": "Pensa num menino extremamente educado carism\u00c3\u00a1tico \nAtende agente muito bem\nNa verdade o atendimento dos seus funcion\u00c3\u00a1rios  \u00c3\u00a9 muito bom \nMas ele em espec\u00c3\u00adfico \nParab\u00c3\u00a9ns pela equipe \u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3708750359138486316"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lara Damasceno",
+  "is_still_participant": true,
+  "thread_path": "inbox/laradamasceno_1812938200103323",
+  "magic_words": [
+    
+  ]
+}

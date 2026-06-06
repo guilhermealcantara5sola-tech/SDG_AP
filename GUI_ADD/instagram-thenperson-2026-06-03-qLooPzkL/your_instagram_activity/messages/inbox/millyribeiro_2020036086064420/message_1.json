@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Milly Ribeiro"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Milly Ribeiro",
+      "timestamp_ms": 1772746770158,
+      "content": "N\u00c3\u00a3o apoiando as ideias de Zema para mim t\u00c3\u00a1 perfeita",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Milly Ribeiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/millyribeiro_2020036086064420",
+  "magic_words": [
+    
+  ]
+}

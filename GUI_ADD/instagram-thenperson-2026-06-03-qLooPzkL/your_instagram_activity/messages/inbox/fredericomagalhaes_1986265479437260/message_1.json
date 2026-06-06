@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Frederico Magalhaes"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Frederico Magalhaes",
+      "timestamp_ms": 1772504590625,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772503004941,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Frederico Magalhaes"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Frederico Magalhaes",
+  "is_still_participant": true,
+  "thread_path": "inbox/fredericomagalhaes_1986265479437260",
+  "magic_words": [
+    
+  ]
+}

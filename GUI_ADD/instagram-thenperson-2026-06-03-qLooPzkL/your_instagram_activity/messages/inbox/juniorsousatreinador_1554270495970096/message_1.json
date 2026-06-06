@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "JUNIOR SOUSA | TREINADOR"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764886135888,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3780461177450093418"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JUNIOR SOUSA | TREINADOR",
+      "timestamp_ms": 1764885680472,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752785391429,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3678952800249413131"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JUNIOR SOUSA | TREINADOR",
+      "timestamp_ms": 1752783912750,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JUNIOR SOUSA | TREINADOR",
+  "is_still_participant": true,
+  "thread_path": "inbox/juniorsousatreinador_1554270495970096",
+  "magic_words": [
+    
+  ]
+}

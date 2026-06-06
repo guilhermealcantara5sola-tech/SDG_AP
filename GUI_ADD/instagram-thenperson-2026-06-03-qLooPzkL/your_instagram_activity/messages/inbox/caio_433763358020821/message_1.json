@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Caio"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caio",
+      "timestamp_ms": 1777133444753,
+      "content": "Equilibrio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Caio",
+      "timestamp_ms": 1777133441670,
+      "content": "Agora treinar n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777132198190,
+      "content": "Faz parte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Caio",
+      "timestamp_ms": 1777131914367,
+      "content": "Bebum",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777118828276,
+      "content": "T\u00c3\u00a1 ruim hemmm tiu kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Caio",
+  "is_still_participant": true,
+  "thread_path": "inbox/caio_433763358020821",
+  "magic_words": [
+    
+  ]
+}

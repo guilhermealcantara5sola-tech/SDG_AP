@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Ninha Costa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ninha Costa",
+      "timestamp_ms": 1772837983719,
+      "content": "Est\u00c3\u00a1 uma vergonha, trabalhamos l\u00c3\u00a1 ,testamos literalmente sofrendo \u00f0\u009f\u0098\u00a7",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3847158298755791511"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ninha Costa",
+  "is_still_participant": true,
+  "thread_path": "inbox/ninhacosta_1486718689391944",
+  "magic_words": [
+    
+  ]
+}

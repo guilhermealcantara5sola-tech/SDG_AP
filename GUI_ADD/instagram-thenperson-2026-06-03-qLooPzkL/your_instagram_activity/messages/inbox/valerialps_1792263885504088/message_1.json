@@ -1,0 +1,93 @@
+{
+  "participants": [
+    {
+      "name": "Val\u00c3\u00a9ria Lps"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755862411288,
+      "content": "Sou assim tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755861849307,
+      "content": "Kkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val\u00c3\u00a9ria Lps",
+      "timestamp_ms": 1755860714063,
+      "content": "Homem tu acredita q te sigo aqui no insta e n\u00c3\u00a3o sabia q era a msm pessoa da loja kkkkkk sou  ruim demais de fisionomia \u00f0\u009f\u0098\u0082 s\u00c3\u00b3 ontem q te vi e caiu a ficha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val\u00c3\u00a9ria Lps",
+      "timestamp_ms": 1755860590239,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755860526561,
+      "content": "Eu",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Val\u00c3\u00a9ria Lps"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val\u00c3\u00a9ria Lps",
+      "timestamp_ms": 1755855978479,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3704390188386408888"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val\u00c3\u00a9ria Lps",
+      "timestamp_ms": 1754599451757,
+      "content": "Imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754598304950,
+      "content": "N\u00c3\u00a3o fica ruim n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val\u00c3\u00a9ria Lps",
+      "timestamp_ms": 1754591041872,
+      "content": "Tira n\u00c3\u00a3o \u00f0\u009f\u0099\u0088",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3693918848597482482"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Val\u00c3\u00a9ria Lps",
+  "is_still_participant": true,
+  "thread_path": "inbox/valerialps_1792263885504088",
+  "magic_words": [
+    
+  ]
+}

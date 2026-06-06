@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Paulo Sergio Alves Sousa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paulo Sergio Alves Sousa",
+      "timestamp_ms": 1777910889126,
+      "content": "Eu queria mas sou proibido de falar pela imprensa Copasa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777910026251,
+      "content": "Eu abro o janela pra um representante da empresa e um morador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulo Sergio Alves Sousa",
+      "timestamp_ms": 1777908750135,
+      "content": "Por\u00c3\u00a9m eles n querem pagar as faturas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulo Sergio Alves Sousa",
+      "timestamp_ms": 1777908742304,
+      "content": "Com qualidade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulo Sergio Alves Sousa",
+      "timestamp_ms": 1777908738633,
+      "content": "A \u00c3\u00a1gua est\u00c3\u00a1 sendo tratada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulo Sergio Alves Sousa",
+      "timestamp_ms": 1777908732468,
+      "content": "Est\u00c3\u00a3o pegando v\u00c3\u00addeos de outros lugares falando que \u00c3\u00a9 l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulo Sergio Alves Sousa",
+      "timestamp_ms": 1777908716585,
+      "content": "Esses v\u00c3\u00addeo de estrela s\u00c3\u00a3o tudo improcedente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Paulo Sergio Alves Sousa",
+  "is_still_participant": true,
+  "thread_path": "inbox/paulosergioalvessousa_2053981592665648",
+  "magic_words": [
+    
+  ]
+}

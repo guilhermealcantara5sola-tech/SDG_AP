@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Sandy Sousa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandy Sousa",
+      "timestamp_ms": 1768131565366,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768131428059,
+      "content": "Foi mals",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768131406097,
+      "content": "Kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandy Sousa",
+      "timestamp_ms": 1768130865083,
+      "content": "Sou eu n\u00c3\u00a3o kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandy Sousa",
+      "timestamp_ms": 1768130860829,
+      "content": "Epaaa eu tava em casa meu parceiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768104869703,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3807461895314089856"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sandy Sousa",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandysousa_2925098377810890",
+  "magic_words": [
+    
+  ]
+}

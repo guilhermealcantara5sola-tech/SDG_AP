@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Mercia Damasceno"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776774584435,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776774582073,
+      "content": "Tmj \u00f0\u009f\u00a4\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mercia Damasceno",
+      "timestamp_ms": 1776768677810,
+      "content": "Tmj \u00f0\u009f\u00a4\u009d",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3880129405485870061"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mercia Damasceno",
+      "timestamp_ms": 1776636147615,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3878825067874714074"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mercia Damasceno",
+      "timestamp_ms": 1768257645926,
+      "content": "\u00f0\u009f\u00a4\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768257606317,
+      "content": "Amanh\u00c3\u00a3 \u00c3\u00a0s 18h",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mercia Damasceno",
+      "timestamp_ms": 1768257559873,
+      "content": "Esse eu quero assistir!\u00f0\u009f\u0098\u00b6",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3808663798660208773"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mercia Damasceno",
+      "timestamp_ms": 1757602177983,
+      "content": "Concordo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3719290587058109363"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mercia Damasceno",
+      "timestamp_ms": 1756380597834,
+      "content": "Eu tenho uma L\u00c3\u00aa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3709108408969662496"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mercia Damasceno",
+  "is_still_participant": true,
+  "thread_path": "inbox/merciadamasceno_1715447416519069",
+  "magic_words": [
+    
+  ]
+}

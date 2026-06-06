@@ -1,0 +1,107 @@
+{
+  "participants": [
+    {
+      "name": "Tuari David Ferraz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779922396533,
+      "content": "TFA meu irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779922380799,
+      "content": "\u00f0\u009f\u009a\u0080\u00f0\u009f\u009a\u0080\u00f0\u009f\u009a\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tuari David Ferraz",
+      "timestamp_ms": 1779922357622,
+      "content": "Meu pre candidato al\u00c3\u00a9m de flex\u00c3\u00a3o faz barra paralela kakakakakak",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3906493558571981077"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tuari David Ferraz",
+      "timestamp_ms": 1772545475269,
+      "content": "Esse ano mudamos para segunda.\nAno passado era ter\u00c3\u00a7a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772541841766,
+      "content": "Segunda ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tuari David Ferraz",
+      "timestamp_ms": 1771773118298,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771764350557,
+      "content": "Opaaaaaaa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Tuari David Ferraz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768603490117,
+      "content": "Comprei de Zuera, concordo q capacete tem de ser do  bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767471467144,
+      "content": "Tmj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767471463049,
+      "content": "Vlw demais mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tuari David Ferraz",
+      "timestamp_ms": 1767471303774,
+      "content": "Estou c vc, meu irm\u00c3\u00a3o. T.F.A\u00e2\u0088\u00b4",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3802145406705007132"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tuari David Ferraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/tuaridavidferraz_1933915111341623",
+  "magic_words": [
+    
+  ]
+}

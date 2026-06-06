@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Carlos Henrique"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751216331107,
+      "content": "Com certeza, chove muitas ben\u00c3\u00a7\u00c3\u00a3os, o problema s\u00c3\u00a3o os homens que as dividem.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Henrique",
+      "timestamp_ms": 1751216198167,
+      "content": "Mas quem criou a andorinha faz chover ben\u00c3\u00a7\u00c3\u00a3os sobre essa terra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Henrique",
+      "timestamp_ms": 1751216141967,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos Henrique",
+  "is_still_participant": true,
+  "thread_path": "inbox/carloshenrique_1759402698790207",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "10camisados_ Oficial"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "10camisados_ Oficial",
+      "timestamp_ms": 1766404859738,
+      "content": "10camisados_ enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DSkIhPplZtX/",
+        "share_text": "sempre .....PARA TODAS AS COISAS IPANEMA...PEGOU NE ?",
+        "original_content_owner": "mauriliobressani"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "10camisados_ Oficial",
+      "timestamp_ms": 1752498157011,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3675822147817741069"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "10camisados_ Oficial",
+      "timestamp_ms": 1751146169967,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "10camisados_ Oficial",
+      "timestamp_ms": 1751146148630,
+      "content": "Kkkkkkk. Verdade....caraca vi um zool\u00c3\u00b3gico  no meu quarto....pirei kkkkk mas foi bom \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751132475412,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "10camisados_ Oficial",
+  "is_still_participant": true,
+  "thread_path": "inbox/10camisados_oficial_546628786734277",
+  "magic_words": [
+    
+  ]
+}

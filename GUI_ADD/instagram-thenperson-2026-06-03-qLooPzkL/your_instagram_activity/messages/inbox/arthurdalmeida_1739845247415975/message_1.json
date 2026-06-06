@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Arthur D Almeida"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arthur D Almeida",
+      "timestamp_ms": 1752001229411,
+      "content": "Arthur enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DL1LOGWsSB-/?id=3671890418597961854_62836063408",
+        "share_text": "Sinal super secreto revelado \u00f0\u009f\u0098\u0086\u00f0\u009f\u0098\u0086\u00f0\u009f\u0098\u0086\u00f0\u009f\u0098\u0086\n\n#maconaria #maconariabrasil #ma\u00c3\u00a7onaria #ma\u00c3\u00a7onaria #mestre #sinal #secreto",
+        "original_content_owner": "magazinedomacom"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arthur D Almeida",
+      "timestamp_ms": 1750614559969,
+      "content": "Na \u00c3\u00a9poca da ma\u00c3\u00a7onaria operativa, tinha um teste ..carregar um determinado peso por determinada dist\u00c3\u00a2ncia... Por isso a \"justificativa\" legal de n\u00c3\u00a3o iniciar mulheres e deficientes na ma\u00c3\u00a7onaria especulativa...pq n\u00c3\u00a3o passavam nesse teste ... Mas como bem disse, hj al\u00c3\u00a9m da ma\u00c3\u00a7onaria mista, tbm tem pot\u00c3\u00aancias regulares que aceitam mulheres",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arthur D Almeida",
+  "is_still_participant": true,
+  "thread_path": "inbox/arthurdalmeida_1739845247415975",
+  "magic_words": [
+    
+  ]
+}

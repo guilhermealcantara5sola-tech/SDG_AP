@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { LayoutDashboard, Image, BarChart3, MessageSquare, Settings, LogOut } from 'lucide-react';
+import { LayoutDashboard, Image, BarChart3, MessageSquare, Send, Settings, LogOut } from 'lucide-react';
 
 const Sidebar: React.FC = () => {
   const navItems = [
@@ -8,7 +8,9 @@ const Sidebar: React.FC = () => {
     { icon: Image, label: 'Posts', path: '/posts' },
     { icon: BarChart3, label: 'Analytics', path: '/analytics' },
     { icon: MessageSquare, label: 'Interações', path: '/inbox' },
+    { icon: Send, label: 'Disparo Automático', path: '/broadcast' },
   ];
+
 
   return (
     <aside className="w-64 bg-white border-r border-gray-200 h-screen flex flex-col sticky top-0">

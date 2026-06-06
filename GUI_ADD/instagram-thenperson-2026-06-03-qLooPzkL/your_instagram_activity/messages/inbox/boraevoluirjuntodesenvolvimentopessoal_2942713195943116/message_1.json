@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Bora evoluir junto | Desenvolvimento pessoal"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767441938590,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DTDEHU9CJ2m/?id=3801900606152023462_412444437",
+        "share_text": "Sua maior conquista tem de ser quem vc est\u00c3\u00a1 se tornando, garanto que o resto vem! \n\n#valedojequitinhonha #sonhos #disciplina #realizacao #desenvolvimento",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766095178452,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bora evoluir junto | Desenvolvimento pessoal",
+  "is_still_participant": true,
+  "thread_path": "inbox/boraevoluirjuntodesenvolvimentopessoal_2942713195943116",
+  "magic_words": [
+    
+  ]
+}

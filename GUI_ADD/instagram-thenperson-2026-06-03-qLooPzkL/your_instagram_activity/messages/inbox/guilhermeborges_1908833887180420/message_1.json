@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Guilherme Borges"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guilherme Borges",
+      "timestamp_ms": 1764976688859,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764975343301,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Guilherme Borges"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guilherme Borges",
+  "is_still_participant": true,
+  "thread_path": "inbox/guilhermeborges_1908833887180420",
+  "magic_words": [
+    
+  ]
+}

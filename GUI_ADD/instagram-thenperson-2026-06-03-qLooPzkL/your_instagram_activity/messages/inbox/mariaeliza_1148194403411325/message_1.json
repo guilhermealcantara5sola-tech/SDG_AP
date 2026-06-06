@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Maria Eliza"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753621026277,
+      "content": "Te busco e te levo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753621021651,
+      "content": "S\u00c3\u00b3 falar o dia que a senhora quer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Eliza",
+      "timestamp_ms": 1753620800405,
+      "content": "Quem faz a feijoada a\u00c3\u00ad?             Lembrou muito M\u00c3\u00a3e?             Eu tamb\u00c3\u00a9m..                       Amo fazer feijoada.        Um dia quem sabe fazer a\u00c3\u00ad com voc\u00c3\u00aas.",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3685559824255468091"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria Eliza",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariaeliza_1148194403411325",
+  "magic_words": [
+    
+  ]
+}

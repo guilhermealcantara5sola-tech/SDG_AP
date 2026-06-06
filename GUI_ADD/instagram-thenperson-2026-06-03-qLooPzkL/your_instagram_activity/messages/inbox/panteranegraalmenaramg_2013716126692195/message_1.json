@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Pantera Negra Almenara - MG"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775417638699,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3868805767914638355"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pantera Negra Almenara - MG",
+      "timestamp_ms": 1775351203121,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pantera Negra Almenara - MG",
+      "timestamp_ms": 1774318296097,
+      "content": "Obrigada meu amigo \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774316844786,
+      "content": "Parab\u00c3\u00a9ns minha amiga \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pantera Negra Almenara - MG",
+  "is_still_participant": true,
+  "thread_path": "inbox/panteranegraalmenaramg_2013716126692195",
+  "magic_words": [
+    
+  ]
+}

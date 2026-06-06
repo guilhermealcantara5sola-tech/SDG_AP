@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Fabiane R. Damasceno"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabiane R. Damasceno",
+      "timestamp_ms": 1779442344254,
+      "content": "Fabiane enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabiane R. Damasceno",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabianerdamasceno_4512355802329862",
+  "magic_words": [
+    
+  ]
+}

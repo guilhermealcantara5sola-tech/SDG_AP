@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Thiago Rodrigo Tica"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1761927509976,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DQZkusmkUM3/?id=3754193303052043063_30598829",
+        "share_text": "\u00c3\u0089 pura Nostalgia. @oscarasdoarrochafestival",
+        "original_content_owner": "thiagobrava"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1760227632389,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3741382737694371326"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thiago Rodrigo Tica",
+  "is_still_participant": true,
+  "thread_path": "inbox/thiagorodrigotica_1849572443108068",
+  "magic_words": [
+    
+  ]
+}

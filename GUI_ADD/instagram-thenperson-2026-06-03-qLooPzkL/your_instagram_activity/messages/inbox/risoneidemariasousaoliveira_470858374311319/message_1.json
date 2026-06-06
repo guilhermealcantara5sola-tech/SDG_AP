@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Risoneide Maria Sousa Oliveira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Risoneide Maria Sousa Oliveira",
+      "timestamp_ms": 1778767037790,
+      "content": "Deus aben\u00c3\u00a7oa! Ela \u00c3\u00a9 uma do\u00c3\u00a7ura de menina.",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3896837209235958232"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768607753767,
+      "content": "Esse vale muito mais que 1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Risoneide Maria Sousa Oliveira",
+      "timestamp_ms": 1768607331954,
+      "content": "Tem meu voto",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3811585874199966481"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Risoneide Maria Sousa Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/risoneidemariasousaoliveira_470858374311319",
+  "magic_words": [
+    
+  ]
+}

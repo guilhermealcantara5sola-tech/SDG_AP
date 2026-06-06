@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Jo\u00c3\u00a3o Oliveira | Vendas on-line com Produtos 3D"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo\u00c3\u00a3o Oliveira | Vendas on-line com Produtos 3D",
+      "timestamp_ms": 1777087013002,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Oliveira | Vendas on-line com Produtos 3D",
+      "timestamp_ms": 1777087012810,
+      "content": "ecommerce.joao messaged you because you followed their account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo\u00c3\u00a3o Oliveira | Vendas on-line com Produtos 3D",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaooliveiravendasonlinecomprodutos3d_2044967660233708",
+  "magic_words": [
+    
+  ]
+}

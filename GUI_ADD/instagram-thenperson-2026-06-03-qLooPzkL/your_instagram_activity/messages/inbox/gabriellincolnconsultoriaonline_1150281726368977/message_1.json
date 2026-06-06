@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel Lincoln | Consultoria On-line"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriel Lincoln | Consultoria On-line",
+      "timestamp_ms": 1771898604291,
+      "content": "Tmj \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Lincoln | Consultoria On-line",
+      "timestamp_ms": 1771898602031,
+      "content": "Valeu meu brother!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Lincoln | Consultoria On-line",
+      "timestamp_ms": 1771898598212,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771896803485,
+      "content": "Feliz anivers\u00c3\u00a1rio monstro, \nSucesso, sa\u00c3\u00bade e paz, \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gabriel Lincoln | Consultoria On-line"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1760992500456,
+      "content": "Kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriel Lincoln | Consultoria On-line",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabriellincolnconsultoriaonline_1150281726368977",
+  "magic_words": [
+    
+  ]
+}

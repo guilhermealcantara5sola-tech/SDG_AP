@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "TechCatti"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TechCatti",
+      "timestamp_ms": 1758714184460,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758622401867,
+      "content": "Fico muit feliz pela confian\u00c3\u00a7a \u00f0\u009f\u0099\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "TechCatti"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TechCatti",
+      "timestamp_ms": 1758599097071,
+      "content": "Vou votar em voc\u00c3\u00aa",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3727204272506247691"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "TechCatti",
+  "is_still_participant": true,
+  "thread_path": "inbox/techcatti_1835189767878166",
+  "magic_words": [
+    
+  ]
+}

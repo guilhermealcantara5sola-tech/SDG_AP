@@ -1,8 +1,34 @@
-import React from 'react';
-import { mockPosts } from '../mocks/data';
+import React, { useEffect, useState } from 'react';
+import { fetchPosts } from '../utils/api';
 import { Plus, Grid, List, Filter, Heart, MessageSquare } from 'lucide-react';
+import type { Post } from '../types';
 
 const Posts: React.FC = () => {
+  const [posts, setPosts] = useState<Post[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function loadPosts() {
+      try {
+        const postsList = await fetchPosts();
+        setPosts(postsList);
+      } catch (err) {
+        console.error('Error loading posts:', err);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadPosts();
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center min-h-[400px]">
+        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-purple-600"></div>
+      </div>
+    );
+  }
+
   return (
     <div className="space-y-8">
       <div className="flex justify-between items-center">
@@ -39,9 +65,9 @@ const Posts: React.FC = () => {
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {mockPosts.map((post) => (
+        {posts.map((post) => (
           <div key={post.id} className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm group cursor-pointer hover:shadow-md transition-all">
-            <div className="relative aspect-square">
+            <div className="relative aspect-square bg-gray-50">
               <img src={post.imageUrl} alt={post.caption} className="w-full h-full object-cover" />
               <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-6 text-white font-bold">
                 <span className="flex items-center gap-1.5"><Heart size={20} fill="currentColor" /> {post.likes}</span>
@@ -65,3 +91,4 @@ const Posts: React.FC = () => {
 };
 
 export default Posts;
+

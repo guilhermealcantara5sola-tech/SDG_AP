@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Martins Lopes"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno Martins Lopes",
+      "timestamp_ms": 1756734181936,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3711506778309072787"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Martins Lopes",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunomartinslopes_1816452549751888",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Luciano Tavares de Sousa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luciano Tavares de Sousa",
+      "timestamp_ms": 1776357915078,
+      "content": "Ola! Como podemos ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776357914171,
+      "content": "Voc\u00c3\u00aa abriu esta conversa por meio de um an\u00c3\u00bancio. Ver an\u00c3\u00bancio(https://www.instagram.com/p/DWZlOJRgKn3/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luciano Tavares de Sousa",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucianotavaresdesousa_2037422900988184",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "participants": [
+    {
+      "name": "Refrescos e Delicias Gourmet"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283622706,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/refrescosedeliciasgourmet_3170039323282257/audio/788919217002539.mp4",
+          "creation_timestamp": 1753283620
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283608301,
+      "content": "Desculpa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283606083,
+      "content": "Pediu 5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283604758,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/refrescosedeliciasgourmet_3170039323282257/audio/3668653646764620.mp4",
+          "creation_timestamp": 1753283602
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753283597636,
+      "content": "Ela pediu quantos ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753283593246,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283588076,
+      "content": "\u00c3\u0089 o mesmo pedido de sua esposa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753283578997,
+      "content": "Quero 5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283572467,
+      "content": "10,00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753283567230,
+      "content": "Quanto ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283562869,
+      "content": "Tem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Refrescos e Delicias Gourmet",
+      "timestamp_ms": 1753283561978,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753283559078,
+      "content": "Tem morango ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753283553150,
+      "content": "Eiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Refrescos e Delicias Gourmet",
+  "is_still_participant": true,
+  "thread_path": "inbox/refrescosedeliciasgourmet_3170039323282257",
+  "magic_words": [
+    
+  ]
+}

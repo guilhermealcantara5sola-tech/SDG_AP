@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Charles Rocha"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles Rocha",
+      "timestamp_ms": 1768748006557,
+      "content": "Tamos juntos meu amigo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768681865291,
+      "content": "Muito obg meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charles Rocha",
+  "is_still_participant": true,
+  "thread_path": "inbox/charlesrocha_1944678083596000",
+  "magic_words": [
+    
+  ]
+}

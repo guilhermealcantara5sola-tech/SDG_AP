@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Erick Carvalho \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777059030185,
+      "content": "Acho q tava passando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Carvalho \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+      "timestamp_ms": 1777055359547,
+      "content": "Uai t\u00c3\u00a1 ak na cidade eh kkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3882445860260808374"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erick Carvalho \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/erickcarvalho_2032550244808783",
+  "magic_words": [
+    
+  ]
+}

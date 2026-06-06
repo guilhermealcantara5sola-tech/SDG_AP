@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Antonio Carmona"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonio Carmona",
+      "timestamp_ms": 1750548814133,
+      "content": "Antonio enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DLLm76jPQUi/",
+        "share_text": "Capa do meu livro: Sonhos Ut\u00c3\u00b3picos e Realidades Admir\u00c3\u00a1veis. Mais informa\u00c3\u00a7\u00c3\u00b5es no meu direct...\n\nobrigado a todos que me ajudaram a concretizar essa obra",
+        "original_content_owner": "antoniocarmonaart"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Antonio Carmona",
+  "is_still_participant": true,
+  "thread_path": "inbox/antoniocarmona_1735432667853877",
+  "magic_words": [
+    
+  ]
+}

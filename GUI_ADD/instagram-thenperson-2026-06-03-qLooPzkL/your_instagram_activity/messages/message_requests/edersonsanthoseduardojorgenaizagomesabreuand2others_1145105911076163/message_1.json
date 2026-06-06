@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Ederson Santhos"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Eduardo Jorge"
+    },
+    {
+      "name": "Naiza Gomes Abreu"
+    },
+    {
+      "name": "\u00f0\u009d\u0091\u00b9\u00f0\u009d\u0092\u0090\u00f0\u009d\u0092\u0096\u00f0\u009d\u0092\u009b\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00a9\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0093\u00f0\u009d\u0092\u0083\u00f0\u009d\u0092\u0090\u00f0\u009d\u0092\u0094\u00f0\u009d\u0092\u0082"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1763764445587,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1763764445240,
+      "content": "Ol\u00c3\u00a1, somos a ag\u00c3\u00aancia geral do PG Gaming Group. Estamos recrutando profissionais para promover a plataforma PG Gaming. Sal\u00c3\u00a1rio di\u00c3\u00a1rio: R$ 1.150 a R$ 2.300. Interessados, entrem em contato pelo WhatsApp: +17069037950",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1763764443682,
+      "content": "A contact created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ederson Santhos, Eduardo Jorge, Naiza Gomes Abreu and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/edersonsanthoseduardojorgenaizagomesabreuand2others_1145105911076163",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/Abb66ojnEL0olAK7/"
+  },
+  "is_pending": true
+}

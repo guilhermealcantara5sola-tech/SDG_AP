@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Nelore Tr\u00c3\u00aas Unidos NTU"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756212584799,
+      "content": "Obg meu amigo \u00f0\u009f\u00a4\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelore Tr\u00c3\u00aas Unidos NTU",
+      "timestamp_ms": 1756212450361,
+      "content": "Parab\u00c3\u00a9ns meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nelore Tr\u00c3\u00aas Unidos NTU",
+  "is_still_participant": true,
+  "thread_path": "inbox/neloretresunidosntu_1811216636942146",
+  "magic_words": [
+    
+  ]
+}

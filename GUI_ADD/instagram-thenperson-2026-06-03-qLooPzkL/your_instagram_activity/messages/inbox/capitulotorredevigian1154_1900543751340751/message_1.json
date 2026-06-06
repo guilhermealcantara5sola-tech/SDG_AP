@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Cap\u00c3\u00adtulo Torre De Vigia N\u00c2\u00b01154"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cap\u00c3\u00adtulo Torre De Vigia N\u00c2\u00b01154",
+      "timestamp_ms": 1766860363624,
+      "content": "Compartilha no seu perfil a\u00c3\u00ad por favor hemodi\u00c3\u00a1lise",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cap\u00c3\u00adtulo Torre De Vigia N\u00c2\u00b01154",
+      "timestamp_ms": 1766860363256,
+      "content": "Cap\u00c3\u00adtulo enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DSxu2Qjj7hj/?carousel_share_child_media_id=3797021980214904881_8417212469",
+        "share_text": "",
+        "original_content_owner": "capitulotorredevigia1154"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cap\u00c3\u00adtulo Torre De Vigia N\u00c2\u00b01154",
+      "timestamp_ms": 1766008533140,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cap\u00c3\u00adtulo Torre De Vigia N\u00c2\u00b01154",
+      "timestamp_ms": 1765496358427,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765496048111,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3785573242677798966"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cap\u00c3\u00adtulo Torre De Vigia N\u00c2\u00b01154",
+  "is_still_participant": true,
+  "thread_path": "inbox/capitulotorredevigian1154_1900543751340751",
+  "magic_words": [
+    
+  ]
+}

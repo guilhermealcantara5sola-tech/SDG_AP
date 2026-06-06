@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Gandra"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Gandra",
+      "timestamp_ms": 1773642521403,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3853392027593514698"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Gandra",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasgandra_1997399094990565",
+  "magic_words": [
+    
+  ]
+}

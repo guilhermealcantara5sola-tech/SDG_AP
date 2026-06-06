@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Cyssa Alves"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cyssa Alves",
+      "timestamp_ms": 1755262506895,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cyssa Alves",
+      "timestamp_ms": 1755262062517,
+      "content": "E qual valor??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cyssa Alves",
+      "timestamp_ms": 1755262052616,
+      "content": "Vc vende repetidor d Wi-Fi??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cyssa Alves",
+      "timestamp_ms": 1755262007010,
+      "content": "Oii bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cyssa Alves",
+  "is_still_participant": true,
+  "thread_path": "message_requests/cyssaalves_1801274317936378",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

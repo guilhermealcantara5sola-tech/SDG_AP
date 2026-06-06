@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Augusto Cury"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778177153791,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3891954369356637834"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Augusto Cury",
+  "is_still_participant": true,
+  "thread_path": "inbox/augustocury_2056630345734106",
+  "magic_words": [
+    
+  ]
+}

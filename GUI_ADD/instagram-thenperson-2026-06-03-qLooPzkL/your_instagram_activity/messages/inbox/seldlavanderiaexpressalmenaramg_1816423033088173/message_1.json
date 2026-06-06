@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Seld Lavanderia Express Almenara/MG"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Seld Lavanderia Express Almenara/MG",
+      "timestamp_ms": 1756733416216,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756731763413,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3712057201444876800"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seld Lavanderia Express Almenara/MG",
+  "is_still_participant": true,
+  "thread_path": "inbox/seldlavanderiaexpressalmenaramg_1816423033088173",
+  "magic_words": [
+    
+  ]
+}

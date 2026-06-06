@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Lucas X"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752194774435,
+      "content": "\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas X",
+      "timestamp_ms": 1752194596149,
+      "content": "Tmj irm\u00c3\u00a3o boa sorte na sua caminhada, sou mais voc\u00c3\u00aa!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas X",
+      "timestamp_ms": 1752194568042,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752194472118,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas X"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3673995832169308519"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752194443483,
+      "content": "Obg pelo compartilhamento meu irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas X",
+      "timestamp_ms": 1752194422336,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas X",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasx_230818748555756",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "gugu"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "gugu",
+      "timestamp_ms": 1779586300119,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "gugu",
+      "timestamp_ms": 1779585616014,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "gugu",
+  "is_still_participant": true,
+  "thread_path": "inbox/gugu_1012216404675436",
+  "magic_words": [
+    
+  ]
+}

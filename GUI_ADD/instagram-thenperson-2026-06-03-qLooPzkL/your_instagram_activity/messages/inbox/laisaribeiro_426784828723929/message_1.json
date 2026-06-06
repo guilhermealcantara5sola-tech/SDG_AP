@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "La\u00c3\u00adsa Ribeiro"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770903602148,
+      "content": "Vai saber",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770903600010,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La\u00c3\u00adsa Ribeiro",
+      "timestamp_ms": 1770903585452,
+      "content": "Uai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La\u00c3\u00adsa Ribeiro",
+      "timestamp_ms": 1770903584336,
+      "content": "De pri",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770903569260,
+      "content": "De quem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La\u00c3\u00adsa Ribeiro",
+      "timestamp_ms": 1770903556761,
+      "content": "O cabelo t\u00c3\u00a1 um luxo",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3830889654698696150"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756926192271,
+      "content": "Deixa de loucura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752921063664,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La\u00c3\u00adsa Ribeiro",
+      "timestamp_ms": 1752893351949,
+      "content": "Vc passa algo na barba? Se sim indica meu marido kkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3679435063217478140"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "La\u00c3\u00adsa Ribeiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/laisaribeiro_426784828723929",
+  "magic_words": [
+    
+  ]
+}

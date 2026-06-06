@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel Barbosa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriel Barbosa",
+      "timestamp_ms": 1749304320766,
+      "content": "Abra\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Barbosa",
+      "timestamp_ms": 1749304265156,
+      "content": "Fala thenperson to chegando a\u00c3\u00ad em almenara, passar umas f\u00c3\u00a9rias a\u00c3\u00ad, acompanho sempre seu podcast, quiser trocar ideia sobre abrir a mente, sair do pa\u00c3\u00ads, interc\u00c3\u00a2mbio e etc tamo a\u00c3\u00ad \u00f0\u009f\u00ab\u00a1\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bb",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3649701483257402868"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriel Barbosa",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabrielbarbosa_549717606425395",
+  "magic_words": [
+    
+  ]
+}

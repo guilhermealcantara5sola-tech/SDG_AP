@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Max William | Achados da internet"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max William | Achados da internet",
+      "timestamp_ms": 1771531937413,
+      "content": "Voc\u00c3\u00aa quer receber o link do produto, clique no bot\u00c3\u00a3o baixo(led banheiro)\u00f0\u009f\u008f\u0083\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0092\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max William | Achados da internet",
+      "timestamp_ms": 1771531937041,
+      "content": "Voc\u00c3\u00aa enviou uma resposta privada a um coment\u00c3\u00a1rio no seu post do Instagram.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Max William | Achados da internet",
+  "is_still_participant": true,
+  "thread_path": "inbox/maxwilliamachadosdainternet_1249924193071396",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Ailton Oliveira Tim"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749143296426,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ailton Oliveira Tim",
+      "timestamp_ms": 1748998730866,
+      "content": "999599453",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ailton Oliveira Tim",
+      "timestamp_ms": 1748998225887,
+      "content": "Vou lhe passar meu contato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1748998194835,
+      "content": "15h o studio \u00c3\u00a9 l\u00c3\u00a1 na Multcell",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ailton Oliveira Tim",
+      "timestamp_ms": 1748997743927,
+      "content": "Me passe o hor\u00c3\u00a1rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ailton Oliveira Tim",
+      "timestamp_ms": 1748997730981,
+      "content": "Na hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1748995173799,
+      "content": "Boa noite tim, amanh\u00c3\u00a3 vou gravar com Caio sobre esse fato, anima ir junto ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ailton Oliveira Tim",
+  "is_still_participant": true,
+  "thread_path": "inbox/ailtonoliveiratim_1737725447624599",
+  "magic_words": [
+    
+  ]
+}

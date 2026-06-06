@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Luanars"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luanars",
+      "timestamp_ms": 1765642167069,
+      "content": "Obrigadaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luanars",
+      "timestamp_ms": 1765642158222,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765628446245,
+      "content": "Muito top seu set",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Luanars"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/k.luaa.rs/3315303490706903951"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luanars",
+  "is_still_participant": true,
+  "thread_path": "inbox/luanars_1915127563217719",
+  "magic_words": [
+    
+  ]
+}

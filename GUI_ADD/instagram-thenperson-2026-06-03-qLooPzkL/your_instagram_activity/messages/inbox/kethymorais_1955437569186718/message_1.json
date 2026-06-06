@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Kethy Morais"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kethy Morais",
+      "timestamp_ms": 1769696573952,
+      "content": "Kethy enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kethy Morais",
+      "timestamp_ms": 1769691846348,
+      "content": "Kethy enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kethy Morais",
+      "timestamp_ms": 1769691828019,
+      "content": "Kethy enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kethy Morais",
+  "is_still_participant": true,
+  "thread_path": "inbox/kethymorais_1955437569186718",
+  "magic_words": [
+    
+  ]
+}

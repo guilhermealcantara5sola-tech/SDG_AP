@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775402617171,
+      "content": "Qual \u00c3\u00a9 o pre\u00c3\u00a7o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1775402606599,
+      "content": "Oi! Como podemos ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775402605988,
+      "content": "Voc\u00c3\u00aa abriu esta conversa por meio de um an\u00c3\u00bancio. Ver an\u00c3\u00bancio(https://www.instagram.com/p/DPom7NbjCTz/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "inbox/usuariodoinstagram_2025072005556607",
+  "magic_words": [
+    
+  ]
+}

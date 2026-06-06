@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "FERT COUNTRY - A loja country mais completa da regi\u00c3\u00a3o"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756387403495,
+      "content": "Quanto a avestruz escura ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753977172847,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1753977165513,
+      "content": "Quanto a de avestruz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FERT COUNTRY - A loja country mais completa da regi\u00c3\u00a3o",
+  "is_still_participant": true,
+  "thread_path": "inbox/fertcountryalojacountrymaiscompletadaregiao_1626347738768860",
+  "magic_words": [
+    
+  ]
+}

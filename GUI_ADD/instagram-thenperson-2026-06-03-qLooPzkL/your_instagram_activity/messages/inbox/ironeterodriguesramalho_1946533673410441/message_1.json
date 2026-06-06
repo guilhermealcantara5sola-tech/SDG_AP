@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Ironete Rodrigues Ramalho"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ironete Rodrigues Ramalho",
+      "timestamp_ms": 1780188693119,
+      "content": "\u00f0\u009f\u0092\u0099\u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3908658362849954111"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777571624516,
+      "content": "Dizem que \u00c3\u00a9 \u00c3\u00a1gua pot\u00c3\u00a1vel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ironete Rodrigues Ramalho",
+      "timestamp_ms": 1777567842271,
+      "content": "\u00c3\u0094 l\u00c3\u00b4ko! Que que \u00c3\u00a9 isso? \u00f0\u009f\u0098\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ironete Rodrigues Ramalho",
+      "timestamp_ms": 1776791619504,
+      "content": "Essa Pri \u00c3\u00a9 uma bonequinha, mais linda! \u00f0\u009f\u0092\u0096",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3880215965392711968"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ironete Rodrigues Ramalho",
+      "timestamp_ms": 1771463832656,
+      "content": "Essa Pri! \u00c3\u0089 sua princesa, viu? \u00f0\u009f\u0092\u0099\u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3835584711896904537"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ironete Rodrigues Ramalho",
+      "timestamp_ms": 1770320222191,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3825327083883071881"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ironete Rodrigues Ramalho",
+  "is_still_participant": true,
+  "thread_path": "inbox/ironeterodriguesramalho_1946533673410441",
+  "magic_words": [
+    
+  ]
+}

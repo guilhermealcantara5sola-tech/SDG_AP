@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Bruno motos"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno motos",
+      "timestamp_ms": 1761078746545,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3748494344534953169"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno motos",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunomotos_1764488064954718",
+  "magic_words": [
+    
+  ]
+}

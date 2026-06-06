@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Arine Barbosa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Rancho Mares"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rancho Mares",
+      "timestamp_ms": 1771012118349,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Mares",
+      "timestamp_ms": 1771012116200,
+      "content": "S\u00c3\u00b3 copio coisa diferente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Mares",
+      "timestamp_ms": 1771012093840,
+      "content": "ranchomares liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771012083895,
+      "content": "Gostei da ideia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rancho Mares"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Mares",
+      "timestamp_ms": 1771011901247,
+      "content": "Rancho enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DUo_zrRDFGa/?id=3830592111159038362_70126633585",
+        "share_text": "S\u00c3\u00b3 benef\u00c3\u00adcios para nossos seguidores!\nVoc\u00c3\u00aa j\u00c3\u00a1 tinha visto isso ? \nCurte e compartilha!\n\n#viral #reels #instagram #tendencia #caraguatatuba",
+        "original_content_owner": "caramelocomidaderua"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rancho Mares",
+      "timestamp_ms": 1771011900019,
+      "content": "Rancho created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arine Barbosa and Rancho Mares",
+  "is_still_participant": true,
+  "thread_path": "inbox/arinebarbosaandranchomares_1462306128791319",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/Abbb_49Sc_yGyql5/"
+  }
+}

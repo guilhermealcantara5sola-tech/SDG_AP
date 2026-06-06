@@ -1,0 +1,283 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Alves"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1759884865024,
+      "content": "A\u00c3\u00ad gostei da turma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1759884843889,
+      "content": "Eu estive com eles no evento l\u00c3\u00a1 de jequitinhonha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759884816097,
+      "content": "Vou estar mais presente com os le\u00c3\u00b5es do que com os bodes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759884795883,
+      "content": "Sou f\u00c3\u00a3  da turma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1759884791143,
+      "content": "Gostei da galera l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759884779098,
+      "content": "Le\u00c3\u00b5es \u00c3\u00a9 top",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1759884637037,
+      "content": "Estou entrando no L\u00c3\u00a9oes do vale",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759884588216,
+      "content": "Pego m\u00c3\u00aas q vem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1759884024915,
+      "content": "Massa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3738343911128076433"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1758809814820,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoalves_1812302083500268/audio/823862280104497.mp4",
+          "creation_timestamp": 1758809812
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758809782262,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoalves_1812302083500268/audio/757956930560542.mp4",
+          "creation_timestamp": 1758809778
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1758809751017,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoalves_1812302083500268/audio/1140133304748613.mp4",
+          "creation_timestamp": 1758809747
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758809721912,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoalves_1812302083500268/audio/24692501213708574.mp4",
+          "creation_timestamp": 1758809718
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1758809160533,
+      "content": "Top a\u00c3\u00ad e massa",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3728997749858625344"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756316853187,
+      "content": "Blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756316837789,
+      "content": "Semana q vem levo pra vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756316831953,
+      "content": "Blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756316719787,
+      "content": "50",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756315537644,
+      "content": "Quanto cobra ne caminhonete?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314448185,
+      "content": "Estamos com uma promo\u00c3\u00a7\u00c3\u00a3o l\u00c3\u00a1 tbm cad\u00c3\u00aa 10 lavada ganha uma totalmente gr\u00c3\u00a1tis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314426731,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoalves_1812302083500268/videos/2611922709162214.mp4",
+          "creation_timestamp": 1756314420
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314382091,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoalves_1812302083500268/photos/1292537205934927.jpg",
+          "creation_timestamp": 1756314381
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314364012,
+      "content": "Blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314362306,
+      "content": "Caso poder d\u00c3\u00a1 essa moral a\u00c3\u00ad pra n\u00c3\u00b3s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314338340,
+      "content": "Estou com um lavador ali na Aleixo Paraguassu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314323986,
+      "content": "Caso precisar lavar da uma geral em seus ve\u00c3\u00adculos a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314304811,
+      "content": "Eu vejo que voc\u00c3\u00aa tem carro, moto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314295729,
+      "content": "Estou te mandando mensagem aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756314288420,
+      "content": "Blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756314212832,
+      "content": "Fala Rodrigo, Baum ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Alves",
+      "timestamp_ms": 1756311850116,
+      "content": "Boa tarde tudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo Alves",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodrigoalves_1812302083500268",
+  "magic_words": [
+    
+  ]
+}

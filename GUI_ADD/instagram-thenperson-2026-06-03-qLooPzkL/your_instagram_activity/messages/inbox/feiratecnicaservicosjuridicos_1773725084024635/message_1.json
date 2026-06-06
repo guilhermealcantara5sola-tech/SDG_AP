@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "FEIRA T\u00c3\u0089CNICA - Servi\u00c3\u00a7os jur\u00c3\u00addicos"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FEIRA T\u00c3\u0089CNICA - Servi\u00c3\u00a7os jur\u00c3\u00addicos",
+      "timestamp_ms": 1755201693924,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755197365858,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3699185946491593563"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FEIRA T\u00c3\u0089CNICA - Servi\u00c3\u00a7os jur\u00c3\u00addicos",
+      "timestamp_ms": 1752590176384,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FEIRA T\u00c3\u0089CNICA - Servi\u00c3\u00a7os jur\u00c3\u00addicos",
+      "timestamp_ms": 1752590139185,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752589591912,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "FEIRA T\u00c3\u0089CNICA - Servi\u00c3\u00a7os jur\u00c3\u00addicos"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3677310257684712876"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FEIRA T\u00c3\u0089CNICA - Servi\u00c3\u00a7os jur\u00c3\u00addicos",
+      "timestamp_ms": 1752589457251,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FEIRA T\u00c3\u0089CNICA - Servi\u00c3\u00a7os jur\u00c3\u00addicos",
+  "is_still_participant": true,
+  "thread_path": "inbox/feiratecnicaservicosjuridicos_1773725084024635",
+  "magic_words": [
+    
+  ]
+}

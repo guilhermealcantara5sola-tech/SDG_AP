@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Dra. Flora Sol"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dra. Flora Sol",
+      "timestamp_ms": 1754946425548,
+      "content": "Se achar quero tb .",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3696386641301023453"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dra. Flora Sol",
+  "is_still_participant": true,
+  "thread_path": "inbox/draflorasol_1681798869883924",
+  "magic_words": [
+    
+  ]
+}

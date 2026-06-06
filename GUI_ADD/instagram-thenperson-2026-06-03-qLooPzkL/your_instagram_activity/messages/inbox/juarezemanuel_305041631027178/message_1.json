@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Juarez Emanuel"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756723439713,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DN_P8YGkS4t/?id=3710754737722830381_76493345057",
+        "share_text": "Carcar\u00c3\u00a1: Deus \u00c3\u00a9 um ser supremo #instagood #foryoupage\u00f0\u009f\u0092\u0099 #policia #viralreels #foryou",
+        "original_content_owner": "facanacaveira61"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juarez Emanuel",
+  "is_still_participant": true,
+  "thread_path": "inbox/juarezemanuel_305041631027178",
+  "magic_words": [
+    
+  ]
+}

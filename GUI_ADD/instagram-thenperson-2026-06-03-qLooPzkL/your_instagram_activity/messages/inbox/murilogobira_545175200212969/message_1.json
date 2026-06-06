@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Murilo Gobira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772845507354,
+      "content": "Com certeza \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Murilo Gobira",
+      "timestamp_ms": 1772845453363,
+      "content": "Ai n\u00c3\u00a3o \u00c3\u00a9 a pipoca mais kkkk to brincando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772840257842,
+      "content": "5x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Murilo Gobira",
+      "timestamp_ms": 1772838563807,
+      "content": "Ah n\u00c3\u00a3o",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3846831145912671466"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Murilo Gobira",
+  "is_still_participant": true,
+  "thread_path": "inbox/murilogobira_545175200212969",
+  "magic_words": [
+    
+  ]
+}

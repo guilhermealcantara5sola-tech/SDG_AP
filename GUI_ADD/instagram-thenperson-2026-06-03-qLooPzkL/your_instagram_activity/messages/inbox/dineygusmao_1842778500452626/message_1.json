@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Diney Gusmao"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759254453030,
+      "content": "Faz essa ponte, preciso levar essa possibilidade de mudan\u00c3\u00a7a no m\u00c3\u00a1ximo de lugares poss\u00c3\u00adveis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diney Gusmao",
+      "timestamp_ms": 1759251372378,
+      "content": "Conhe\u00c3\u00a7o muita gente aqui!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diney Gusmao",
+      "timestamp_ms": 1759251354836,
+      "content": "Minha m\u00c3\u00a3e foi vereadora aqui e meu irm\u00c3\u00a3o \u00c3\u00a9 vereador a 5 mandatos",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diney Gusmao",
+      "timestamp_ms": 1759251303357,
+      "content": "Positivo Decha comigo!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759251256643,
+      "content": "Me apresenta a algumas pessoas a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759251244562,
+      "content": "Vou sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759251241344,
+      "content": "Fala diney, fico feliz demais pela confian\u00c3\u00a7a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diney Gusmao",
+      "timestamp_ms": 1759249567718,
+      "content": "Vc \u00c3\u00a9 o cara conte comigo sou de itinga e o meu voto \u00c3\u00a9 seu depois vc marcar a ma visita aqui pra popula\u00c3\u00a7\u00c3\u00a3o itiguense te conhecer!",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3733123168983679244"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diney Gusmao",
+  "is_still_participant": true,
+  "thread_path": "inbox/dineygusmao_1842778500452626",
+  "magic_words": [
+    
+  ]
+}

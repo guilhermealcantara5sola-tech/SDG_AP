@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Alves"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Alves",
+      "timestamp_ms": 1778581904726,
+      "content": "Tendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778581147769,
+      "content": "A vota\u00c3\u00a7\u00c3\u00a3o pra deputado ser\u00c3\u00a1 um \u00c3\u00b3timo term\u00c3\u00b4metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Alves",
+      "timestamp_ms": 1778578815270,
+      "content": "Uma boa ideia candidato a prefeito , cara com novas ideias",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3894708423266699148"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Alves",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasalves_1486591996173324",
+  "magic_words": [
+    
+  ]
+}

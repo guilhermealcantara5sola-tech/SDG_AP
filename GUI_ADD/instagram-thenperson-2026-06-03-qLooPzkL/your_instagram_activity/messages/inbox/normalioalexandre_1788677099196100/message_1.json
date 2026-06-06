@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "normalio alexandre"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1754086326699,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DM07C6lyFnm/?id=3689833679817300454_412444437",
+        "share_text": "E hj falamos sobre vaquejada, epis\u00c3\u00b3dio phodastico , vai ao ar segunda feira \u00c3\u00a0s 18h\n\n#valedojequitinhonha #janeladovalepodcast #vaquejada #vaqueiro #cavado #qm #quartodemilha",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "normalio alexandre",
+  "is_still_participant": true,
+  "thread_path": "inbox/normalioalexandre_1788677099196100",
+  "magic_words": [
+    
+  ]
+}

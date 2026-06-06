@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ronnie Peterson"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772540065414,
+      "content": "Trocou o cpf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ronnie Peterson",
+  "is_still_participant": true,
+  "thread_path": "inbox/ronniepeterson_1684487429615068",
+  "magic_words": [
+    
+  ]
+}

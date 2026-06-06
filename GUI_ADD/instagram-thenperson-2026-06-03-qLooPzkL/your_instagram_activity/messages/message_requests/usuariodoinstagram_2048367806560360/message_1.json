@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1777392913761,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1777392913139,
+      "content": "Ol\u00c3\u00a1, sou o agente geral da PG Gaming Group em S\u00c3\u00a3o Paulo.Estamos contratando para a PG Gaming.Sal\u00c3\u00a1rio di\u00c3\u00a1rio: R$ 2000 a R$ 10000 Se tiver interesse, entre em contato comigo pelo WhatsApp :+5512976217784",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagram_2048367806560360",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

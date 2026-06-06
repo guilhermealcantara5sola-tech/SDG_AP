@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Christiano - Intelig\u00c3\u00aancia Artificial"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christiano - Intelig\u00c3\u00aancia Artificial",
+      "timestamp_ms": 1752083823881,
+      "content": "Tmj irm\u00c3\u00a3o! Vi que voc\u00c3\u00aa est\u00c3\u00a1 na corrida a\u00c3\u00ad, boa sorte, espero que traga boas mudan\u00c3\u00a7as!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752078537828,
+      "content": "Obg pelo compartilhamento Cristiano, vlw meu irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christiano - Intelig\u00c3\u00aancia Artificial",
+  "is_still_participant": true,
+  "thread_path": "inbox/christianointeligenciaartificial_459081242155699",
+  "magic_words": [
+    
+  ]
+}

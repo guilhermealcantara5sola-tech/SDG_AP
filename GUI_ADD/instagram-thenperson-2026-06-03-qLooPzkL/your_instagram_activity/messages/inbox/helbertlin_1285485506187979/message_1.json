@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Helbert Lin"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Helbert Lin",
+      "timestamp_ms": 1757459357608,
+      "content": "Obrigado parceiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1757442332929,
+      "content": "Feliz anivers\u00c3\u00a1rio boneco, felicidades pra vc meu irm\u00c3\u00a3o, que Deus permita ter vc aqui por muitos e muitos anos nos inspirando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Helbert Lin",
+  "is_still_participant": true,
+  "thread_path": "inbox/helbertlin_1285485506187979",
+  "magic_words": [
+    
+  ]
+}

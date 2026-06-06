@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Larissa Ribeiro"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Larissa Ribeiro",
+      "timestamp_ms": 1757286013252,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3716425943519978816"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Larissa Ribeiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/larissaribeiro_1821977919199351",
+  "magic_words": [
+    
+  ]
+}

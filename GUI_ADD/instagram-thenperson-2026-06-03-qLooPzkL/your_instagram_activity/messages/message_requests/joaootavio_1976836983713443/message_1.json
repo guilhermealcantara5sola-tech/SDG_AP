@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jo\u00c3\u00a3o Ot\u00c3\u00a1vio"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo\u00c3\u00a3o Ot\u00c3\u00a1vio",
+      "timestamp_ms": 1771635524232,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3837021653746344151"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Ot\u00c3\u00a1vio",
+      "timestamp_ms": 1771635523486,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3837021653746344151"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo\u00c3\u00a3o Ot\u00c3\u00a1vio",
+  "is_still_participant": true,
+  "thread_path": "message_requests/joaootavio_1976836983713443",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

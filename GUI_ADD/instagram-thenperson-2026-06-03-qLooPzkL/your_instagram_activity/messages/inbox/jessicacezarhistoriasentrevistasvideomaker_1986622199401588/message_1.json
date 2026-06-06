@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Jessica Cezar | Hist\u00c3\u00b3rias & Entrevistas | VideoMaker"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica Cezar | Hist\u00c3\u00b3rias & Entrevistas | VideoMaker",
+      "timestamp_ms": 1772541820459,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772541812283,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Jessica Cezar | Hist\u00c3\u00b3rias & Entrevistas | VideoMaker"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jessica Cezar | Hist\u00c3\u00b3rias & Entrevistas | VideoMaker",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessicacezarhistoriasentrevistasvideomaker_1986622199401588",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Sergio Resende"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765303794445,
+      "content": "\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Resende",
+      "timestamp_ms": 1765303578838,
+      "content": "Seja bem-vindo, amigo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Resende",
+      "timestamp_ms": 1763915685094,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1763862362318,
+      "content": "Sabendo que tendemos a buscar justificativas para verdades que nos interessam,  fico feliz  Por ter gostado do seu perfil.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sergio Resende"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sergio Resende",
+  "is_still_participant": true,
+  "thread_path": "inbox/sergioresende_1953989279330317",
+  "magic_words": [
+    
+  ]
+}

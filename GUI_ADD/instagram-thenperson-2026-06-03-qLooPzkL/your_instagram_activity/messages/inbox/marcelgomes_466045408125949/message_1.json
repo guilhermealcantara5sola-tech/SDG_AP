@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Marcel Gomes"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcel Gomes",
+      "timestamp_ms": 1749078869990,
+      "content": "8,0g",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749078167473,
+      "content": "Quantas a\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749078157075,
+      "content": "Rolou esse v\u00c3\u00addeo em um grupo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749078144457,
+      "content": "Lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcel Gomes",
+      "timestamp_ms": 1749076215922,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/marcelgomes_466045408125949/videos/1241859797306188.mp4",
+          "creation_timestamp": 1749076206
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcel Gomes",
+      "timestamp_ms": 1749076212505,
+      "content": "Fiz na impressora a laser molde e joguei no ouro da uma olhada como ficou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcel Gomes",
+      "timestamp_ms": 1749076178884,
+      "content": "Fiz um pingente ma\u00c3\u00a7onaria em ouro pra um cliente Itaobim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcel Gomes",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcelgomes_466045408125949",
+  "magic_words": [
+    
+  ]
+}

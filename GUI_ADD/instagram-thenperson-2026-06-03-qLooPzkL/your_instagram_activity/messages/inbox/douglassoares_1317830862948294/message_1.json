@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Douglas Soares"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Douglas Soares",
+      "timestamp_ms": 1757437664876,
+      "content": "Olha nunca falei isso, mas nao sou muito de me envolver com politica, mas caso precise de auxilio nas campanhas, e se estiver em meu alcance. pode contar com a minha presen\u00c3\u00a7a. Temos q sim acreditar no vale e em n\u00c3\u00b3s do vale. Que Deus aben\u00c3\u00a7oe muito a sua jornada",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3717885886471192805"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Douglas Soares",
+      "timestamp_ms": 1757342080385,
+      "content": "bem isso ai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1757342039027,
+      "content": "Tipo a Copasa comprar \u00c3\u00a1gua para os funcion\u00c3\u00a1rios beberem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1757342013719,
+      "content": "Concordo demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Douglas Soares",
+      "timestamp_ms": 1757338831805,
+      "content": "Uma coisa que acredito que melhoraria nosso sistema de saude, educa\u00c3\u00a7\u00c3\u00a3o e setores publicos diversos, de verdade mesmo, seria se os representantes publicos, Presidente, vice, senadores, Deputados, judiciario passassem a ser obrigatorio o uso do servi\u00c3\u00a7o publico...\u00c3\u00a9 o que acredito",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3717074968350932880"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Douglas Soares",
+  "is_still_participant": true,
+  "thread_path": "inbox/douglassoares_1317830862948294",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ederlaine Almeida Panseri"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773230700286,
+      "content": "Kkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773228545598,
+      "content": "\u00c3\u0089 o que todo mundo pensa mas a maioria n tem coragem de dizer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ederlaine Almeida Panseri",
+  "is_still_participant": true,
+  "thread_path": "inbox/ederlainealmeidapanseri_1119858489411301",
+  "magic_words": [
+    
+  ]
+}

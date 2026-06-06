@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "romy"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "romy",
+      "timestamp_ms": 1763571225469,
+      "content": "Hj... muitos conseguiram sair desses supermercado de escravid\u00c3\u00a3o isso ningu\u00c3\u00a9m fala , antes nem o sal\u00c3\u00a1rio m\u00c3\u00adnimo pagava",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "romy",
+      "timestamp_ms": 1763571130343,
+      "content": "O que mais tem aqui...mula dos\n   Dos pol\u00c3\u00adticos que roubam o nosso dinheiro entrega uma cesta b\u00c3\u00a1sica e o povo ainda aplaude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "romy",
+  "is_still_participant": true,
+  "thread_path": "inbox/romy_1895185885211887",
+  "magic_words": [
+    
+  ]
+}

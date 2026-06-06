@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Vis\u00c3\u00a3o Almenara"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778928589448,
+      "content": "Eu tava guardando esse pra mais pra frente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vis\u00c3\u00a3o Almenara",
+      "timestamp_ms": 1778628188412,
+      "content": "Boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778624280542,
+      "content": "Ele vai no podcast sexta, vou perguntar isso a ele",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vis\u00c3\u00a3o Almenara",
+      "timestamp_ms": 1778551434532,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778501899698,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYMq_pboAMt/?id=3894676869536023341_412444437",
+        "share_text": "O gente boa, n\u00c3\u00a3o vai falar os n\u00c3\u00a3os que precisa,  n\u00c3\u00a3o tem coragem de enfrentar desconfortos necess\u00c3\u00a1rios,  ele sempre vai dar um jeito de tirar o dele fora com a maior vantagem pessoal poss\u00c3\u00advel.",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778495742932,
+      "content": "Muito obg",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vis\u00c3\u00a3o Almenara"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vis\u00c3\u00a3o Almenara",
+      "timestamp_ms": 1778463939663,
+      "content": "Vis\u00c3\u00a3o enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DYLiCUcDcUO/",
+        "share_text": "",
+        "original_content_owner": "visaoalmenara"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777997065904,
+      "content": "\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vis\u00c3\u00a3o Almenara",
+  "is_still_participant": true,
+  "thread_path": "inbox/visaoalmenara_2049680446429096",
+  "magic_words": [
+    
+  ]
+}

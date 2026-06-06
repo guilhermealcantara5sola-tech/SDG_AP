@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Igor Pereira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Igor Pereira",
+      "timestamp_ms": 1772808765343,
+      "content": "Igor enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DVi93TajuzU/?id=3846909112982891732_44856103736",
+        "share_text": "Hoje tive a honra de estar ao lado do meu pastor presidente, um homem que Deus colocou em minha vida como pai espiritual, amigo e conselheiro.\n\nUm l\u00c3\u00adder que n\u00c3\u00a3o apenas prega, mas caminha junto, apoia, orienta e fortalece aqueles que Deus confiou em suas m\u00c3\u00a3os.\n\nSou grato a Deus por sua vida, pastor. Sua cobertura, seus conselhos e seu apoio t\u00c3\u00aam sido fundamentais na minha caminhada ministerial.\n\nQuem anda com homens de Deus, aprende a viver os prop\u00c3\u00b3sitos de Deus.",
+        "original_content_owner": "pastor_igor_pereira"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Igor Pereira",
+  "is_still_participant": true,
+  "thread_path": "inbox/igorpereira_1723937259003418",
+  "magic_words": [
+    
+  ]
+}

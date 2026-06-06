@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "S\u00c3\u00a9rgio"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1757464596014,
+      "share": {
+        "link": "https://www.instagram.com/stories/guto_batistalacerda_agro/3718165518637614652",
+        "original_content_owner": "guto_batistalacerda_agro"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "S\u00c3\u00a9rgio",
+  "is_still_participant": true,
+  "thread_path": "inbox/sergio_438857880846775",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Romeu Paris / consultoria online"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Romeu Paris / consultoria online",
+      "timestamp_ms": 1749685381771,
+      "content": "Vou fazer amanh\u00c3\u00a3 kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749684559168,
+      "content": "Faz de reels esse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Romeu Paris / consultoria online",
+  "is_still_participant": true,
+  "thread_path": "inbox/romeuparisconsultoriaonline_582743543122801",
+  "magic_words": [
+    
+  ]
+}

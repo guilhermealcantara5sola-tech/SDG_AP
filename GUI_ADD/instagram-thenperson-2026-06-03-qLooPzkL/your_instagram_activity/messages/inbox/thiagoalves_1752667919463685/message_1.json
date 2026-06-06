@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Thiago Alves"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thiago Alves",
+      "timestamp_ms": 1751334666327,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751327057684,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3666719399264407204"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750526812389,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3660006507334214388"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thiago Alves",
+  "is_still_participant": true,
+  "thread_path": "inbox/thiagoalves_1752667919463685",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Leonardo Ferreira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leonardo Ferreira",
+      "timestamp_ms": 1777564902140,
+      "content": "Como passou essa \u00c3\u00a1gua se ontem o reservat\u00c3\u00b3rio estava fechado e o sistema desligado ...\n\nEstranho viu??\n\nSe o povo tava tacando fogo em pneus pq a copanor desligou o sistema e quem vai assumir por 180 dias \u00c3\u00a9 a prefeitura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leonardo Ferreira",
+  "is_still_participant": true,
+  "thread_path": "message_requests/leonardoferreira_2050255549704919",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

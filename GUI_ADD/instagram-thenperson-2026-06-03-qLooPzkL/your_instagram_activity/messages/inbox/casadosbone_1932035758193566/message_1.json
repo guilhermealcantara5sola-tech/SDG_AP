@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "casa.dosbone"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "casa.dosbone",
+      "timestamp_ms": 1777167087911,
+      "content": "Fotao",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3883416314823854357"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771191550736,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3833334378344803435"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767375559993,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "casa.dosbone",
+      "timestamp_ms": 1767375312540,
+      "content": "Eu Deputado!",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3801280655129096947"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "casa.dosbone",
+  "is_still_participant": true,
+  "thread_path": "inbox/casadosbone_1932035758193566",
+  "magic_words": [
+    
+  ]
+}

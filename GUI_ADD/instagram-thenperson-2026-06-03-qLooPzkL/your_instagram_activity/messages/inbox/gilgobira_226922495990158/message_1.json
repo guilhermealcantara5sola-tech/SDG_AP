@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Gil Gobira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780008116666,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gilgobira_226922495990158/audio/1004113828790744.mp4",
+          "creation_timestamp": 1780008112
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gil Gobira",
+      "timestamp_ms": 1780007453188,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gilgobira_226922495990158/audio/989452916826568.mp4",
+          "creation_timestamp": 1780007448
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780006402082,
+      "content": "C t\u00c3\u00a1 pegando todos esses dados de prop\u00c3\u00b3sito ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780006374161,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780006372665,
+      "content": "Moss \u00c3\u00a9 um enem pra finalizar a compra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gil Gobira",
+      "timestamp_ms": 1780004442526,
+      "content": "https://ticketwork.com.br/almenara-fogo-de-chao-2026__3405",
+      "share": {
+        "link": "https://ticketwork.com.br/almenara-fogo-de-chao-2026__3405",
+        "share_text": "https://ticketwork.com.br/almenara-fogo-de-chao-2026__3405"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780004163712,
+      "content": "Fala meu amigo, manda o link  pra n\u00c3\u00b3s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756585276554,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gil Gobira",
+  "is_still_participant": true,
+  "thread_path": "inbox/gilgobira_226922495990158",
+  "magic_words": [
+    
+  ]
+}

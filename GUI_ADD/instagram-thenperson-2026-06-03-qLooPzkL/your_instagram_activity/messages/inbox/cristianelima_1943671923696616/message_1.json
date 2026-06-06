@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "C R I S T I A N E   L I M A"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768580132143,
+      "content": "Obg pela confian\u00c3\u00a7a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C R I S T I A N E   L I M A",
+      "timestamp_ms": 1768579902268,
+      "content": "Tamb\u00c3\u00a9m tem o meu, a tempo venho acompanhando suas postagens e vejo nelas um pisca alerta pra melhoria do vale\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3811416399512369064"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "C R I S T I A N E   L I M A",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristianelima_1943671923696616",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Marilene Antunes dos Santos"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779591915844,
+      "content": "Por isso msm que peguei essa empreitada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779591899436,
+      "content": "N\u00c3\u00a3o temos deputados estaduais que representam nosso vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779591885933,
+      "content": "Acredito que a falta de representatividade \u00c3\u00a9 nosso principal problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marilene Antunes dos Santos",
+      "timestamp_ms": 1779588371747,
+      "content": "J\u00c3\u00a1 passou de ser mudado a muito tempo mais o povo n\u00c3\u00a3o cobra os direitos humanos e uma vergonha uma falta de respeito pelo o nosso vale Tam querido e a minha opini\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marilene Antunes dos Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/marileneantunesdossantos_1221433266617455",
+  "magic_words": [
+    
+  ]
+}

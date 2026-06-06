@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Ariane Fran\u00c3\u00a7a"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767887559016,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/arianefranca_1719332832793824/audio/2098054584275209.mp4",
+          "creation_timestamp": 1767887554
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariane Fran\u00c3\u00a7a",
+      "timestamp_ms": 1767885869123,
+      "content": "Eu achei que era pago o abada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767864367157,
+      "content": "A fest \u00c3\u00a9 aberta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariane Fran\u00c3\u00a7a",
+      "timestamp_ms": 1767829075707,
+      "content": "O abada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariane Fran\u00c3\u00a7a",
+      "timestamp_ms": 1767829072436,
+      "content": "Quanto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767828332564,
+      "content": "C vem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767828329227,
+      "content": "Sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariane Fran\u00c3\u00a7a",
+      "timestamp_ms": 1767826111077,
+      "content": "Que dia come\u00c3\u00a7a a micaretara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariane Fran\u00c3\u00a7a",
+      "timestamp_ms": 1767826097426,
+      "content": "Primo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750974209709,
+      "content": "Vi umas fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariane Fran\u00c3\u00a7a",
+      "timestamp_ms": 1750970638288,
+      "content": "Semana passada jaja volto",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3663703857856864959"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariane Fran\u00c3\u00a7a",
+      "timestamp_ms": 1750970628205,
+      "content": "Eu estava ai",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3663703857856864959"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ariane Fran\u00c3\u00a7a",
+  "is_still_participant": true,
+  "thread_path": "inbox/arianefranca_1719332832793824",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Guilherme Henrique"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guilherme Henrique",
+      "timestamp_ms": 1769269860905,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3817209690234129305"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guilherme Henrique",
+  "is_still_participant": true,
+  "thread_path": "inbox/guilhermehenrique_1950729902990818",
+  "magic_words": [
+    
+  ]
+}

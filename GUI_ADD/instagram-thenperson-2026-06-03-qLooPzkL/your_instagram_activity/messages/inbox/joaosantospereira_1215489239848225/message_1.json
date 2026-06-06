@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Joao Santos Pereira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766413354364,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3793272574949318219"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joao Santos Pereira",
+      "timestamp_ms": 1766409761882,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joao Santos Pereira",
+      "timestamp_ms": 1764607231061,
+      "content": "Joao enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joao Santos Pereira",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaosantospereira_1215489239848225",
+  "magic_words": [
+    
+  ]
+}

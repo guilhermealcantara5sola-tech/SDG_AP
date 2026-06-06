@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "I love 666"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Dj Mike"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Ana Karla"
+    },
+    {
+      "name": "Silvio dos santos"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1764782445263,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1764782444837,
+      "content": "Ol\u00c3\u00a1, sou o gerente da PG. Possu\u00c3\u00admos licen\u00c3\u00a7a comercial formal e estamos procurando parceiros qualificados. Pagamos sal\u00c3\u00a1rios diariamente e nunca deixamos de pag\u00c3\u00a1-los. Voc\u00c3\u00aa pode entrar em contato conosco pelo WhatsApp:+16292899329",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1764782441151,
+      "content": "A contact created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "I love 666, Dj Mike, Usu\u00c3\u00a1rio do Instagram and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/ilove666djmikeusuariodoinstagramand2others_1180450570730064",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbZ81f64aziW_4Z_/"
+  },
+  "is_pending": true
+}

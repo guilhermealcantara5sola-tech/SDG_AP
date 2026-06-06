@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Marcos Pereira Sobral"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773400130182,
+      "content": "Bom dia Marc\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Pereira Sobral",
+      "timestamp_ms": 1769739945315,
+      "content": "Nossa,  desculpe Thenperson eu quase nao vejo mensagens aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769041891841,
+      "content": "Salve Marc\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768823121430,
+      "content": "Ent\u00c3\u00a3o \u00c3\u00a9 cantor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768340323738,
+      "content": "Vlw Marc\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750103311482,
+      "content": "Vlw Marc\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcos Pereira Sobral",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcospereirasobral_1700664014665939",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Emanuelle Ferraz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755197370379,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3699185946491593563"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emanuelle Ferraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/emanuelleferraz_1271196191053203",
+  "magic_words": [
+    
+  ]
+}

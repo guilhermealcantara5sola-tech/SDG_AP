@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Dr. Felipe Karlovic - Protocolo FK"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr. Felipe Karlovic - Protocolo FK",
+      "timestamp_ms": 1767403420438,
+      "content": "Oi! Como podemos ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767403420315,
+      "content": "Voc\u00c3\u00aa abriu esta conversa por meio de um an\u00c3\u00bancio. Ver an\u00c3\u00bancio(https://www.instagram.com/p/DNT8xmXMPw1/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dr. Felipe Karlovic - Protocolo FK",
+      "timestamp_ms": 1767392460466,
+      "content": "Ol\u00c3\u00a1.\nPara ter um or\u00c3\u00a7amento do seu caso siga as orienta\u00c3\u00a7\u00c3\u00b5es abaixo \u00f0\u009f\u0091\u0087\u00f0\u009f\u008f\u00bb!\n\nPor gentileza assista aos DESTAQUES para conhecer o PROTOCOLO FK\n\nMande um \u00e2\u0080\u009cV\u00c3\u008dDEO \u00e2\u0080\u009cdo sorriso para que possa avaliar, este orc\u00cc\u00a7amento tem validade de 15 dias.\n\nAtendo em S\u00c3\u00a3o Paulo, no bairro Tatuap\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767380069181,
+      "content": "Valores",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dr. Felipe Karlovic - Protocolo FK",
+      "timestamp_ms": 1767380065826,
+      "content": "Oi! Como podemos ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767380064312,
+      "content": "Voc\u00c3\u00aa abriu esta conversa por meio de um an\u00c3\u00bancio. Ver an\u00c3\u00bancio(https://www.instagram.com/p/DNblAoxsKPY/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dr. Felipe Karlovic - Protocolo FK",
+  "is_still_participant": true,
+  "thread_path": "inbox/drfelipekarlovicprotocolofk_1932083008188841",
+  "magic_words": [
+    
+  ]
+}

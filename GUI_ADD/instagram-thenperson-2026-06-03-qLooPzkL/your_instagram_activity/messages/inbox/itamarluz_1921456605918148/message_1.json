@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Itamar Luz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1766279662052,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3792151062578051051"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Itamar Luz",
+  "is_still_participant": true,
+  "thread_path": "inbox/itamarluz_1921456605918148",
+  "magic_words": [
+    
+  ]
+}

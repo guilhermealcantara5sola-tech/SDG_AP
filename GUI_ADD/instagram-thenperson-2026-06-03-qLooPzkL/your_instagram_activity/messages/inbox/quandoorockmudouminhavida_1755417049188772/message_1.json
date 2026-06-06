@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Quando o Rock Mudou Minha Vida"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Quando o Rock Mudou Minha Vida",
+      "timestamp_ms": 1750813155941,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/quandoorockmudouminhavida_1755417049188772/photos/1275344137507453.jpg",
+          "creation_timestamp": 1750813153
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Quando o Rock Mudou Minha Vida",
+  "is_still_participant": true,
+  "thread_path": "inbox/quandoorockmudouminhavida_1755417049188772",
+  "magic_words": [
+    
+  ]
+}

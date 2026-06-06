@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Leonardo Pereira Silva"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leonardo Pereira Silva",
+      "timestamp_ms": 1752575012681,
+      "content": "Bom dia, Thenperson , estou precisando falar com vc. Me liga 33984567717",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leonardo Pereira Silva",
+  "is_still_participant": true,
+  "thread_path": "inbox/leonardopereirasilva_1773563370707473",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Renata Oliveira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765988431348,
+      "content": "Caminhada, corrida\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765988408605,
+      "content": "Fa\u00c3\u00a7o yoga sempre s\u00c3\u00b3 vendo v\u00c3\u00addeo no YouTube",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765988393729,
+      "content": "Mas te digo que vc j\u00c3\u00a1 consegue fazer sem aux\u00c3\u00adlio de ningu\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765988281054,
+      "content": "Ei Renata, a atividade f\u00c3\u00adsica \u00c3\u00a9 alicerce de uma mente saud\u00c3\u00a1vel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759369948903,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3734188203088658789"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renata Oliveira",
+      "timestamp_ms": 1759365643647,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renata Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/renataoliveira_573763237354165",
+  "magic_words": [
+    
+  ]
+}

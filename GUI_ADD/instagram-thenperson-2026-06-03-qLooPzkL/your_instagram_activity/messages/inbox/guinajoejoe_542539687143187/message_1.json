@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "GuinaJoe Joe"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GuinaJoe Joe",
+      "timestamp_ms": 1750801763447,
+      "content": "T\u00c3\u00a1 doido \u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750801746093,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/guinajoejoe_542539687143187/audio/2220631951706610.mp4",
+          "creation_timestamp": 1750801742
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GuinaJoe Joe",
+      "timestamp_ms": 1750801721442,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/guinajoejoe_542539687143187/audio/604637889345298.mp4",
+          "creation_timestamp": 1750801718
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GuinaJoe Joe",
+      "timestamp_ms": 1750801702971,
+      "content": "Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GuinaJoe Joe",
+      "timestamp_ms": 1750801699599,
+      "content": "O moss j\u00c3\u00a1 tentei comer esse trem de tudo que \u00c3\u00a9 jeito, n\u00c3\u00a3o vai n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750801683858,
+      "content": "Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750801682614,
+      "content": "No jeito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GuinaJoe Joe",
+      "timestamp_ms": 1750801673686,
+      "content": "Kkk e a\u00c3\u00ad j\u00c3\u00a1 est\u00c3\u00a1 pronto pra comer ? \u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3662289081175027303"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GuinaJoe Joe",
+  "is_still_participant": true,
+  "thread_path": "inbox/guinajoejoe_542539687143187",
+  "magic_words": [
+    
+  ]
+}

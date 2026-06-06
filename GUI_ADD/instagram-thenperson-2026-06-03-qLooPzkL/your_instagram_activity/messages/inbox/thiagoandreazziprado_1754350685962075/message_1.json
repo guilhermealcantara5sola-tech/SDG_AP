@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Thiago Andreazzi Prado"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750701763168,
+      "content": "\u00c3\u0089poca boa viu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750701756091,
+      "content": "Slide veiiii, tinha esquecido, kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thiago Andreazzi Prado",
+      "timestamp_ms": 1750701591485,
+      "content": "Kkkkkkkkkkk...cabe\u00c3\u00a7a... slide .... e por a\u00c3\u00ad vai .... facilitaria n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750701522989,
+      "content": "Rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750701518217,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/thiagoandreazziprado_1754350685962075/audio/1992890984850180.mp4",
+          "creation_timestamp": 1750701514
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thiago Andreazzi Prado",
+      "timestamp_ms": 1750701487228,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1750701406728,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thiago Andreazzi Prado"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thiago Andreazzi Prado",
+  "is_still_participant": true,
+  "thread_path": "inbox/thiagoandreazziprado_1754350685962075",
+  "magic_words": [
+    
+  ]
+}

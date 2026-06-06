@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Marcus Borges"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcus Borges",
+      "timestamp_ms": 1764095322103,
+      "content": "Fala Tio, como est\u00c3\u00a1? \nEstou vendo sua movimenta\u00c3\u00a7\u00c3\u00a3o com rela\u00c3\u00a7\u00c3\u00a3o a defender os interesses do Vale, sem sombra de d\u00c3\u00bavidas defenderei sua candidatura e pode ter certeza que meu voto \u00c3\u00a9 seu. Apesar de n\u00c3\u00a3o ter nascido a\u00c3\u00ad na regi\u00c3\u00a3o, tenho um carinho imenso por a\u00c3\u00ad, tanto que meu TCC vai ser um document\u00c3\u00a1rio sobre a regi\u00c3\u00a3o, talvez eu te pe\u00c3\u00a7a ajuda pra falar sobre a\u00c3\u00ad. Abra\u00c3\u00a7os tio",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3773224956361530228"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcus Borges",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcusborges_1905219547546996",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "participants": [
+    {
+      "name": "Flamingo"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Flamingo",
+      "timestamp_ms": 1778625861335,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flamingo",
+      "timestamp_ms": 1778625792372,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778623648784,
+      "content": "Precisamos de fotos de pessoas comendo aqui, no feed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778615000714,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Flamingo"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3895627253555934280"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flamingo",
+      "timestamp_ms": 1777421998920,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777421936531,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Flamingo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flamingo",
+      "timestamp_ms": 1777421282115,
+      "content": "Flamingo enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DXsaEvugdJQ/",
+        "share_text": "\u00f0\u009f\u008d\u0094\u00f0\u009f\u0094\u00a5 Vote na Melhor Hamburgueria da Cidade! \u00f0\u009f\u0094\u00a5\u00f0\u009f\u008d\u0094\nSabor, qualidade e aquele hamb\u00c3\u00barguer irresist\u00c3\u00advel que conquista todo mundo! \u00f0\u009f\u0098\u008b\n\u00f0\u009f\u00a5\u00a9 Hamb\u00c3\u00barguer artesanal\n\u00f0\u009f\u008d\u0094 Recheio caprichado\n\u00f0\u009f\u0094\u00a5 Preparo no ponto certo\n\u00f0\u009f\u0098\u008a Atendimento atencioso\n\u00f0\u009f\u0097\u00b3\u00ef\u00b8\u008f Comente o nome da melhor hamburgueria da cidade!",
+        "original_content_owner": "angelapesquisas"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flamingo",
+      "timestamp_ms": 1752788024925,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752766571953,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Flamingo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Flamingo",
+  "is_still_participant": true,
+  "thread_path": "inbox/flamingo_1350920966305051",
+  "magic_words": [
+    
+  ]
+}

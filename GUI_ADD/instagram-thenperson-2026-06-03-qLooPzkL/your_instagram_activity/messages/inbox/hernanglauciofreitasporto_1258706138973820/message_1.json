@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Hernan Gl\u00c3\u00a1ucio Freitas Porto"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hernan Gl\u00c3\u00a1ucio Freitas Porto",
+      "timestamp_ms": 1751468262753,
+      "content": "O de Teofilo Otoni",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751068441274,
+      "content": "Qual vc gostou mais ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernan Gl\u00c3\u00a1ucio Freitas Porto",
+      "timestamp_ms": 1751068193893,
+      "content": "J\u00c3\u00a1 fui nos dois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751018558611,
+      "content": "Restaurante do Paulinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751018550833,
+      "content": "Mas tem um parecido dentro do mercado novo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751018539080,
+      "content": "Otoni",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751018532092,
+      "content": "Esse \u00c3\u00a9 na Serra antes de Te\u00c3\u00b3filo outono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernan Gl\u00c3\u00a1ucio Freitas Porto",
+      "timestamp_ms": 1750892828018,
+      "content": "Amigo onde fica esse restaurante em almenara",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3662859806402848290"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hernan Gl\u00c3\u00a1ucio Freitas Porto",
+  "is_still_participant": true,
+  "thread_path": "inbox/hernanglauciofreitasporto_1258706138973820",
+  "magic_words": [
+    
+  ]
+}

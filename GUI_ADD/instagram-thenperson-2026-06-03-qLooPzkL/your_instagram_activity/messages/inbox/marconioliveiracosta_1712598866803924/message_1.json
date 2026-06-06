@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Marconi Oliveira Costa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marconi Oliveira Costa",
+      "timestamp_ms": 1749131795010,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3648223131573069394"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marconi Oliveira Costa",
+      "timestamp_ms": 1749046358843,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3647528442472283451"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marconi Oliveira Costa",
+  "is_still_participant": true,
+  "thread_path": "inbox/marconioliveiracosta_1712598866803924",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Tonny Santos"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tonny Santos",
+      "timestamp_ms": 1775324579688,
+      "content": "Ol\u00c3\u00a1 boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tonny Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/tonnysantos_2024310512299423",
+  "magic_words": [
+    
+  ]
+}

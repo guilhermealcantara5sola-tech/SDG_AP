@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Flavio Souza"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769030341610,
+      "content": "Kkkkkk, saulao \u00c3\u00a9 phoda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flavio Souza",
+      "timestamp_ms": 1769028922475,
+      "content": "Esse \u00c3\u00a1udio me \"quebra\" kkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3814967953074960073"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Flavio Souza",
+  "is_still_participant": true,
+  "thread_path": "inbox/flaviosouza_1971891437543916",
+  "magic_words": [
+    
+  ]
+}

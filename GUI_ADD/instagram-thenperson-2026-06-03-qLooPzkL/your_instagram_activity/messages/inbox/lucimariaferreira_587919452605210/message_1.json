@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Lucimaria Ferreira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucimaria Ferreira",
+      "timestamp_ms": 1756400458997,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3709108408969662496"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucimaria Ferreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucimariaferreira_587919452605210",
+  "magic_words": [
+    
+  ]
+}

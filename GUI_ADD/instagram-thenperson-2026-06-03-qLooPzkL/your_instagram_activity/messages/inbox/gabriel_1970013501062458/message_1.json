@@ -1,0 +1,141 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1772204409943,
+      "content": "Mas muito obrigado!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1772204403979,
+      "content": "A entendi tio, mas \u00c3\u00a9 pra uma pessoa s\u00c3\u00b3, tr\u00c3\u00aas meninos v\u00c3\u00a3o ficar na casa do H\u00c3\u00a9lio e o tio vai dormir em hotel mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772203815174,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gabriel_1970013501062458/audio/806745695734632.mp4",
+          "creation_timestamp": 1772203810
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772203792508,
+      "content": "Consigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1772203063264,
+      "content": "Consegue ent\u00c3\u00a3o?, tou agilizando aquii pq se n\u00c3\u00a3o desse eu ia olhar uma di\u00c3\u00a1ria de hotel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772202919823,
+      "content": "Damos jeito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772202914145,
+      "content": "Opaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1772202336551,
+      "content": "O senhor consegue o lugar? Vai ser s\u00c3\u00b3 pra uma pessoa, os outros conseguiram lugar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1772202313757,
+      "content": "Opa tio, bom dia, tudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771064953382,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771064952882,
+      "content": "+55 33 98813-3900 H\u00c3\u00a9lio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771064852640,
+      "content": "Consigo lugar para  vcs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1771028025608,
+      "content": "Se nada desse certo, poderia ver algum hotel que o senhor indicasse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1771027995780,
+      "content": "E se teria lugar pra alguns meninos dormirem, na reabertura do cap\u00c3\u00adtulo que teve eu fui um dos 3 que dormiram na casa do senhor, a\u00c3\u00ad queria saber se teria possibilidade de dormir a\u00c3\u00ad de novo ou ver algum outro lugar com algum tio/irm\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1771027923249,
+      "content": "Tio, duas coisas que queria ver com o senhor, ce poderia me passar o n\u00c3\u00bamero do atual Mestre Conselheiro da\u00c3\u00ad de Almenara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771023249041,
+      "content": "Boa noite Gabriel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel",
+      "timestamp_ms": 1771021220263,
+      "content": "Opa tio, boa tarde, tudo bem com o senhor?, sou DeMolay, quando puder me responda por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriel",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabriel_1970013501062458",
+  "magic_words": [
+    
+  ]
+}

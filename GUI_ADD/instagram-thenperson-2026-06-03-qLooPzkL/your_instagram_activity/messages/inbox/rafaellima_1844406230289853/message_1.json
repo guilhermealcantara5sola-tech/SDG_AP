@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Rafael Lima"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafael Lima",
+      "timestamp_ms": 1759410015380,
+      "content": "S\u00c3\u00b3 nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759409956997,
+      "content": "Vc \u00c3\u00a9 um forte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Lima",
+      "timestamp_ms": 1759409005014,
+      "content": "Gosto demais de empreendedores",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759402228538,
+      "content": "Boa ideia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Lima",
+      "timestamp_ms": 1759397852339,
+      "content": "Leva esse assunto pro janela do Vale muito bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafael Lima",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafaellima_1844406230289853",
+  "magic_words": [
+    
+  ]
+}

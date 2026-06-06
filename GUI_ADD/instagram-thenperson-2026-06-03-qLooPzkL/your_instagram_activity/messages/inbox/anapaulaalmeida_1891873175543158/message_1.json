@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Ana Paula Almeida"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770943014209,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana Paula Almeida",
+      "timestamp_ms": 1763241747266,
+      "content": "Nossa, interessante. N\u00c3\u00a3o sei qual \u00c3\u00a9 a posi\u00c3\u00a7\u00c3\u00a3o da cama. Irei observar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana Paula Almeida",
+      "timestamp_ms": 1763241687819,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1763241115763,
+      "content": "Pela posi\u00c3\u00a7\u00c3\u00a3o da sua cama, ela estava na dire\u00c3\u00a7\u00c3\u00a3o que o sol nasce e p\u00c3\u00b5e ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1763241069186,
+      "content": "Estudos esot\u00c3\u00a9ricos",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ana Paula Almeida"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana Paula Almeida",
+      "timestamp_ms": 1763240657741,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana Paula Almeida",
+      "timestamp_ms": 1763240657519,
+      "content": "\u00c3\u0089 s\u00c3\u00a9rio? Hahahahha onde vc leu isso? Para mim \u00c3\u00a9 a percep\u00c3\u00a7\u00c3\u00a3o de espa\u00c3\u00a7o que eles ainda n\u00c3\u00a3o desenvolveram. \u00c3\u0089 um comportamento bem comum.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1763237817078,
+      "content": "Dizem que eles procuram a dire\u00c3\u00a7\u00c3\u00a3o leste oeste pra dormir",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ana Paula Almeida"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ana Paula Almeida",
+  "is_still_participant": true,
+  "thread_path": "inbox/anapaulaalmeida_1891873175543158",
+  "magic_words": [
+    
+  ]
+}

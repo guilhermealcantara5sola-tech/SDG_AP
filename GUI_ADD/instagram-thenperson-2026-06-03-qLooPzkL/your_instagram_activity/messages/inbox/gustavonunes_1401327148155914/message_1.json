@@ -1,0 +1,122 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Nunes"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780009666552,
+      "content": "Vlw meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Nunes",
+      "timestamp_ms": 1780008605104,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3907228868213752775"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Nunes",
+      "timestamp_ms": 1778187860197,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3891954369356637834"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Nunes",
+      "timestamp_ms": 1772724711876,
+      "content": "\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f isso a\u00c3\u00ad, transpar\u00c3\u00aancia \u00c3\u00a9 tudo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772724536348,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavonunes_1401327148155914/audio/910288018461965.mp4",
+          "creation_timestamp": 1772724531
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Nunes",
+      "timestamp_ms": 1772724395623,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavonunes_1401327148155914/audio/1648848076130831.mp4",
+          "creation_timestamp": 1772724392
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772715442360,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavonunes_1401327148155914/audio/925381319882741.mp4",
+          "creation_timestamp": 1772715438
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Nunes",
+      "timestamp_ms": 1772713982382,
+      "content": "Verdades que o povo deveria ouvir... Sempre em ano eleitoral eles aparecem. Parab\u00c3\u00a9ns pela sua opini\u00c3\u00a3o formada. Mais um motivo para votar em voc\u00c3\u00aa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Nunes",
+      "timestamp_ms": 1770378595485,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770375999566,
+      "content": "Bom dia Gustavo,\nFico muito feliz sua msg\nCada gesto de apoio desse \u00c3\u00a9 uma inje\u00c3\u00a7\u00c3\u00a3o de \u00c3\u00a2nimo para seguir. \n\nTmj meu amigo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Nunes"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Nunes",
+      "timestamp_ms": 1770355342463,
+      "content": "Tenho acompanhado atentamente suas manifesta\u00c3\u00a7\u00c3\u00b5es como pr\u00c3\u00a9-candidato e gostaria de registrar minha admira\u00c3\u00a7\u00c3\u00a3o pela seriedade, clareza e compromisso demonstrados.\nSuas ideias refletem responsabilidade e preocupa\u00c3\u00a7\u00c3\u00a3o genu\u00c3\u00adna com as necessidades da nossa regi\u00c3\u00a3o, o que inspira confian\u00c3\u00a7a e respeito.\nParabenizo pelo trabalho e desejo \u00c3\u00aaxito na caminhada, na expectativa de que propostas as possam contribuir positivamente para nossa sociedade.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustavo Nunes",
+  "is_still_participant": true,
+  "thread_path": "inbox/gustavonunes_1401327148155914",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "HiperFAROL Supermercado"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765495536851,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3785573242677798966"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HiperFAROL Supermercado",
+  "is_still_participant": true,
+  "thread_path": "inbox/hiperfarolsupermercado_811620216901798",
+  "magic_words": [
+    
+  ]
+}

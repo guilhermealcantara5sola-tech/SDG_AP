@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Filipe Brito"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1749898356587,
+      "content": "Isso msm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Brito",
+      "timestamp_ms": 1749897912342,
+      "content": "Salinas posto jenipapo",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3654146993341731342"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Filipe Brito",
+  "is_still_participant": true,
+  "thread_path": "inbox/filipebrito_513253210071835",
+  "magic_words": [
+    
+  ]
+}

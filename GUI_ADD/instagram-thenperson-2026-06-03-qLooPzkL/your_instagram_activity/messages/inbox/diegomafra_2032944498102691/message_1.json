@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Diego Mafra"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Mafra",
+      "timestamp_ms": 1777383175039,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3885285436893478173"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego Mafra",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomafra_2032944498102691",
+  "magic_words": [
+    
+  ]
+}

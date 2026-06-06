@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "Erik Carvalho"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erik Carvalho",
+      "timestamp_ms": 1759150009150,
+      "content": "aqui depois voc\u00c3\u00aa me manda seu zap e o de dr halison",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Erik Carvalho"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Carvalho",
+      "timestamp_ms": 1759149207231,
+      "content": "tmj",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Erik Carvalho"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Carvalho",
+      "timestamp_ms": 1759149202130,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Carvalho",
+      "timestamp_ms": 1759149198917,
+      "content": "fala comigo irm\u00c3\u00a3o",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Erik Carvalho"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759148994031,
+      "content": "Pra vc tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759148990159,
+      "content": "Bom dia meu amigo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Erik Carvalho"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Carvalho",
+      "timestamp_ms": 1759148645221,
+      "content": "seu dia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Erik Carvalho"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Carvalho",
+      "timestamp_ms": 1759148641644,
+      "content": "deus aben\u00c3\u00a7oe",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Erik Carvalho"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Carvalho",
+      "timestamp_ms": 1759148639378,
+      "content": "bom dia meu amigo thenperson",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Erik Carvalho"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erik Carvalho",
+  "is_still_participant": true,
+  "thread_path": "inbox/erikcarvalho_1841628623900947",
+  "magic_words": [
+    
+  ]
+}

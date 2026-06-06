@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Ambra Ferraz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ambra Ferraz",
+      "timestamp_ms": 1756250517726,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756250328444,
+      "content": "Muito obg",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ambra Ferraz"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ambra Ferraz",
+      "timestamp_ms": 1756249880969,
+      "content": "Felicidades sempre \u00f0\u009f\u0091\u008f \u00f0\u009f\u0091\u008f \u00f0\u009f\u0091\u008f \u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3707979323393580667"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ambra Ferraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/ambraferraz_1811631310234012",
+  "magic_words": [
+    
+  ]
+}

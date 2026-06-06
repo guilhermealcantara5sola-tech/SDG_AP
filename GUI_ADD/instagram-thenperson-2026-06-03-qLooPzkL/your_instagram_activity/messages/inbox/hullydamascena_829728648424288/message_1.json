@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Hully Damascena"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hully Damascena",
+      "timestamp_ms": 1757433938759,
+      "content": "Obrigada!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1757433920598,
+      "content": "Fiquei muito feliz em te ver l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1757433913306,
+      "content": "Muito obg pela presen\u00c3\u00a7a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hully Damascena",
+      "timestamp_ms": 1757433334642,
+      "content": "Hoje eu queria ter ficado mais, participar da roda de conversa, mas tivemos umas demandas l\u00c3\u00a1 na escola eu e Helder tivemos que subir. Parab\u00c3\u00a9ns pela iniciativa e pela trajet\u00c3\u00b3ria at\u00c3\u00a9 aqui. Espero que d\u00c3\u00aa certo de uma pr\u00c3\u00b3xima vez assistir at\u00c3\u00a9 o final",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3717885886471192805"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hully Damascena",
+  "is_still_participant": true,
+  "thread_path": "inbox/hullydamascena_829728648424288",
+  "magic_words": [
+    
+  ]
+}

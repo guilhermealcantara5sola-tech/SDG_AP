@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Liu Guimar\u00c3\u00a3es"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Liu Guimar\u00c3\u00a3es",
+      "timestamp_ms": 1769184095260,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3816420970701828072"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Liu Guimar\u00c3\u00a3es",
+  "is_still_participant": true,
+  "thread_path": "inbox/liuguimaraes_1949801433083665",
+  "magic_words": [
+    
+  ]
+}

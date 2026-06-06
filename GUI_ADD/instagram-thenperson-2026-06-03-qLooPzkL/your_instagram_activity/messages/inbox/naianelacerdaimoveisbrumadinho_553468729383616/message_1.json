@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764092797306,
+      "content": "\u00f0\u009f\u00a4\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho",
+      "timestamp_ms": 1764092650747,
+      "content": "Al\u00c3\u00a9m de visualizar, meu voto e de Arthur voc\u00c3\u00aa ter\u00c3\u00a1!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3773224956361530228"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho",
+      "timestamp_ms": 1760819080308,
+      "content": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1760818649457,
+      "content": "Deus aben\u00c3\u00a7oe vcs grandiosamente,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho",
+      "timestamp_ms": 1760817808045,
+      "content": "Obrigada, nego!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho",
+      "timestamp_ms": 1760817802561,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1760736805424,
+      "content": "Que lindoooooo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/naianelacerdacorretora/3745564874127799357"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho",
+      "timestamp_ms": 1750598526579,
+      "content": "Kkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Naiane Lacerda Im\u00c3\u00b3veis | Brumadinho",
+  "is_still_participant": true,
+  "thread_path": "inbox/naianelacerdaimoveisbrumadinho_553468729383616",
+  "magic_words": [
+    
+  ]
+}

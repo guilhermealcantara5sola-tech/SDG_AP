@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Xavier | UGC \u00e2\u009c\u00a8"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751039816527,
+      "content": "\u00f0\u009f\u00ab\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kelly Xavier | UGC \u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/kellyxavierugc_1449720513089864",
+  "magic_words": [
+    
+  ]
+}

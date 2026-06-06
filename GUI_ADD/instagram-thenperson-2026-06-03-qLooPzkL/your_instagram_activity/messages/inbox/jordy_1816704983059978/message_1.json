@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Jordy"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756756914917,
+      "content": "girondinos*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756756714435,
+      "content": "Na revolu\u00c3\u00a7\u00c3\u00a3o francesa foi guilhotina em todo mundo os jacobinos e os gerundinos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756756685336,
+      "content": "Nenhum dos dois lados quer mudan\u00c3\u00a7a real",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordy",
+      "timestamp_ms": 1756756600013,
+      "content": "Mas querendo ou n\u00c3\u00a3o, para a sociedade em sua maioria, est\u00c3\u00a1 atrelado esquerda e direita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordy",
+      "timestamp_ms": 1756756558206,
+      "content": "Eu sei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordy",
+      "timestamp_ms": 1756756556764,
+      "content": "Kakakakka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1756756479028,
+      "content": "No fundo n\u00c3\u00a3o \u00c3\u00a9 direita ou esquerda, o inimigo \u00c3\u00a9 outro, a ignor\u00c3\u00a2ncia o ressentimento inveja, arrog\u00c3\u00a2ncia,  eu sei que vc sabe disso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jordy",
+  "is_still_participant": true,
+  "thread_path": "inbox/jordy_1816704983059978",
+  "magic_words": [
+    
+  ]
+}

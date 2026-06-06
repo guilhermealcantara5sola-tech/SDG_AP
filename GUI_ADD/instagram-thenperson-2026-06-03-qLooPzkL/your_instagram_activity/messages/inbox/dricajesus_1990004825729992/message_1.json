@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Drica Jesus"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773663401817,
+      "content": "\u00e2\u0080\u00aa+55\u00c2\u00a033\u00c2\u00a099937\u00e2\u0080\u00914249\u00e2\u0080\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Drica Jesus",
+      "timestamp_ms": 1772893091574,
+      "content": "Qual n\u00c3\u00bamero q consigo fala na loja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Drica Jesus",
+      "timestamp_ms": 1772893069728,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Drica Jesus",
+  "is_still_participant": true,
+  "thread_path": "inbox/dricajesus_1990004825729992",
+  "magic_words": [
+    
+  ]
+}

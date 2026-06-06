@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1776346360218,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1776346358501,
+      "content": "\u00f0\u009f\u0093\u00a2Ol\u00c3\u00a1, sou gerente da PG. Estamos buscando excelentes parceiros para promover nossa plataforma. Convidamos voc\u00c3\u00aa a se juntar \u00c3\u00a0 nossa equipe como agente. Remunera\u00c3\u00a7\u00c3\u00a3o di\u00c3\u00a1ria: de 1000 a 2000 reais. (Esta conta \u00c3\u00a9 apenas para fins de divulga\u00c3\u00a7\u00c3\u00a3o; n\u00c3\u00a3o responderei a mensagens.) Voc\u00c3\u00aa pode entrar em contato conosco pelo WhatsApp:+19403018342",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagram_2037280707669070",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

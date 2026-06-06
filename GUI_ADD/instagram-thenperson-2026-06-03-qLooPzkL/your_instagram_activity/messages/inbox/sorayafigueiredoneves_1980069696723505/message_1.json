@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Soraya Figueiredo Neves"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Soraya Figueiredo Neves",
+      "timestamp_ms": 1771930678626,
+      "content": "Kkkk \u00c3\u00a9 sofrida sim , mas estava t\u00c3\u00a3o cansada por conta do trabalho que parar foi necess\u00c3\u00a1rio. Mas j\u00c3\u00a1 estou de volta \u00f0\u009f\u0098\u008e\u00f0\u009f\u0098\u008e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771930587864,
+      "content": "Eu nem paro, pq a volta \u00c3\u00a9 sofrida demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Soraya Figueiredo Neves",
+  "is_still_participant": true,
+  "thread_path": "inbox/sorayafigueiredoneves_1980069696723505",
+  "magic_words": [
+    
+  ]
+}

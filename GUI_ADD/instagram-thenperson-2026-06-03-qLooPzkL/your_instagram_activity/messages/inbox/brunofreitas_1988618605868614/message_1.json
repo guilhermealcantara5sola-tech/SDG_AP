@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Freitas"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno Freitas",
+      "timestamp_ms": 1772747991396,
+      "content": "N\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772747061610,
+      "content": "Ai fica f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Freitas",
+      "timestamp_ms": 1772746014163,
+      "content": "Tinha que vim de carro n\u00c3\u00a9 meu amigo Thenperson, para apreciar  nossas belas estradas... Que para os pol\u00c3\u00adticos virou tempero em nossa regi\u00c3\u00a3o, s\u00c3\u00b3 aproximar pol\u00c3\u00adtica esses aparecem, falando que vai ser a solu\u00c3\u00a7\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Freitas",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunofreitas_1988618605868614",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,1061 @@
+{
+  "participants": [
+    {
+      "name": "Jean Carlo"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1780063972867,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780054943863,
+      "content": "Vai ficar \u00c3\u00a9 pior para  mais pobre (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780054898767,
+      "content": "Vai ficar \u00c3\u00a9 pior pro mais pobre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1780051253348,
+      "content": "Concordo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1780050470119,
+      "content": "Mais \u00c3\u00a9 verdade,  o mercado se ajeita.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1779207411043,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/jeancarlo_1914674716596337/audio/1522523346325108.mp4",
+          "creation_timestamp": 1779207408
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779197377536,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/jeancarlo_1914674716596337/audio/959902876842029.mp4",
+          "creation_timestamp": 1779197373
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1779197230884,
+      "content": "Ser\u00c3\u00a1 um prazer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1779197223822,
+      "content": "Vamos sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1779197216697,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779194460187,
+      "content": "Bora gravar essa semana ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775679095949,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775562092848,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775562058560,
+      "content": "Viva !!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775323466414,
+      "content": "Tranquilo, apartir de quarta feira estarei em Jequitinhonha.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775323446349,
+      "content": "Imaginei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775322438630,
+      "content": "Fiquei perdido na semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775322431322,
+      "content": "Mas eu tinha esquecido do feriado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775322415611,
+      "content": "N sou de fazer isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775316947412,
+      "content": "Ou te esperei aqui ontem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775316880744,
+      "content": "Perfeito.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775316870414,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775316753318,
+      "content": "Reacted \u00f0\u009f\u0098\u00ae to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775237551792,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DWpEbNgDj7a/?id=3866641217182645978_45697655994",
+        "share_text": "Hoje tive um desafio emocional e n\u00c3\u00a3o conseguir superar a tempo!\n\nChegou a hora de um compromisso importante pra mim e eu n\u00c3\u00a3o estava pronto e decidi remarcar... mal sabia eu que n\u00c3\u00a3o teria outra chance... perdi a oportunidade! \n\nCome\u00c3\u00a7ou a me dar um remorso, um grande arrependimento. A\u00c3\u00ad fui buscar ajuda pra lidar com isso e aprender com a situa\u00c3\u00a7\u00c3\u00a3o. \n\nO caboclo foi certeiro e trouxe esse entendimento. \n\nQue o que importa \u00c3\u00a9 a nossa postura frente as situa\u00c3\u00a7\u00c3\u00b5es da vida. N\u00c3\u00a3o adianta sentar e chorar. Adianta levantar a cabe\u00c3\u00a7a e cumprir o que a vida est\u00c3\u00a1 nos colocando para cumprir. Se conseguirmos mesmo com todo sofrimento erguer a cabe\u00c3\u00a7a e sustentar nosso caminho, a gente se torna uma verdadeira fortaleza a servi\u00c3\u00a7o da vida!\n\nQue sirva de aprendizado para todos e todas n\u00c3\u00b3s!\n\nE se voc\u00c3\u00aa se conectou com esse ensinamento, e busca um instrumento de poder que seja feito para sua energia, para voc\u00c3\u00aa trabalhar o que vc precisa, comenta Cachimbo que eu te mando uma msg. \n\nAx\u00c3\u00a9!",
+        "original_content_owner": "ecodosilencio_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775171385010,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DWmHleFDBu5/?id=3865810691387300793_45513413113",
+        "share_text": "World record 90 meters 140 km/h BMW S1000RR \n\n@bmw \u00d0\u00ad\u00d1\u0082\u00d0\u00be \u00d0\u00a0\u00d0\u00be\u00d1\u0081\u00d1\u0081\u00d0\u00b8\u00d1\u008f \u00d0\u00b4\u00d0\u00b5\u00d1\u0082\u00d0\u00ba\u00d0\u00b0 .",
+        "original_content_owner": "chebotarev_evgeny"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775164294025,
+      "content": "Colhe o que se planta",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3866614830614487025"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1775157452826,
+      "content": "E como",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775157157138,
+      "content": "Moss esse trem t\u00c3\u00a1 ficando sem rumo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1774959510379,
+      "content": "\u00f0\u009f\u0098\u0084\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3864263603792645885"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1774550139045,
+      "content": "Combinado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774549547726,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/jeancarlo_1914674716596337/audio/917518914499266.mp4",
+          "creation_timestamp": 1774549543
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1774547909615,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/jeancarlo_1914674716596337/audio/1489182929264925.mp4",
+          "creation_timestamp": 1774547906
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1774547892896,
+      "content": "Reacted \u00f0\u009f\u0091\u008a\u00f0\u009f\u008f\u00bc to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774547782309,
+      "content": "Boraaa sim",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008a\u00f0\u009f\u008f\u00bc",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1774547727192,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/jeancarlo_1914674716596337/audio/1487565209588901.mp4",
+          "creation_timestamp": 1774547723
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1774547656396,
+      "content": "Pra cima deles",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3861356218694561426"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774547644018,
+      "content": "Phoda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1774547612033,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3861356218694561426"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774547590994,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3861506749211664743",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1772335807177,
+      "content": "Reacted \u00f0\u009f\u0098\u0084 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772327378677,
+      "content": "Minhas meninas querem tbm  \u00f0\u009f\u0098\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0084",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1772327241212,
+      "content": "J\u00c3\u00a1 est\u00c3\u00a1 me pedindo uma motoquinha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1772327216176,
+      "content": "Fala n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1772327204384,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772327193290,
+      "content": "Muitos anos de vida, sa\u00c3\u00bade e felicidade, e uma motoca top pra andar kkkk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1772326571595,
+      "content": "Reacted \u00f0\u009f\u0091\u008a\u00f0\u009f\u008f\u00bc to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772326263429,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008a\u00f0\u009f\u008f\u00bc",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1768868578304,
+      "content": "Eu prefiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768867135804,
+      "content": "Dizem q \u00c3\u00a9 muito mais bruta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768867122623,
+      "content": "Quero manter a vroad e pegar uma big (edited)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768867112731,
+      "content": "Quero manter a vroad e pegor uma big (edited)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1768867103453,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1768867097463,
+      "content": "Eu prefiro as Tiger do que bmw",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768867095765,
+      "content": "Quero manter a vroad e pegou uma big",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1768867070466,
+      "content": "Show....\u00f0\u009f\u0091\u008a\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768867050199,
+      "content": "Vai ser pro final do ano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1768866998670,
+      "content": "Bora mexer o doce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1768866990643,
+      "content": "Ops",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768865812986,
+      "content": "Est\u00c3\u00a1 nos meus planos futuros uma dessa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765582089468,
+      "content": "Reacted \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765580676862,
+      "content": "Boa viagem \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580632904,
+      "content": "O sinal est\u00c3\u00a1 ficando ruim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580612540,
+      "content": "Ser\u00c3\u00a1 um prazer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580601252,
+      "content": "Sinto que vc \u00c3\u00a9 um homem confi\u00c3\u00a1vel, eu teria feito o mesmo pela minha, mulher, pela minha fam\u00c3\u00adlia \u00f0\u009f\u0091\u008a\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580591717,
+      "content": "Cara, ent\u00c3\u00a3o.... falei coisas aqui , que poucos j\u00c3\u00a1 ouviram de mim.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765580552349,
+      "content": "Quero ouvir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580492912,
+      "content": "Depois te conto as experi\u00c3\u00aancias dessa semana.....rsr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580449715,
+      "content": "A discurso da fome \u00c3\u00a9 melhor, a guerra \u00c3\u00a9 mais lucrativo, as for\u00c3\u00a7as d\u00c3\u00a3o mais dinheiro e por a\u00c3\u00ad vai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580370219,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580365281,
+      "content": "Esses caras , s\u00c3\u00a3o os que mandam, eles olham para baixo e v\u00c3\u00aaem incetos....insetos que precisam ser controlados, se n\u00c3\u00a3o Mateos.....de fome, de doen\u00c3\u00a7as, de guerra e por a\u00c3\u00ad vai....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765580305585,
+      "content": "E n\u00c3\u00b3s pagando tudo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580234178,
+      "content": "S\u00c3\u00b3 andam de avi\u00c3\u00a3o, helic\u00c3\u00b3ptero, mora em terra\u00c3\u00a7os, os amigos nos terra\u00c3\u00a7os, escrit\u00c3\u00b3rios, gabinetes, seus apartamentos.......",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580154934,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580148165,
+      "content": "Tem muita gente que tem muito tempo que n\u00c3\u00a3o coloca os p\u00c3\u00a9s no ch\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765580141813,
+      "content": "Est\u00c3\u00a3o, falei isso ontem num v\u00c3\u00addeo, se vendemos nossos votos, n podemos cobrar. Nada",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jean Carlo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580121464,
+      "content": "Tenho medo de me corromper , vc n\u00c3\u00a3o tem ideia do que eu estou falando.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580086337,
+      "content": "Por isso n\u00c3\u00a3o entro.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580085131,
+      "content": "S\u00c3\u00b3 estou te contando como funciona",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580083041,
+      "content": "Claro que n\u00c3\u00a3o,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765580041297,
+      "content": "Est\u00c3\u00a1 certo ele",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765580032909,
+      "content": "Porque as emendas parlamentares, emendas Pix disparou, aumentou pra caramba??? Pra onde foi tanto dinheiro???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579979395,
+      "content": "Isso. Todas vezes que pedi recursos para mudar nossa realidade, nossa cultura, ou coisa do tipo , eles negam e me contam essa hist\u00c3\u00b3ria, J\u00c3\u0081 PAGUEI!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579896249,
+      "content": "Eu ouvi e ou\u00c3\u00a7o isso pela boca deles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579895640,
+      "content": "Porque somos vendidos, para o pol\u00c3\u00adtico ele n\u00c3\u00a3o deve nada, n\u00c3\u00a3o tem que fazer nada. Ele j\u00c3\u00a1 pagou pelo voto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765579805741,
+      "content": "N\u00c3\u00b3s vendem como gado votador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579789206,
+      "content": "Vc tamb\u00c3\u00a9m parece que perguntou , porque \u00c3\u00a9 t\u00c3\u00a3o pulverizado os votos, muitos candidatos s\u00c3\u00a3o votados e v\u00c3\u00a3o embora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579723013,
+      "content": "Olha a pol\u00c3\u00adtica da nossa regi\u00c3\u00a3o.... Outro dia te ouvi e gostei....vou te responder.\n\nPorque que a pol\u00c3\u00adtica da nossa regi\u00c3\u00a3o \u00c3\u00a9 assim?\n\nPorque o sistema imperial n\u00c3\u00a3o caiu, porque n\u00c3\u00b3s somos vendido como mercadoria. As lideran\u00c3\u00a7as pol\u00c3\u00adtica nos vendem prometendo retornar em votos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579576290,
+      "content": "Quem tentou, se lascou e quem tentar vai se lascar....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579551258,
+      "content": "Olha a\u00c3\u00ad os senhores ministros do STF, olha o presidente, olha o presidente do senado, presidente da c\u00c3\u00a2mara, olha para os bispos.....e etc e etc.....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579479555,
+      "content": "Se for investigado vai chegar em algu\u00c3\u00a9m no andar de cima....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579472115,
+      "content": "Olha a\u00c3\u00ad o Marcola, PRESCREVEU O MAIOR PROCESSO CRIMINAL DO PA\u00c3\u008dS...... n\u00c3\u00a3o pode ser investigado.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a1",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579439058,
+      "content": "Crime organizado, fac\u00c3\u00a7\u00c3\u00b5es, judici\u00c3\u00a1rio, minist\u00c3\u00a9rio p\u00c3\u00bablico, todos os poderes, seguran\u00c3\u00a7a p\u00c3\u00bablica...\n...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579328063,
+      "content": "\u00c3\u0089 uma cadeia de predadores",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579315309,
+      "content": "Quem tentar mudar l\u00c3\u00a1 em cima, j\u00c3\u00a1 era",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579314932,
+      "content": "Ningu\u00c3\u00a9m muda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579314556,
+      "content": "\u00c3\u0089 assim, est\u00c3\u00a1 posto... \u00c3\u00a9 o sistema.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579314208,
+      "content": "Poneologista",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579193349,
+      "content": "Um \"pol\u00c3\u00adtico poneologista\" \u00c3\u00a9 uma figura que combina a\u00c2\u00a0Pr\u00c3\u00a1tica Pol\u00c3\u00adtica\u00c2\u00a0com a\u00c2\u00a0Ponerologia, o estudo cient\u00c3\u00adfico do mal e da psicologia de indiv\u00c3\u00adduos mal\u00c3\u00a9ficos (como psicopatas e sociopatas) que ascendem ao poder, sugerindo que certas anomalias psicol\u00c3\u00b3gicas podem explicar a ascens\u00c3\u00a3o e os m\u00c3\u00a9todos de figuras pol\u00c3\u00adticas autorit\u00c3\u00a1rias ou cru\u00c3\u00a9is, como explorado na obra de Andrew \u00c5\u0081obaczewski, focando na \"politiza\u00c3\u00a7\u00c3\u00a3o do mal\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765579191591,
+      "content": "E ser que tem de ser assim ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579142816,
+      "content": "O 38, ele encontrou uma terminologia que define o car\u00c3\u00a1ter do pol\u00c3\u00adtico em geral.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579096002,
+      "content": "\u00c3\u0089 bem por a\u00c3\u00ad....mas ainda est\u00c3\u00a1 raso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765579082950,
+      "content": "Compreendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579056107,
+      "content": "Quanto mais alto, mais caro fica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765579041353,
+      "content": "Temperson, o mundo n\u00c3\u00a3o \u00c3\u00a9 como a gente pensa....vivemos em camadas, pra vc subir, tem que pagar e o pre\u00c3\u00a7o \u00c3\u00a9 caro, o problema \u00c3\u00a9 que n\u00c3\u00b3s somos a mercadoria....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578904561,
+      "content": "A cabe\u00c3\u00a7a como a nossa buga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578894536,
+      "content": "Viu s\u00c3\u00b3, \u00c3\u00a9 dif\u00c3\u00adcil de acreditar na verdade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578892687,
+      "content": "Mais foi um choque e a verdade tem que ser dousada, n\u00c3\u00a3o temos estrutura para suporte toda A VERDADE. Aprendi isso com O Mestre, Jesus O Cristo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578892211,
+      "content": "\u00e2\u009a\u00a0\u00ef\u00b8\u008f vou ficar sem sinal, at\u00c3\u00a9 isso \u00c3\u00a9 controlado....rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765578821396,
+      "content": "Sem exagero ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578592332,
+      "content": "Tem que separar o mundo ideal, do mundo real",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578518883,
+      "content": "N\u00c3\u00a3o d\u00c3\u00a1 para confundir as duas coisas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578508930,
+      "content": "N\u00c3\u00b3s que somos idealistas , tomamos um choque com realidade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578464837,
+      "content": "Foi dif\u00c3\u00adcil acreditar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578462019,
+      "content": "D\u00c3\u00a1 um n\u00c3\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578435030,
+      "content": "N\u00c3\u00a3o sei se vc consegue compreender",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578396539,
+      "content": "Cara, \u00c3\u00a9 nos bastidores que as coisas acontecem. \u00c3\u0089 na calada da noite, nos bares, nas mans\u00c3\u00b5es, nos puteiros, tudo chapado de \u00c3\u00a1lcool ou de outras drogas que eles decidem o rumo do pa\u00c3\u00ads",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578226963,
+      "content": "O discurso \u00c3\u00a9 lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578207005,
+      "content": "Os pol\u00c3\u00adticos salvo 6 d\u00c3\u00bazia s\u00c3\u00a3o corruptos e outros tantos se corromperam....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578165232,
+      "content": "Bras\u00c3\u00adlia \u00c3\u00a9 um verdadeiro puteiro....vou te contar um pouco",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578129799,
+      "content": "Dessa vez n\u00c3\u00a3o foi diferente...aprendi mais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578087435,
+      "content": "Cada vez novas experi\u00c3\u00aancias......",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578073491,
+      "content": "Esse ano deve ser a 5 ou mais vezes que venho a Bras\u00c3\u00adlia este ano.....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765578040898,
+      "content": "Cara, estou voltando de Bras\u00c3\u00adlia, presenciei cada coisa, escutei cada coisa......",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765577258652,
+      "content": "J\u00c3\u00a1 te respondo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Carlo",
+      "timestamp_ms": 1765577252048,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765576605045,
+      "content": "Ser\u00c3\u00a1 que rolou esse acord\u00c3\u00a3o msm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765576431840,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DSLYDlVkVQt/?id=3786225711100023853_2334727603",
+        "share_text": "Fui chamado de louco!\n\nSiga @renansantosmbl",
+        "original_content_owner": "renansantosmbl"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jean Carlo",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeancarlo_1914674716596337",
+  "magic_words": [
+    
+  ]
+}

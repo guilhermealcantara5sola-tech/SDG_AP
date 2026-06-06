@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "J\u00c3\u00a9ssica"
+    },
+    {
+      "name": "Coca Socorro"
+    },
+    {
+      "name": "Ney Mendes"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1767827323853,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1767827323492,
+      "content": "Ol\u00c3\u00a1, sou o gerente de vendas da PG Game Platform. Quero falar com voc\u00c3\u00aa sobre parcerias. Nossa plataforma foi licenciada conjuntamente pelo governo federal brasileiro e pelo governo de Cura?ao em outubro. Voc\u00c3\u00aa pode se juntar a n\u00c3\u00b3s e lhe daremos altas comiss?es. Entre em contato comigo pelo WhatsApp:+12197068530",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1767827319115,
+      "content": "A contact created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "J\u00c3\u00a9ssica, Coca Socorro, Ney Mendes and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jessicacocasocorroneymendesand2others_1195387552795944",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbYHLE4X5PT21hHr/"
+  },
+  "is_pending": true
+}

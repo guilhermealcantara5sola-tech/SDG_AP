@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Laerte Luiz Nogueira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770422317954,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770422306094,
+      "content": "Acredito que \u00c3\u00a9 DER mesmo, ela \u00c3\u00a9 de responsabilidade estadual...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770422251454,
+      "content": "LMG 678",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770422231443,
+      "content": "Me passa qual nome da estrada, que se for de responsabilidade do DER vou ligar pra um amigo agilizar o processo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Laerte Luiz Nogueira"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770422147863,
+      "content": "Uma de minhas pautas s\u00c3\u00a3o as estradas t\u00c3\u00a3o abandonadas de nossa regi\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770422016071,
+      "content": "De Novo Cruzeiro para Ara\u00c3\u00a7ua\u00c3\u00ad, o outro caminho \u00c3\u00a9 pela BR 116, da 130 Km a mais...\n\nAs outras alternativas s\u00c3\u00a3o estradinhas pequenas que est\u00c3\u00a3o intransit\u00c3\u00a1veis tamb\u00c3\u00a9m...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770421589268,
+      "content": "Tem outros pontos da estrada que acabou tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770421576606,
+      "content": "Foi essa manh\u00c3\u00a3, mas d\u00c3\u00a1 uma olhada na p\u00c3\u00a1gina, o distrito est\u00c3\u00a1 debaixo d'\u00c3\u00a1gua",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1770421483163,
+      "content": "Tem outro caminho??   Que dia foi ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770421041334,
+      "content": "Laerte enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DUbY6b2iY0v/?id=3826761877133298991_69419751169",
+        "share_text": "",
+        "original_content_owner": "engenheiroschnoormg"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Laerte Luiz Nogueira",
+      "timestamp_ms": 1770421021444,
+      "content": "Fala Thenperson, vejo que representa o vale do Jequitinhonha, viu o que aconteceu em Engenheiro Schnnor, entre Novo Cruzeiro e Ara\u00c3\u00a7ua\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Laerte Luiz Nogueira",
+  "is_still_participant": true,
+  "thread_path": "inbox/laerteluiznogueira_1963352215061920",
+  "magic_words": [
+    
+  ]
+}

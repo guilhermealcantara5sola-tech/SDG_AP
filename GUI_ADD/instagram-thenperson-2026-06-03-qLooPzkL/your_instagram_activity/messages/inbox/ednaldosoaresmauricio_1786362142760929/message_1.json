@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Ednaldosoares Maur\u00c3\u00adcio"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ednaldosoares Maur\u00c3\u00adcio",
+      "timestamp_ms": 1753864728854,
+      "content": "Parece que a Venezuela se arrependeu e voltou atr\u00c3\u00a1s",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3687421185621065154"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ednaldosoares Maur\u00c3\u00adcio",
+  "is_still_participant": true,
+  "thread_path": "inbox/ednaldosoaresmauricio_1786362142760929",
+  "magic_words": [
+    
+  ]
+}

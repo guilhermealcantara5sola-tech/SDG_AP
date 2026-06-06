@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Murilo Costa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Al\u00c3\u00adrio Mascarenhas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Murilo Costa",
+      "timestamp_ms": 1765618846798,
+      "content": "Murilo enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DSFPFfREUIT/?id=3784497409742160403_48434556492",
+        "share_text": "Bateria tava um travesseiro \u00f0\u009f\u0098\u0080\n\n#iphone #reparo #manuten\u00c3\u00a7\u00c3\u00a3o",
+        "original_content_owner": "iphonemuller"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Murilo Costa and Al\u00c3\u00adrio Mascarenhas",
+  "is_still_participant": true,
+  "thread_path": "inbox/murilocostaandaliriomascarenhas_3290394397784679",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

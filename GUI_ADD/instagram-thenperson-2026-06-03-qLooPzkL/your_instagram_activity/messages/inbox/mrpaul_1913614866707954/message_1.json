@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Mr Paul"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mr Paul",
+      "timestamp_ms": 1776083502207,
+      "content": "Mr enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mr Paul",
+      "timestamp_ms": 1774369650950,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3859949413045114137"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mr Paul",
+  "is_still_participant": true,
+  "thread_path": "inbox/mrpaul_1913614866707954",
+  "magic_words": [
+    
+  ]
+}

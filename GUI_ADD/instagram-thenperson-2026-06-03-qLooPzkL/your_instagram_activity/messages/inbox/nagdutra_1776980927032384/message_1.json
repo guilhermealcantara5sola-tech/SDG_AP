@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Nag Dutra"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nag Dutra",
+      "timestamp_ms": 1752922627633,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3679435063217478140"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nag Dutra",
+  "is_still_participant": true,
+  "thread_path": "inbox/nagdutra_1776980927032384",
+  "magic_words": [
+    
+  ]
+}

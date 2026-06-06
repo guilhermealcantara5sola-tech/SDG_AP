@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Jhonathan Rodrigues"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jhonathan Rodrigues",
+      "timestamp_ms": 1768754354845,
+      "content": "Pr\u00c3\u00b3xima eu vou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768751545125,
+      "content": "Teve bom viu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhonathan Rodrigues",
+      "timestamp_ms": 1768750860246,
+      "content": "Soubesse tinha ido",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3812341238569916166"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jhonathan Rodrigues",
+  "is_still_participant": true,
+  "thread_path": "inbox/jhonathanrodrigues_1945336463530162",
+  "magic_words": [
+    
+  ]
+}

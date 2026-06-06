@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "MK customs"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MK customs",
+      "timestamp_ms": 1779276153271,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MK customs",
+      "timestamp_ms": 1779276152960,
+      "content": "\u00f0\u009f\u0094\u00b4 \u00e2\u009e\u00a1\u00ef\u00b8\u008fFusca,Bras\u00c3\u00adlia,variant e etc. A partir de R$350 mais envio \u00e2\u00ac\u0085\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00b4\n\u00e2\u0080\u00a2\n\u00f0\u009f\u0094\u00b4\u00f0\u009f\u0091\u0089\u00f0\u009f\u008f\u00bbWhats: 51 985496236\u00f0\u009f\u0091\u0088\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0094\u00b4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MK customs",
+      "timestamp_ms": 1779276145817,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779230870048,
+      "content": "Qual valor da alavanca pra fusca ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779230858229,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MK customs",
+  "is_still_participant": true,
+  "thread_path": "inbox/mkcustoms_2388168784983879",
+  "magic_words": [
+    
+  ]
+}

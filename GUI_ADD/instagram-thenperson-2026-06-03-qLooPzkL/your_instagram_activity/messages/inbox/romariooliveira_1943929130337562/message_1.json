@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Romario Oliveira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Romario Oliveira",
+      "timestamp_ms": 1768616764866,
+      "content": "Desse jeito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768608100276,
+      "content": "Saber quem cobrar (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768608093069,
+      "content": "Sabem quem cobrar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768608079425,
+      "content": "Precisamos \u00c3\u00a9 disso msm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romario Oliveira",
+      "timestamp_ms": 1768607475517,
+      "content": "Tu j\u00c3\u00a1 tem 4 votos  l\u00c3\u00a1 em casa \nMais n vacila n,pq o chicote aqui e grande kkkk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3811036415484501491"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Romario Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/romariooliveira_1943929130337562",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "China Gate | Importa\u00c3\u00a7\u00c3\u00a3o da China"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "China Gate | Importa\u00c3\u00a7\u00c3\u00a3o da China",
+      "timestamp_ms": 1779496272509,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779496269456,
+      "content": "Boa noite, to querendo importar motos el\u00c3\u00a9tricas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "China Gate | Importa\u00c3\u00a7\u00c3\u00a3o da China",
+  "is_still_participant": true,
+  "thread_path": "inbox/chinagateimportacaodachina_2845975185742080",
+  "magic_words": [
+    
+  ]
+}

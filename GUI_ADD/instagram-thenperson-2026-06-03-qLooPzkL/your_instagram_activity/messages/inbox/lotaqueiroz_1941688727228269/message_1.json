@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Lota Queiroz"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1768387852388,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lota Queiroz",
+      "timestamp_ms": 1768387139821,
+      "content": ".... E poderia ser GOVERNADOR de Minas... Ningu\u00c3\u00a9m aguenta \"REMA\" mais.",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3809444677158487518"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lota Queiroz",
+  "is_still_participant": true,
+  "thread_path": "inbox/lotaqueiroz_1941688727228269",
+  "magic_words": [
+    
+  ]
+}

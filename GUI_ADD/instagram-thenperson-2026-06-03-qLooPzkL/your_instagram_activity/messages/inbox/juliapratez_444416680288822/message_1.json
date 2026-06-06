@@ -1,0 +1,285 @@
+{
+  "participants": [
+    {
+      "name": "Julia Pratez"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774884312861,
+      "content": "J\u00c3\u00a1 deu certo \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1774882762749,
+      "content": "J\u00c3\u00a1 estou ansiosa para esse evento",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3864263603792645885"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1773246901159,
+      "content": "O prazer da vida \u00c3\u00a9 em conquistar e saber que nada \u00c3\u00a9 eterno",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1773246880619,
+      "content": "N\u00c3\u00a3o discordo de voc\u00c3\u00aa. \nO ser humano \u00c3\u00a9 movido pela conquista",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1773246825569,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1773246824715,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773244153840,
+      "content": "Podemos at\u00c3\u00a9 dizer que o gato pode fazer o papel de um cachorro, ele pode se esfor\u00c3\u00a7ar o tanto que for, mas ele s\u00c3\u00b3 ser\u00c3\u00a1 feliz, sendo gato.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Pratez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773244075085,
+      "content": "Tudo que existe no mundo tem uma fun\u00c3\u00a7\u00c3\u00a3o, est\u00c3\u00a1 l\u00c3\u00a1 por algum motivo, e quando n\u00c3\u00a3o executamos aquilo que nascemos pra fazer, gera uma disson\u00c3\u00a2ncia cognitiva, sensa\u00c3\u00a7\u00c3\u00a3o de falta.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Pratez"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/julia.pratezr/3850540295088140349"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772234551130,
+      "content": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772234546134,
+      "content": "Blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772234530354,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/juliapratez_444416680288822/audio/2973276876200474.mp4",
+          "creation_timestamp": 1772234528
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772234479276,
+      "content": "Consegue pegar aqui ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772234473917,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/juliapratez_444416680288822/audio/805989725148281.mp4",
+          "creation_timestamp": 1772234469
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772234452110,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/juliapratez_444416680288822/audio/1455940552935532.mp4",
+          "creation_timestamp": 1772234449
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772234441624,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772233749834,
+      "content": "Vi aqui q n estou com a chave da loja mas arrumei um cabo pra vc at\u00c3\u00a9 amanh\u00c3\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Pratez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772233727386,
+      "content": "Ei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772229145900,
+      "content": "Blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772229139850,
+      "content": "Vc me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772229137541,
+      "content": "Quero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772229129870,
+      "content": "Se quiser da pra ir trocar hj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772229127390,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772229121277,
+      "content": "Quanto tiver saindo aqui te aviso",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julia Pratez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772229109438,
+      "content": "To no monte das oliveiras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772229098084,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772229092611,
+      "content": "Testou com outra fonte ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772229077329,
+      "content": "Sim, n\u00c3\u00a3o carregou tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772229045649,
+      "content": "Eii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772227547251,
+      "content": "Vcs j\u00c3\u00a1 est\u00c3\u00a3o fechados ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia Pratez",
+      "timestamp_ms": 1772227540010,
+      "content": "Oi, n\u00c3\u00a3o funcionou o carregador, ou melhor, n\u00c3\u00a3o t\u00c3\u00a1 carregando de jeito nenhum",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Julia Pratez",
+  "is_still_participant": true,
+  "thread_path": "inbox/juliapratez_444416680288822",
+  "magic_words": [
+    
+  ]
+}

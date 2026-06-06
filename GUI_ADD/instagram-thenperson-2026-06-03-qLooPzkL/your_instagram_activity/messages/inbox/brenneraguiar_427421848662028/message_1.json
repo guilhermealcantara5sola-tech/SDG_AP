@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Brenner Aguiar \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1757042537970,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3714664351551793247"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brenner Aguiar \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+      "timestamp_ms": 1757033295853,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brenner Aguiar \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+      "timestamp_ms": 1748965380053,
+      "content": "Brenner enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DKUcdZlNHby/?id=3644663164084451058_5781440730",
+        "share_text": "#palavras #paz #palavra #palavrasatemporais #paznokcie #pregar #palavraseverdades",
+        "original_content_owner": "reservaprftaerivaldo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brenner Aguiar \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/brenneraguiar_427421848662028",
+  "magic_words": [
+    
+  ]
+}

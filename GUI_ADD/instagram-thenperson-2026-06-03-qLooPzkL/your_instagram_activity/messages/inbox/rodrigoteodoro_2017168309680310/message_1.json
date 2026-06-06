@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Teodoro"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774645347654,
+      "content": "Phoda n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Teodoro",
+      "timestamp_ms": 1774644504828,
+      "content": "Digo tanto dinheiro porque essa deputada Sheila nunca teve um voto aqui e provavelmente nem vai ter na pr\u00c3\u00b3xima elei\u00c3\u00a7\u00c3\u00a3o\nE mesmo assim mandou mais dinheiro do que os que s\u00c3\u00a3o votados",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Teodoro",
+      "timestamp_ms": 1774644244215,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoteodoro_2017168309680310/audio/896437083393243.mp4",
+          "creation_timestamp": 1774644238
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774643973194,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoteodoro_2017168309680310/audio/1429815234953718.mp4",
+          "creation_timestamp": 1774643959
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Teodoro",
+      "timestamp_ms": 1774643362225,
+      "content": "Voc\u00c3\u00aa n\u00c3\u00a3o entendeu\nEu concordei com voc\u00c3\u00aa!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774634801415,
+      "content": "2024",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774634785414,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rodrigoteodoro_2017168309680310/photos/784684731044024.jpg",
+          "creation_timestamp": 1774634783
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774634735500,
+      "content": "Isso \u00c3\u00a9 troco de p\u00c3\u00a3o pra eles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774634704778,
+      "content": "Tanto dinheiro??? Essas mixarias ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774634673237,
+      "content": "Esses dados n s\u00c3\u00a3o meus, vc mesmo pode consultar no site da assembleia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Teodoro",
+      "timestamp_ms": 1774633931854,
+      "content": "Rapaz... Meio estranho em, deputados que nunca tiveram nem um voto na cidade, mandando tanto dinheiro. \u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a4\u0094\n\nA prefeita de Mata Verde apoia o PT e recebendo 1 milh\u00c3\u00a3o de deputada do PL \u00f0\u009f\u0098\u0082\n\nE do nada Mario Henrique Caixa mandando 225 mil pra Mata Verde \u00f0\u009f\u00a4\u0094",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3862174154699061938"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo Teodoro",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodrigoteodoro_2017168309680310",
+  "magic_words": [
+    
+  ]
+}

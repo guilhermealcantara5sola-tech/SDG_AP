@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Warley oliveira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Warley oliveira",
+      "timestamp_ms": 1775930209544,
+      "content": "Verdade mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Warley oliveira",
+      "timestamp_ms": 1775930200507,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775926002910,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Warley oliveira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DW_yRA_iHV8/?id=3873035276184483196_412444437",
+        "share_text": "De quatro em quatro anos temos a chance de ter um futuro diferente.",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764864127700,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DR2IP5RDQuc/?id=3780245213877701532_34286043",
+        "share_text": "A voz do Jequitinhonha e do Mucuri foi ouvida e a solu\u00c3\u00a7\u00c3\u00a3o j\u00c3\u00a1 tem data.\n\nA ponte de Felisburgo tem trazido transtornos para quem precisa circular entre os Vales, e a cobran\u00c3\u00a7a da popula\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a9 totalmente justa.\n\nA boa not\u00c3\u00adcia \u00c3\u00a9 que o processo j\u00c3\u00a1 est\u00c3\u00a1 andando: no dia 22 de dezembro acontece a licita\u00c3\u00a7\u00c3\u00a3o que vai definir a empresa respons\u00c3\u00a1vel pela obra.\nOu seja: estamos pr\u00c3\u00b3ximos de resolver, de forma definitiva, um problema que afeta as fam\u00c3\u00adlias todos os dias.\n\n\u00c3\u0089 assim que trabalhamos: ouvindo, acompanhando de perto e garantindo que as solu\u00c3\u00a7\u00c3\u00b5es saiam do papel.\n\n\u00f0\u009f\u0091\u0089 Quer que eu continue trazendo atualiza\u00c3\u00a7\u00c3\u00b5es sobre essa obra? Comenta aqui.",
+        "original_content_owner": "rodrigortavares"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1764352840656,
+      "content": "Bora viagem mano v\u00c3\u00a9i",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Warley oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/warleyoliveira_1902955374434938",
+  "magic_words": [
+    
+  ]
+}

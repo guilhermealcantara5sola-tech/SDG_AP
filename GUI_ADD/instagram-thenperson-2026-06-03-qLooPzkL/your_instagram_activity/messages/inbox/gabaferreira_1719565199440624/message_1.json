@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Gaba Ferreira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776007804204,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gabaferreira_1719565199440624/audio/828342836963331.mp4",
+          "creation_timestamp": 1776007799
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gaba Ferreira",
+      "timestamp_ms": 1776007760700,
+      "content": "Vamos agilizar entao \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776007739657,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gabaferreira_1719565199440624/audio/975076562173477.mp4",
+          "creation_timestamp": 1776007734
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gaba Ferreira",
+      "timestamp_ms": 1776007672267,
+      "content": "Cara eu estou muito inclinado a votar em voc\u00c3\u00aa, mas eu acho que \u00c3\u00a9 necess\u00c3\u00a1rio voc\u00c3\u00aa conhecer e falar mais do outro lado do vale, n\u00c3\u00b3s queremos ser lembrados tbm, Divisopolis, Mata Verde, Medina e Divisa Alegre por exemplo.",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3873154024178484601"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gaba Ferreira",
+      "timestamp_ms": 1769199095966,
+      "content": "\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769198978076,
+      "content": "Deixa ficar pronto que vou a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769198971141,
+      "content": "Mandei fazer um cen\u00c3\u00a1rio m\u00c3\u00b3vel pro podcast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gaba Ferreira",
+      "timestamp_ms": 1769198850394,
+      "content": "Gutenberg \u00c3\u00a9 aqui De Divis\u00c3\u00b3polis, \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00be inclusive ainda nos deve uma visita amigo!",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3816011763993316707"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gaba Ferreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabaferreira_1719565199440624",
+  "magic_words": [
+    
+  ]
+}

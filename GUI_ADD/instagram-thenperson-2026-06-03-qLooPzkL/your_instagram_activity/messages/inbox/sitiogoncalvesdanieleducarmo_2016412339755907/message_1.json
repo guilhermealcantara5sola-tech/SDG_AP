@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "S\u00c3\u00adtio Gon\u00c3\u00a7alves | Daniel e Ducarmo"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1776342904445,
+      "content": "Na realidade nem com um nem com outro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "S\u00c3\u00adtio Gon\u00c3\u00a7alves | Daniel e Ducarmo",
+      "timestamp_ms": 1776342240239,
+      "content": "O poder p\u00c3\u00bablico n\u00c3\u00a3o investe em sa\u00c3\u00bade preventiva,prefere gastar com doen\u00c3\u00a7a",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3876540472931924077"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774563306189,
+      "content": "Amanh\u00c3\u00a3 de manh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "S\u00c3\u00adtio Gon\u00c3\u00a7alves | Daniel e Ducarmo",
+      "timestamp_ms": 1774563170596,
+      "content": "T\u00c3\u00b4 aguardando",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3861593107892591382"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "S\u00c3\u00adtio Gon\u00c3\u00a7alves | Daniel e Ducarmo",
+  "is_still_participant": true,
+  "thread_path": "inbox/sitiogoncalvesdanieleducarmo_2016412339755907",
+  "magic_words": [
+    
+  ]
+}

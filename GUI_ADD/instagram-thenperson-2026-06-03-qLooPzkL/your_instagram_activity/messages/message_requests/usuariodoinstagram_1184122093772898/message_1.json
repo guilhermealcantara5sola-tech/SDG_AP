@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1779300940822,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1779300937251,
+      "content": "\u00f0\u009f\u0092\u00b5Ol\u00c3\u00a1, estamos procurando parceiros\u00f0\u009f\u0085\u00bf\u00ef\u00b8\u008fpara promover\u00f0\u009f\u008e\u008anossa plataforma de jogos! Sal\u00c3\u00a1rio\u00f0\u009f\u0098\u0080di\u00c3\u00a1rio: 1000-2000! \u00f0\u009f\u00a4\u009dParceria de\u00f0\u009f\u0098\u0080longo prazo, comiss\u00c3\u00a3o paga antecipadamente! (Esta\u00f0\u009f\u0087\u00b7conta \u00c3\u00a9 apenas para promo\u00c3\u00a7\u00c3\u00a3o;\u00f0\u009d\u009f\u0091n\u00c3\u00a3o\u00f0\u009f\u008e\u008aresponderei a mensagens.) Voc\u00c3\u00aa\u00f0\u009d\u009f\u0093pode entrar em contato conosco pelo WhatsApp:+5521981683740",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagram_1184122093772898",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

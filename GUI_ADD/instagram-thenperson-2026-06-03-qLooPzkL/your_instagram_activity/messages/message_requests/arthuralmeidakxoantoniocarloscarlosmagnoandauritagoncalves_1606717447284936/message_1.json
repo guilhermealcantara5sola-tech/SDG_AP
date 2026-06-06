@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Arthur Almeida"
+    },
+    {
+      "name": "\u00ea\u009c\u00b0\u00e1\u00b4\u0080\u00ca\u0099\u00c9\u00aa\u00e1\u00b4\u0080\u00c9\u00b4\u00e1\u00b4\u008f \u00e1\u00b4\u0080\u00c9\u00b4\u00e1\u00b4\u0085\u00ca\u0080\u00e1\u00b4\u0080\u00e1\u00b4\u0085\u00e1\u00b4\u0087K | \u00e1\u00b4\u0087\u00ea\u009c\u00b1\u00e1\u00b4\u0084\u00ca\u0080\u00c9\u00aa\u00e1\u00b4\u009b\u00e1\u00b4\u008f\u00ca\u0080, \u00ca\u0080\u00e1\u00b4\u0087\u00ea\u009c\u00b0\u00ca\u009f\u00e1\u00b4\u0087x\u00c3\u00b5\u00e1\u00b4\u0087\u00ea\u009c\u00b1 \u00e1\u00b4\u0087 \u00e1\u00b4\u0080\u00e1\u00b4\u009c\u00e1\u00b4\u009b\u00e1\u00b4\u008f\u00e1\u00b4\u0084\u00e1\u00b4\u008f\u00c9\u00b4\u00ca\u009c\u00e1\u00b4\u0087\u00e1\u00b4\u0084\u00c9\u00aa\u00e1\u00b4\u008d\u00e1\u00b4\u0087\u00c9\u00b4\u00e1\u00b4\u009b\u00e1\u00b4\u008f"
+    },
+    {
+      "name": "Antonio Carlos Carlos Magno"
+    },
+    {
+      "name": "Aurita Gon\u00c3\u00a7alves"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aurita Gon\u00c3\u00a7alves",
+      "timestamp_ms": 1776735093553,
+      "content": "Aurita enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aurita Gon\u00c3\u00a7alves",
+      "timestamp_ms": 1776735092672,
+      "content": "Aurita created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arthur Almeida, \u00ea\u009c\u00b0\u00e1\u00b4\u0080\u00ca\u0099\u00c9\u00aa\u00e1\u00b4\u0080\u00c9\u00b4\u00e1\u00b4\u008f \u00e1\u00b4\u0080\u00c9\u00b4\u00e1\u00b4\u0085\u00ca\u0080\u00e1\u00b4\u0080\u00e1\u00b4\u0085\u00e1\u00b4\u0087K | \u00e1\u00b4\u0087\u00ea\u009c\u00b1\u00e1\u00b4\u0084\u00ca\u0080\u00c9\u00aa\u00e1\u00b4\u009b\u00e1\u00b4\u008f\u00ca\u0080, \u00ca\u0080\u00e1\u00b4\u0087\u00ea\u009c\u00b0\u00ca\u009f\u00e1\u00b4\u0087x\u00c3\u00b5\u00e1\u00b4\u0087\u00ea\u009c\u00b1 \u00e1\u00b4\u0087 \u00e1\u00b4\u0080\u00e1\u00b4\u009c\u00e1\u00b4\u009b\u00e1\u00b4\u008f\u00e1\u00b4\u0084\u00e1\u00b4\u008f\u00c9\u00b4\u00ca\u009c\u00e1\u00b4\u0087\u00e1\u00b4\u0084\u00c9\u00aa\u00e1\u00b4\u008d\u00e1\u00b4\u0087\u00c9\u00b4\u00e1\u00b4\u009b\u00e1\u00b4\u008f, Antonio Carlos Carlos Magno and Aurita Gon\u00c3\u00a7alves",
+  "is_still_participant": true,
+  "thread_path": "message_requests/arthuralmeidakxoantoniocarloscarlosmagnoandauritagoncalves_1606717447284936",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/Abb28DnV3PidzWg2/"
+  },
+  "is_pending": true
+}

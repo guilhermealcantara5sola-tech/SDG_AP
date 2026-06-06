@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Thales Farias"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765382772847,
+      "content": "C tem q lan\u00c3\u00a7ar essa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1765382763967,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DQXukVlAv2o/?id=3753673621646802344_54297599837",
+        "share_text": "\u00e2\u0080\u009cSignorina Rivoluzione\u00e2\u0080\u009d IS ON SPOTIFY!!!\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5\n\n#rock #aisha #youngmusician #guitar #live #spotify",
+        "original_content_owner": "the_aisha_official_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thales Farias",
+  "is_still_participant": true,
+  "thread_path": "inbox/thalesfarias_911838050213347",
+  "magic_words": [
+    
+  ]
+}

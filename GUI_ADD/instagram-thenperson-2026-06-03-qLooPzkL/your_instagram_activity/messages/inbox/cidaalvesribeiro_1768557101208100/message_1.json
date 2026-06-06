@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Cida Alves Ribeiro"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752094181060,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3673142356913880507"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cida Alves Ribeiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/cidaalvesribeiro_1768557101208100",
+  "magic_words": [
+    
+  ]
+}

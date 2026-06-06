@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Du Prates Almenara"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Du Prates Almenara",
+      "timestamp_ms": 1778159323075,
+      "content": "Du enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Du Prates Almenara",
+  "is_still_participant": true,
+  "thread_path": "inbox/dupratesalmenara_563968875003237",
+  "magic_words": [
+    
+  ]
+}

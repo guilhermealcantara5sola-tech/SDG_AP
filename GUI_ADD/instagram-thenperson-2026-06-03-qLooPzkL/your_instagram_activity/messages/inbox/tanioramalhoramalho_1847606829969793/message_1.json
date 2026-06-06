@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "T\u00c3\u00a2nio Ramalho Ramalho"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "T\u00c3\u00a2nio Ramalho Ramalho",
+      "timestamp_ms": 1773136503195,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773101746315,
+      "content": "Parab\u00c3\u00a9ns meus irm\u00c3\u00a3o,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1759676731340,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3736761543254984750"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00a2nio Ramalho Ramalho",
+      "timestamp_ms": 1759675895373,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "T\u00c3\u00a2nio Ramalho Ramalho",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanioramalhoramalho_1847606829969793",
+  "magic_words": [
+    
+  ]
+}

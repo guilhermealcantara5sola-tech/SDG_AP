@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Rafael"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Rafael",
+      "timestamp_ms": 1767103974557,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767103833797,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3799064514096795895"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Rafael",
+      "timestamp_ms": 1767100178813,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Rafael",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasrafael_1929132758483866",
+  "magic_words": [
+    
+  ]
+}

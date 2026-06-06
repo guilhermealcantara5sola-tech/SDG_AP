@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "MPI Mobiliza\u00c3\u00a7\u00c3\u00a3o"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751909097351,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3671544079917796171",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751644542499,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3669382811941585160"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MPI Mobiliza\u00c3\u00a7\u00c3\u00a3o",
+      "timestamp_ms": 1751042601773,
+      "content": "Vamos conversar. Me chama no WhatsApp 31991269099\nAbra\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MPI Mobiliza\u00c3\u00a7\u00c3\u00a3o",
+      "timestamp_ms": 1751042585274,
+      "content": "Primeiro, te desejo todo sucesso nessa jornada. Segundo, n\u00c3\u00b3s temos o lugar certo para voc\u00c3\u00aa tornar essa caminhada vitoriosa. A chapa de estadual do PRD ser\u00c3\u00a1 a \u00c3\u00banica sem deputado em mandato disputando. Chapa equilibrada, j\u00c3\u00a1 tem hoje votos pra fazer dois h\u00c3\u00a1 muito pouco de consolidar o terceiro. Mas faremos pelo menos 4 cadeiras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MPI Mobiliza\u00c3\u00a7\u00c3\u00a3o",
+      "timestamp_ms": 1751042397096,
+      "content": "Ol\u00c3\u00a1, Thenperson. Obrigado pelo contato. E tem gente que ainda diz que sogra \u00c3\u00a9 problema. Que absurdo!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751031206448,
+      "content": "Pretendo ser deputado estadual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751031186568,
+      "content": "Bom dia Junior, estava conversando com sua sogra e ela me falou de vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MPI Mobiliza\u00c3\u00a7\u00c3\u00a3o",
+  "is_still_participant": true,
+  "thread_path": "inbox/mpimobilizacao_1757610892302721",
+  "magic_words": [
+    
+  ]
+}

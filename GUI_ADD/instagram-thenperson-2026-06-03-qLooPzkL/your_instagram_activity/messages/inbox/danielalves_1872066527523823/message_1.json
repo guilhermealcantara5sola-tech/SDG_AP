@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Alves"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1761558050630,
+      "content": "Vida q segue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alves",
+      "timestamp_ms": 1761523009000,
+      "content": "\u00c3\u0089 chato de mais esses trem \nTudo q tu posta t\u00c3\u00a1 errado \nMas nem Deus agradou a todos quem dir\u00c3\u00a1 n\u00c3\u00b3s n\u00c3\u00a9 meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1761516033893,
+      "content": "Fiz o post pq sempre aparece algum expert me dando esse tipo de dica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1761516011940,
+      "content": "Nem ligo\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alves",
+      "timestamp_ms": 1761515481355,
+      "content": "Tem um povo que \u00c3\u00a9 puro mimimi, querem opinar em tudo que vamos fazer, querem que mudamos tudo na nossa vida pra agradar a eles, ah tomar banho povo da internet t\u00c3\u00a1 chato de mais \u00f0\u009f\u00a5\u00b1",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3752180450623329961"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Alves",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielalves_1872066527523823",
+  "magic_words": [
+    
+  ]
+}

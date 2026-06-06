@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Jailton Paixao"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jailton Paixao",
+      "timestamp_ms": 1766422424778,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3793217700567215729"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jailton Paixao",
+  "is_still_participant": true,
+  "thread_path": "inbox/jailtonpaixao_1928574761876042",
+  "magic_words": [
+    
+  ]
+}

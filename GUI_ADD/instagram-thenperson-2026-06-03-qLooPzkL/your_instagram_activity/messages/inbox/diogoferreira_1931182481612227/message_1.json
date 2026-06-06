@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Diogo Ferreira"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diogo Ferreira",
+      "timestamp_ms": 1767288796611,
+      "content": "Assim que eu chegar no local eu te mando\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767288214760,
+      "content": "Manda a localiza\u00c3\u00a7\u00c3\u00a3o a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767288207517,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767288206754,
+      "content": "31994459445",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diogo Ferreira",
+      "timestamp_ms": 1767288175812,
+      "content": "Vai pegar que dia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767287577717,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767287562171,
+      "content": "Exato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diogo Ferreira",
+      "timestamp_ms": 1767287454059,
+      "content": "Tarde vc quer dizer.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767286773855,
+      "content": "Da certo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1767286755794,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diogo Ferreira",
+      "timestamp_ms": 1767284330339,
+      "content": "Bora fechar o Xbox por 1000?",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3800489236076481507"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diogo Ferreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/diogoferreira_1931182481612227",
+  "magic_words": [
+    
+  ]
+}

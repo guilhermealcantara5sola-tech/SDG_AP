@@ -1,0 +1,240 @@
+{
+  "participants": [
+    {
+      "name": "Igor Eto"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779761861875,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777595602821,
+      "content": "\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1777594593304,
+      "content": "Valeu, amigo!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1777594588413,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777594000763,
+      "content": "V\u00c3\u00addeo nota 10",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Igor Eto"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775955172779,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3873314873455179577"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775923430300,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DW_yRA_iHV8/?id=3873035276184483196_412444437",
+        "share_text": "De quatro em quatro anos temos a chance de ter um futuro diferente.",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775851492532,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DW9aK3ijYlR/?id=3872366350648052049_1516518438",
+        "share_text": "A Ma\u00c3\u00a7onaria fazendo o socializa\u00c3\u00a7\u00c3\u00a3o em prol do HDG\u00f0\u009f\u0099\u008c",
+        "original_content_owner": "jgomesluz"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775699725713,
+      "content": "Pensei que seria bom pra meu p\u00c3\u00bablico te entender como pe\u00c3\u00a7a  chave tbm \u00f0\u009f\u009a\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1775692761769,
+      "content": "Vamos em frente! Vai dar certo!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1775692755054,
+      "content": "Fico at\u00c3\u00a9 emocionado!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1775692747772,
+      "content": "Poxa vida cara. Muito obrigado!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1775692737803,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775679096005,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Igor Eto"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774131833464,
+      "content": "Tirou meu sono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1774131808778,
+      "content": "N\u00c3\u00a3o \u00c3\u00a9 f\u00c3\u00a1cil n\u00c3\u00a3o meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774131120671,
+      "content": "850, \u00f0\u009f\u0098\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774131032763,
+      "content": "\u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772334134908,
+      "content": "Sempre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772333244693,
+      "content": "Aqui t\u00c3\u00a1 caindo um tor\u00c3\u00b3 agora, com certeza vai alagar novamente \u00f0\u009f\u0098\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1772333189448,
+      "content": "Representa a gente a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1772333179078,
+      "content": "Dessa vez n\u00c3\u00a3o deu certo meu amigo. Estou aqui priorizando os munic\u00c3\u00adpios da Zona da Mata por conta das chuvas.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772328527137,
+      "content": "Achei que vc vinha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1772328526631,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3842815331542801382"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Eto",
+      "timestamp_ms": 1769022026953,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769015801449,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Igor Eto"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3815103360223688614"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Igor Eto",
+  "is_still_participant": true,
+  "thread_path": "inbox/igoreto_1942063050528425",
+  "magic_words": [
+    
+  ]
+}

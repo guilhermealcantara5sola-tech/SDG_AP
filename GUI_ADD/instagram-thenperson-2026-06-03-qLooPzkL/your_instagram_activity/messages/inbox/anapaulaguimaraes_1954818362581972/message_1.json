@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Ana paula Guimar\u00c3\u00a3es"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ana paula Guimar\u00c3\u00a3es",
+      "timestamp_ms": 1769631474555,
+      "content": "Vou comprar obrigada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769631465155,
+      "content": "Muito bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769631461764,
+      "content": "https://www.instagram.com/verdego.emporio?igsh=eGJsODBtN2x4cGM0",
+      "share": {
+        "link": "https://www.instagram.com/_u/verdego.emporio",
+        "profile_share_username": "verdego.emporio",
+        "profile_share_name": "Verde GO | Emp\u00c3\u00b3rio Natural"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana paula Guimar\u00c3\u00a3es",
+      "timestamp_ms": 1769631300163,
+      "content": "Onde eu encontro",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3820117728560712714"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ana paula Guimar\u00c3\u00a3es",
+  "is_still_participant": true,
+  "thread_path": "inbox/anapaulaguimaraes_1954818362581972",
+  "magic_words": [
+    
+  ]
+}

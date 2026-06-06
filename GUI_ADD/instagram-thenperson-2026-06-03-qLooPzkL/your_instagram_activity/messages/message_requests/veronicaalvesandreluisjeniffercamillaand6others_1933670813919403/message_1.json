@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Thenperson Oriebir"
+    },
+    {
+      "name": "Ver\u00c3\u00b4nica Alves"
+    },
+    {
+      "name": "Andr\u00c3\u00a9 Luis"
+    },
+    {
+      "name": "Jeniffer Camilla"
+    },
+    {
+      "name": "Anna"
+    },
+    {
+      "name": "S\u00c3\u00a1vio Miranda Cardoso"
+    },
+    {
+      "name": "Maira Saraiva"
+    },
+    {
+      "name": "Matheus Silva"
+    },
+    {
+      "name": "Camila Campos"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vitor Moraes",
+      "timestamp_ms": 1774902650567,
+      "content": "Vitor Moraes left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1774821383285,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1774821382984,
+      "content": "Ol\u00c3\u00a1, sou o agente geral da PG Gaming Group em S\u00c3\u00a3o Paulo. Estamos contratando para a PG Gaming. Sal\u00c3\u00a1rio di\u00c3\u00a1rio: de 1.000 a 2.000 reais. Se tiver interesse, entre em contato clicando no bot\u00c3\u00a3o abaixo (esta conta \u00c3\u00a9 apenas para fins publicit\u00c3\u00a1rios e n\u00c3\u00a3o responderei a nenhuma mensagem). WhatsApp\u00ef\u00bc\u009a+18702644426",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1774821381411,
+      "content": "A contact created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ver\u00c3\u00b4nica Alves, Andr\u00c3\u00a9 Luis, Jeniffer Camilla and 6 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/veronicaalvesandreluisjeniffercamillaand6others_1933670813919403",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbaxabUHPODhZupg/"
+  },
+  "is_pending": true
+}

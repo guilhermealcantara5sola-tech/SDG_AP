@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Raphael Borges"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raphael Borges",
+      "timestamp_ms": 1755201109216,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755197367465,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3699185946491593563"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raphael Borges",
+  "is_still_participant": true,
+  "thread_path": "inbox/raphaelborges_1800603791336764",
+  "magic_words": [
+    
+  ]
+}

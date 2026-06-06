@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Valdi\u00c3\u00a9lia Costa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Valdi\u00c3\u00a9lia Costa",
+      "timestamp_ms": 1777245034520,
+      "content": "Que bacana, sabia n\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777242643248,
+      "content": "Sabia ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1777242622566,
+      "content": "Meu primo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valdi\u00c3\u00a9lia Costa",
+      "timestamp_ms": 1777240737239,
+      "content": "Helder Roger , a\u00c3\u00ad gosta de uma pol\u00c3\u00adtica kkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3884080164623629042"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Valdi\u00c3\u00a9lia Costa",
+  "is_still_participant": true,
+  "thread_path": "inbox/valdieliacosta_1878394656898220",
+  "magic_words": [
+    
+  ]
+}

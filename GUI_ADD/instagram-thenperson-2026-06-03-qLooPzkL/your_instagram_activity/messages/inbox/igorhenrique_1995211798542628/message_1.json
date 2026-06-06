@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Igor Henrique"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Igor Henrique",
+      "timestamp_ms": 1779914634038,
+      "content": "Vai agora de noite pra n\u00c3\u00a3o ficar com o dia perdido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Henrique",
+      "timestamp_ms": 1779914624834,
+      "content": "Uai mo\u00c3\u00a7o kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Henrique",
+      "timestamp_ms": 1779914619162,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779903467335,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/igorhenrique_1995211798542628/audio/2034699660800290.mp4",
+          "creation_timestamp": 1779903463
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Igor Henrique"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1779903442585,
+      "content": "Uai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1773426202183,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3852100359833574115"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Henrique",
+      "timestamp_ms": 1773425627259,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Igor Henrique",
+  "is_still_participant": true,
+  "thread_path": "inbox/igorhenrique_1995211798542628",
+  "magic_words": [
+    
+  ]
+}

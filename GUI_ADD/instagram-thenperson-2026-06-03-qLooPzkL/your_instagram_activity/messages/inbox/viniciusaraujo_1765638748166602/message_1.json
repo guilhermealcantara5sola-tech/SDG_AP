@@ -1,0 +1,549 @@
+{
+  "participants": [
+    {
+      "name": "V I N I C I U S  A R A \u00c3\u009a J O"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1776002452291,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1775998380254,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "V I N I C I U S  A R A \u00c3\u009a J O"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774547590769,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3861506749211664743",
+        "original_content_owner": "thenperson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1774544404538,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/1421505165914660.mp4",
+          "creation_timestamp": 1774544401
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774543312187,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/4410395855901742.mp4",
+          "creation_timestamp": 1774543308
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1774542723455,
+      "content": "Fala meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1774542084602,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1774539535388,
+      "content": "Eu mesmo n\u00c3\u00a3o posso postar pois sou funcion\u00c3\u00a1rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1774539525411,
+      "content": "Mas s\u00c3\u00b3 me manda aqui, vou v\u00c3\u00aa se monto uma mat\u00c3\u00a9ria jornal\u00c3\u00adstica para a p\u00c3\u00a1gina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1771207052560,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769104931724,
+      "content": "E depois das 18",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769104926601,
+      "content": "De agora at\u00c3\u00a9 16",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769104074800,
+      "content": "Que horas conseguimos encontrar a\u00c3\u00ad hoje ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769104048452,
+      "content": "Fala meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769092172661,
+      "content": "Mas vamos deixar mais certo pra amanh\u00c3\u00a3 mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769092164272,
+      "content": "Vou v\u00c3\u00aa aqui e te falo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769090804865,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/1954321991832940.mp4",
+          "creation_timestamp": 1769090801
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769090745598,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/892472943373673.mp4",
+          "creation_timestamp": 1769090742
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769090358620,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/1164518465491011.mp4",
+          "creation_timestamp": 1769090354
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769090344620,
+      "content": "Tentei marcar para amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769089047449,
+      "content": "Blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769088975002,
+      "content": "Deixa eu confirmar aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769088862412,
+      "content": "E vc vem mesmo aqui na cidade hoje ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769088849495,
+      "content": "Agora deu certo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769088229722,
+      "content": "https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ",
+      "share": {
+        "link": "https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ",
+        "share_text": "https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769088188886,
+      "content": "N\u00c3\u00a3o estou conseguindo abrir o link",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769088173745,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769088116052,
+      "content": "E a\u00c3\u00ad meu irm\u00c3\u00a3o, como t\u00c3\u00a1 ? \n\n\nDurante anos, decidiram o Vale de fora pra dentro.\nAgora, \u00c3\u00a9 a nossa vez.\n\nEstou criando uma lista de transmiss\u00c3\u00a3o pra reunir pessoas que acreditam que o Vale pode ser melhor representado.\n\nPor l\u00c3\u00a1 eu compartilho conte\u00c3\u00bados postados no Instagram.\nE quando voc\u00c3\u00aa curte, comenta ou compartilha, essa ideia ganha for\u00c3\u00a7a e chega onde nunca chegou antes.\n\nQuem sabe, assim, a gente n\u00c3\u00a3o come\u00c3\u00a7a a mudar a hist\u00c3\u00b3ria do lugar onde a gente mora?\n\n\n\nAcesse este link para entrar na nossa comunidade do WhatsApp: https://chat.whatsapp.com/F9W2DqZIamyKvwv50P95IQ",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "V I N I C I U S  A R A \u00c3\u009a J O"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769018517478,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769018109258,
+      "content": "Tem boa influ\u00c3\u00aancia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769018103872,
+      "content": "Ele foi secret\u00c3\u00a1rio de governo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769018095731,
+      "content": "Alguma opini\u00c3\u00a3o sobre ele ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769018095561,
+      "content": "Show",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769018075211,
+      "content": "\u00c3\u0089 sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769017614791,
+      "content": "Sua dobradinha ser\u00c3\u00a1 com o Igor eto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769017254892,
+      "content": "Pois \u00c3\u00a9, ajuda bastante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769015490481,
+      "content": "Bora jogar vc na m\u00c3\u00addia tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769015378797,
+      "content": "A m\u00c3\u00a9dia aqui para ter mais de 100 votos foi investir mais de 20 mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769015362431,
+      "content": "Gastei 3 mil e tive 130 votos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769015353790,
+      "content": "Sim, pretendo tentar, pois minha m\u00c3\u00a9dia somado ao valor gasto na campanha foi muito bom",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769012861303,
+      "content": "Deixa te perguntar? Vc vai disputar novamente em 2028 n\u00c3\u00a9 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769012251511,
+      "content": "Ok, a gente encontra aqui ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769011495982,
+      "content": "Vou trocar uma ideia com Roberto Botelho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769011486694,
+      "content": "Amanh\u00c3\u00a3 devo ir em jequi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769011480250,
+      "content": "Boraaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769011436086,
+      "content": "Vamos encontrar para alinhar aquela quest\u00c3\u00a3o pol\u00c3\u00adtica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1769010921465,
+      "content": "Bom dia meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769010753147,
+      "content": "Bom dia!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1769010748719,
+      "content": "Fala meu amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1752265896245,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/1280407156975135.mp4",
+          "creation_timestamp": 1752265893
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752265052654,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/709536652000823.mp4",
+          "creation_timestamp": 1752265048
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1752261200694,
+      "content": "Passei na loja, mas voc\u00c3\u00aa estava no ar com o\nPodcast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1752261187754,
+      "content": "Fala meu parceiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1752149607670,
+      "content": "Ah sim, tranquilo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752149483945,
+      "content": "\u00f0\u009f\u0098\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752149466192,
+      "content": "S\u00c3\u00b3 acess\u00c3\u00b3rios e cells novos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1752149457900,
+      "content": "Bateria n tenho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1752148952260,
+      "content": "Qual WhatsApp da sua loja ? Estou precisando de uma mat\u00c3\u00a9ria de iPhone 12, sabe se tem dispon\u00c3\u00advel?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1752148926692,
+      "content": "Bom dia parceiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1751836572255,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751812130936,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "V I N I C I U S  A R A \u00c3\u009a J O"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751812046360,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/1245080993230367.mp4",
+          "creation_timestamp": 1751812042
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "V I N I C I U S  A R A \u00c3\u009a J O",
+      "timestamp_ms": 1751811709848,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/1038962814886761.mp4",
+          "creation_timestamp": 1751811707
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1751811131267,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/viniciusaraujo_1765638748166602/audio/1052496517000162.mp4",
+          "creation_timestamp": 1751811127
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "V I N I C I U S  A R A \u00c3\u009a J O",
+  "is_still_participant": true,
+  "thread_path": "inbox/viniciusaraujo_1765638748166602",
+  "magic_words": [
+    
+  ]
+}

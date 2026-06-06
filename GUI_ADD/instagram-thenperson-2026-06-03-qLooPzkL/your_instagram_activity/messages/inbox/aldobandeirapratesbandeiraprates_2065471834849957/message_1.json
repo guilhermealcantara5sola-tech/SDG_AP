@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Aldo Bandeira Prates Bandeira Prates"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1778975895494,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3898654775996160644"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aldo Bandeira Prates Bandeira Prates",
+  "is_still_participant": true,
+  "thread_path": "inbox/aldobandeirapratesbandeiraprates_2065471834849957",
+  "magic_words": [
+    
+  ]
+}

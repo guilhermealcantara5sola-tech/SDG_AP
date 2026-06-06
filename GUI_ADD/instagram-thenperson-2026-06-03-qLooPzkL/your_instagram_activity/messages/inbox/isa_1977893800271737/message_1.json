@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Isa"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isa",
+      "timestamp_ms": 1780354004676,
+      "content": "Covardia\u00f0\u009f\u0098\u00ae\u00e2\u0080\u008d\u00f0\u009f\u0092\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isa",
+      "timestamp_ms": 1780170422181,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Thenperson Oriebir"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3908656345306598345"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Isa",
+  "is_still_participant": true,
+  "thread_path": "inbox/isa_1977893800271737",
+  "magic_words": [
+    
+  ]
+}

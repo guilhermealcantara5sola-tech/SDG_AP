@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "ATELI\u00c3\u008a DA LUTA/ALMENARA"
+    },
+    {
+      "name": "Thenperson Oriebir"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ATELI\u00c3\u008a DA LUTA/ALMENARA",
+      "timestamp_ms": 1758709322043,
+      "content": "Audio call ended",
+      "call_duration": 15,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ATELI\u00c3\u008a DA LUTA/ALMENARA",
+      "timestamp_ms": 1758709294920,
+      "content": "atelie.almenara started an audio call",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758706606813,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3728623306749283998"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ATELI\u00c3\u008a DA LUTA/ALMENARA",
+      "timestamp_ms": 1758706369687,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1758706178368,
+      "content": "Marca novamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ATELI\u00c3\u008a DA LUTA/ALMENARA",
+      "timestamp_ms": 1758671625773,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thenperson Oriebir",
+      "timestamp_ms": 1755635653418,
+      "share": {
+        "link": "https://www.instagram.com/stories/thenperson/3702862666365953718"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ATELI\u00c3\u008a DA LUTA/ALMENARA",
+      "timestamp_ms": 1755635546059,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ATELI\u00c3\u008a DA LUTA/ALMENARA",
+  "is_still_participant": true,
+  "thread_path": "inbox/ateliedalutaalmenara_1805229830874160",
+  "magic_words": [
+    
+  ]
+}
