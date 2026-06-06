@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Instagram Export (Large files and private data)
+GUI_ADD/instagram-*/
+GUI_ADD/instagram-thenperson-*/
+
+# Python and Instagram Bot Session Configs
+**/__pycache__/
+**/*.pyc
+**/session_*.json
+**/last_config.json
+
